@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Variables and assignment - Template Course</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../future-proof-with-python-april-2022.html">Future proof with python april 2022</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/community-orientation-april-25-2022.html"><strong aria-hidden="true">1.</strong> Community orientation april 25 2022</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions.html"><strong aria-hidden="true">2.</strong> Final project instructions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions/final-project-inspiration.html"><strong aria-hidden="true">2.1.</strong> Final project inspiration</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo.html"><strong aria-hidden="true">3.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-1-lesson-topics-and-navigation.html"><strong aria-hidden="true">3.1.</strong> Lesson topics and navigation</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-2-intro-to-programming-in-python.html"><strong aria-hidden="true">3.2.</strong> Intro to programming in python</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-3-sign-up-for-replit.html"><strong aria-hidden="true">3.3.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-4-replit-assignments.html"><strong aria-hidden="true">3.4.</strong> Replit assignments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-5-the-debugging-mindset.html"><strong aria-hidden="true">3.5.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lesson-0-learning-with-kibo/wrap-up.html"><strong aria-hidden="true">3.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">4.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data.html"><strong aria-hidden="true">5.</strong> Working with data</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-1-program-overview.html"><strong aria-hidden="true">5.1.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-2-programs-and-comments.html"><strong aria-hidden="true">5.2.</strong> Programs and comments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-3-variables-and-assignment.html" class="active"><strong aria-hidden="true">5.3.</strong> Variables and assignment</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-4-data-types-operators-and-expressions.html"><strong aria-hidden="true">5.4.</strong> Data types operators and expressions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-5-input-and-output.html"><strong aria-hidden="true">5.5.</strong> Input and output</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-6-string-concatenation-and-f-strings.html"><strong aria-hidden="true">5.6.</strong> String concatenation and f strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/practice.html"><strong aria-hidden="true">5.7.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/project.html"><strong aria-hidden="true">5.8.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-1-working-with-data/wrap-up.html"><strong aria-hidden="true">5.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals.html"><strong aria-hidden="true">6.</strong> Conditionals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/1-7-split-strings.html"><strong aria-hidden="true">6.1.</strong> Split strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/2-1-simple-decisions.html"><strong aria-hidden="true">6.2.</strong> Simple decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/2-2-multi-way-decisions.html"><strong aria-hidden="true">6.3.</strong> Multi way decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/bonus.html"><strong aria-hidden="true">6.4.</strong> Bonus</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/practice-conditionals.html"><strong aria-hidden="true">6.5.</strong> Practice conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/project.html"><strong aria-hidden="true">6.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-2-conditionals/wrap-up.html"><strong aria-hidden="true">6.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops.html"><strong aria-hidden="true">7.</strong> Loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/3-1-while-loops.html"><strong aria-hidden="true">7.1.</strong> While loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/3-2-for-loops.html"><strong aria-hidden="true">7.2.</strong> For loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/3-3-range-function.html"><strong aria-hidden="true">7.3.</strong> Range function</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/practice-loops-and-conditionals.html"><strong aria-hidden="true">7.4.</strong> Practice loops and conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/project.html"><strong aria-hidden="true">7.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-3-loops/wrap-up.html"><strong aria-hidden="true">7.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops.html"><strong aria-hidden="true">8.</strong> Lists and loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/4-1-list-basics.html"><strong aria-hidden="true">8.1.</strong> List basics</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/4-2-loop-patterns.html"><strong aria-hidden="true">8.2.</strong> Loop patterns</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/4-3-debugging-loops-and-lists.html"><strong aria-hidden="true">8.3.</strong> Debugging loops and lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/practice-lists-and-loops.html"><strong aria-hidden="true">8.4.</strong> Practice lists and loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/practice-lists.html"><strong aria-hidden="true">8.5.</strong> Practice lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/project.html"><strong aria-hidden="true">8.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/week-4-lists-and-loops/wrap-up.html"><strong aria-hidden="true">8.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/wrapping-up-final-steps-for-fpwp5.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for fpwp5</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Template Course</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="13-variables-and-assignment"><a class="header" href="#13-variables-and-assignment">1.3. Variables and Assignment</a></h1>
+<p><em>Estimated Time: 15 minutes</em></p>
+<hr />
+<h2 id="what-you-need-to-know-about-variables"><a class="header" href="#what-you-need-to-know-about-variables">What you need to know about variables</a></h2>
+<ul>
+<li>A Variable is a name you give to data, so you can use it later in the program</li>
+<li>You assign a variable with <code>=</code></li>
+<li>There are lots names you can use for variables, but there are some rules</li>
+<li>Using meaningful variable names makes your program better</li>
+</ul>
+<h2 id="video-what-are-variables"><a class="header" href="#video-what-are-variables">Video: What are variables?</a></h2>
+<aside>
+<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about variables.
+</aside>
+<p><a href="https://www.youtube.com/watch?v=ZDjxKGNfJKo">https://www.youtube.com/watch?v=ZDjxKGNfJKo</a></p>
+<h2 id="video-notes"><a class="header" href="#video-notes">Video Notes</a></h2>
+<ul>
+<li>Working with variables and data is a core part of learning programming</li>
+<li>A <strong>Variable</strong> is a named place in memory. We can use it to store data and manipulate it, using its name.</li>
+<li>An <strong>assignment statement</strong> assigns some value (on the right-hand side) to the variable name on the left-hand side. Technically this means putting this value in memory and point to it using that variable name.</li>
+</ul>
+<h2 id="video-variable-names"><a class="header" href="#video-variable-names">Video: Variable Names</a></h2>
+<aside>
+<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about variable naming rules
+</aside>
+<p><a href="https://www.youtube.com/watch?v=csYYlAITTzU">https://www.youtube.com/watch?v=csYYlAITTzU</a></p>
+<h3 id="video-notes-1"><a class="header" href="#video-notes-1">Video Notes</a></h3>
+<ul>
+<li>Variable names in Python must follow some rules:
+<ul>
+<li>We cannot use r<strong>eserved words for</strong> variables names**.** Reserved words include words like <code>if</code>, <code>for,</code> <code>return</code>, which have specific meanings in Python</li>
+<li>Names can start with letters or underscores, and can only contain letters, numbers, and underscores. They can’t have spaces.</li>
+</ul>
+</li>
+<li>Variable names are case-sensitive. That means <code>shop</code> and <code>Shop</code> can refer to different values.</li>
+</ul>
+<h3 id="good-and-bad-variable-names"><a class="header" href="#good-and-bad-variable-names">Good and Bad Variable Names</a></h3>
+<p>Good variable naming is important! Variable names should be descriptive and help a human reader to understand the code. </p>
+<p>For example, take a look at the code below:</p>
+<pre><code class="language-python">x1q3z9ocd = 35.0
+x1q3z9afd = 12.50
+x1q3p9afd = x1q3z9ocd * x1q3z9afd
+print(x1q3p9afd) # 437.5
+</code></pre>
+<p>The variable names above are allowed in Python, but they are <strong>not helpful</strong>.</p>
+<p><strong>Contrast with:</strong></p>
+<pre><code class="language-python">hours = 35.0
+pay_rate = 12.50
+pay = hours * pay_rate
+print(pay) # 437.5
+</code></pre>
+<p>These variable names are descriptive and helpful! </p>
+<h2 id="practice-assigning-and-printing-variables"><a class="header" href="#practice-assigning-and-printing-variables">Practice: Assigning and printing variables</a></h2>
+<aside>
+👩🏿‍💻 Let's practice assigning values to variables and printing variables. Read the code below, and make the changes requested in the comments.
+</aside>
+<p><a href="https://replit.com/team/kibo-fpwp5/Variables-and-Assignment-Practice">https://replit.com/team/kibo-fpwp5/Variables-and-Assignment-Practice</a></p>
+<aside>
+📌 When your code runs, the output should look like this
+<p><img src="/future-proof-with-python-april-2022/lesson-0-learning-with-kibo/0-1-lesson-topics-and-navigation/untitled.png" alt="1%203%20Variables%20and%20Assignment%207a30aa1380874207a16f80c2e997197d/Untitled.png" /></p>
+</aside>
+<ul>
+<li>
+<p><strong>Solution</strong> (try for 5 minutes before looking!)</p>
+<pre><code class="language-python">books_read = 13
+print(books_read)
+
+meals_eaten = 4
+meals_eaten = meals_eaten + 1
+print(meals_eaten)
+</code></pre>
+</li>
+</ul>
+<aside>
+<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Data Types, Operators, and Expressions](/future-proof-with-python-april-2022/week-1-working-with-data/1-4-data-types-operators-and-expressions.md)
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-2-programs-and-comments.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-4-data-types-operators-and-expressions.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-2-programs-and-comments.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../future-proof-with-python-april-2022/week-1-working-with-data/1-4-data-types-operators-and-expressions.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
