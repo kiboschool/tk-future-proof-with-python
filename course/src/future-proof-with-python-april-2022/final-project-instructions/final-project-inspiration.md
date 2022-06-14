@@ -28,6 +28,8 @@ Use a list to store the questions in your code.
 Instead of having the questions fixed in code, use a web-based API like [Open Trivia](https://opentdb.com/api_config.php) to fetch questions and answers for the game. To use the API, select the options you want (e.g., category, difficulty, type) then click “Generate API URL.” This will give you a link like [this](https://opentdb.com/api.php?amount=10&category=18&difficulty=medium&type=multiple) where you can fetch questions and answers.  
 
 <aside>
+
+
 💡 You'll have to do some research to figure out how to get external data. One starting point might be the documentation for the [requests library](https://docs.python-requests.org/en/master/).
 
 </aside>
@@ -45,6 +47,8 @@ Design a text-based adventure game that involves writing prompts, then using con
 See [this article](https://www.makeuseof.com/tag/5-great-text-games-play-online/) for some examples of text-based adventure games, or try playing [The Dreamhold](https://eblong.com/zarf/zweb/dreamhold/), or [Zork](http://textadventures.co.uk/games/play/5zyoqrsugeopel3ffhz_vq).
 
 <aside>
+
+
 💡 A list might not be enough for storing the data you need. You might try using a *dictionary* - another kind of Python data structure, that stores keys and values. You can read the [documentation for dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) to get started.
 
 </aside>
@@ -89,6 +93,6 @@ Here are examples of past student projects, showing what kind of project you can
 
 [https://www.youtube.com/watch?v=ex_NobE_O0U&t=1s](https://www.youtube.com/watch?v=ex_NobE_O0U&t=1s)
 
-[https://www.loom.com/share/236027d8923a445995c635574dc7c7ff](https://www.loom.com/share/236027d8923a445995c635574dc7c7ff)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/236027d8923a445995c635574dc7c7ff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-[https://www.loom.com/share/5fa4d026457144d9a713756a42926ab4](https://www.loom.com/share/5fa4d026457144d9a713756a42926ab4)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5fa4d026457144d9a713756a42926ab4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

@@ -1,0 +1,287 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Multi way decisions - Future Proof With Python - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../future-proof-with-python-april-2022.html">Welcome!</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/community-orientation-april-25-2022.html"><strong aria-hidden="true">1.</strong> Community orientation april 25 2022</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals.html"><strong aria-hidden="true">2.</strong> Conditionals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/bonus.html"><strong aria-hidden="true">2.1.</strong> Bonus</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/multi-way-decisions.html" class="active"><strong aria-hidden="true">2.2.</strong> Multi way decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/practice-conditionals.html"><strong aria-hidden="true">2.3.</strong> Practice conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/project.html"><strong aria-hidden="true">2.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/simple-decisions.html"><strong aria-hidden="true">2.5.</strong> Simple decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/split-strings.html"><strong aria-hidden="true">2.6.</strong> Split strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/wrap-up.html"><strong aria-hidden="true">2.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions/final-project-inspiration.html"><strong aria-hidden="true">3.1.</strong> Final project inspiration</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo.html"><strong aria-hidden="true">4.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/intro-to-programming-in-python.html"><strong aria-hidden="true">4.1.</strong> Intro to programming in python</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">4.2.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/replit-assignments.html"><strong aria-hidden="true">4.3.</strong> Replit assignments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">4.4.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">4.5.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">4.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops.html"><strong aria-hidden="true">5.</strong> Lists and loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/debugging-loops-and-lists.html"><strong aria-hidden="true">5.1.</strong> Debugging loops and lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/list-basics.html"><strong aria-hidden="true">5.2.</strong> List basics</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/loop-patterns.html"><strong aria-hidden="true">5.3.</strong> Loop patterns</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/practice-lists-and-loops.html"><strong aria-hidden="true">5.4.</strong> Practice lists and loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/practice-lists.html"><strong aria-hidden="true">5.5.</strong> Practice lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/project.html"><strong aria-hidden="true">5.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops.html"><strong aria-hidden="true">6.</strong> Loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/for-loops.html"><strong aria-hidden="true">6.1.</strong> For loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/practice-loops-and-conditionals.html"><strong aria-hidden="true">6.2.</strong> Practice loops and conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/project.html"><strong aria-hidden="true">6.3.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/range-function.html"><strong aria-hidden="true">6.4.</strong> Range function</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/while-loops.html"><strong aria-hidden="true">6.5.</strong> While loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/wrap-up.html"><strong aria-hidden="true">6.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data.html"><strong aria-hidden="true">8.</strong> Working with data</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/data-types-operators-and-expressions.html"><strong aria-hidden="true">8.1.</strong> Data types operators and expressions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/input-and-output.html"><strong aria-hidden="true">8.2.</strong> Input and output</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/practice.html"><strong aria-hidden="true">8.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/program-overview.html"><strong aria-hidden="true">8.4.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/programs-and-comments.html"><strong aria-hidden="true">8.5.</strong> Programs and comments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/project.html"><strong aria-hidden="true">8.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/string-concatenation-and-f-strings.html"><strong aria-hidden="true">8.7.</strong> String concatenation and f strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/variables-and-assignment.html"><strong aria-hidden="true">8.8.</strong> Variables and assignment</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/wrapping-up-final-steps-for-fpwp5.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for fpwp5</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Future Proof With Python - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="multi-way-decisions"><a class="header" href="#multi-way-decisions">Multi way decisions</a></h1>
+<p><em>Estimated Time: 40 minutes</em></p>
+<hr />
+<p>In this section, we will explore writing conditional statements when there are more than two possible outcomes.</p>
+<h3 id="if-elif-statements"><a class="header" href="#if-elif-statements">If-elif statements</a></h3>
+<p><code>if</code> and <code>else</code> let us express conditions with two possible outcomes. But what if there are more than two possibilities we want to express in our program? <code>elif</code> stands for &quot;else if&quot;. It lets us check more conditions, so we can cover as many conditions as we want.</p>
+<p>Below is the flow control diagram for a multi-branch program:</p>
+<p><img src="/future-proof-with-python-april-2022/learning-with-kibo/lesson-topics-and-navigation/untitled.png" alt="2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled.png" /></p>
+<p>Here is the corresponding Python code:</p>
+<pre><code class="language-python">if x &lt; y:
+    print('x is less than y')
+elif x &gt; y:
+    print('x is greater than y')
+else:
+    print('x and y are equal')
+</code></pre>
+<p>The code runs line by line. So, the conditions are checked <em>in the order the code is written.</em> The code does not look ahead. So, in the example above, assuming x = 3 and y = 3, the code will do 2 comparisons:</p>
+<ul>
+<li>Check if x is less than y. Since x = 3 and y = 3 this statement is false, and it keeps going</li>
+<li>Check if x is greater than y. Since x = 3 and y = 3, this statement is false</li>
+<li>Execute the else statement and print 'x and y are equal'</li>
+</ul>
+<p>But with x = 4 and y = 6, the code will run the first comparison, print <code>'x is less than y'</code> and finish. It will never even run the second check!</p>
+<p>There is no limit on the number of <code>elif</code> statements that can be added, but the code will evaluate them from top to bottom. Having an <code>else</code> statement is optional, but if you have one, it has to be at the end.</p>
+<h2 id="practice"><a class="header" href="#practice">Practice</a></h2>
+<aside>
+<p>👩🏿‍💻  Let's get back to the party. Modify the code to account for whether or not there is free food.</p>
+</aside>
+<p><img src="/future-proof-with-python-april-2022/conditionals/simple-decisions/screen-shot-2021-07-27-at-3.10.10-pm.png" alt="2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Screen_Shot_2021-07-27_at_3.10.10_PM.png" /></p>
+<p>Sample runs of the code now look like this:</p>
+<p><img src="/future-proof-with-python-april-2022/conditionals/simple-decisions/untitled-1.png" alt="2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%201.png" /></p>
+<p><img src="/future-proof-with-python-april-2022/conditionals/simple-decisions/untitled-2.png" alt="2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%202.png" /></p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W23-Free-Food" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<h2 id="combining-conditions-with-and-and-or"><a class="header" href="#combining-conditions-with-and-and-or">Combining Conditions with <code>and</code> and <code>or</code></a></h2>
+<p>To check more than one thing, you can combine conditions with <code>and</code> or <code>or</code>.</p>
+<pre><code class="language-python">if x &gt; 10 and x &lt; 100:
+	print(&quot;x is a medium sized number&quot;)
+elif x &lt; 10 or x &gt; 100:
+	print(&quot;x is either small or large&quot;)
+else:
+	print(&quot;x is exactly 10 or 100&quot;)
+</code></pre>
+<p>They work basically like they do when you use them in English:</p>
+<ul>
+<li><code>and</code> is <code>True</code> if both the left and the right side are true, <code>False</code> if either is false</li>
+<li><code>or</code> is <code>True</code> if either the left or the right side are true, <code>False</code> if both are false</li>
+</ul>
+<table><thead><tr><th>left side</th><th>right side</th><th>and</th></tr></thead><tbody>
+<tr><td>True</td><td>True</td><td>True</td></tr>
+<tr><td>True</td><td>False</td><td>False</td></tr>
+<tr><td>False</td><td>True</td><td>False</td></tr>
+<tr><td>False</td><td>False</td><td>False</td></tr>
+</tbody></table>
+<table><thead><tr><th>left side</th><th>right side</th><th>or</th></tr></thead><tbody>
+<tr><td>True</td><td>True</td><td>True</td></tr>
+<tr><td>True</td><td>False</td><td>True</td></tr>
+<tr><td>False</td><td>True</td><td>True</td></tr>
+<tr><td>False</td><td>False</td><td>False</td></tr>
+</tbody></table>
+<p><strong>Note:</strong> Python’s <code>or</code> results in <code>True</code> if either <strong>the left, the right, or both</strong> are <code>True</code>. This is somewhat different from how we speak. Sometimes in English, “or” means one or the other, but not both. That’s sometimes called the “exclusive or” or ‘xor’, but it doesn’t have a Python keyword.</p>
+<h2 id="not"><a class="header" href="#not">Not</a></h2>
+<p>Python can turn a boolean into its opposite with <code>not</code>.</p>
+<pre><code class="language-python">not True # False
+not False # True
+not 100 &gt; 10 # False
+not 100 &lt; 10 # True
+
+if not response == &quot;It's awkward&quot;:
+	print(&quot;Stay and par-tay!&quot;)
+</code></pre>
+<p>Sometimes it’s useful to be able to express the opposite of a condition.</p>
+<pre><code class="language-python">response = int(input(&quot;Enter a big number: &quot;))
+if not response &gt; 100:
+	print(&quot;That's not a big enough number!&quot;)
+</code></pre>
+<p>If the input is not greater than 100, it will print output to tell the user that their number isn’t big enough.</p>
+<aside>
+<p>🤔 How else could you write this snippet?</p>
+<ul>
+<li>
+<p>Solution</p>
+<p>You could express the same thing with <code>&lt;=</code>. 
+<code>response &lt;= 100</code> is equivalent to <code>not response &gt; 100</code></p>
+</li>
+</ul>
+</aside>
+<p><code>not</code> can be combined with other conditions, like <code>and</code> and <code>or</code>. It’s often useful to group expressions with parentheses when making combinations.</p>
+<pre><code class="language-python">if not (x &lt; 10 or x &gt; 100):
+	print(&quot;x is a medium sized number&quot;)
+</code></pre>
+<aside>
+<p><img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: <a href="/future-proof-with-python-april-2022/conditionals/practice-conditionals.html">Practice Conditionals</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../future-proof-with-python-april-2022/conditionals/bonus.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../future-proof-with-python-april-2022/conditionals/practice-conditionals.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../future-proof-with-python-april-2022/conditionals/bonus.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../future-proof-with-python-april-2022/conditionals/practice-conditionals.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

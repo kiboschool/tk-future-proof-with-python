@@ -1,0 +1,361 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>List basics - Future Proof With Python - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../future-proof-with-python-april-2022.html">Welcome!</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/community-orientation-april-25-2022.html"><strong aria-hidden="true">1.</strong> Community orientation april 25 2022</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals.html"><strong aria-hidden="true">2.</strong> Conditionals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/bonus.html"><strong aria-hidden="true">2.1.</strong> Bonus</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/multi-way-decisions.html"><strong aria-hidden="true">2.2.</strong> Multi way decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/practice-conditionals.html"><strong aria-hidden="true">2.3.</strong> Practice conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/project.html"><strong aria-hidden="true">2.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/simple-decisions.html"><strong aria-hidden="true">2.5.</strong> Simple decisions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/split-strings.html"><strong aria-hidden="true">2.6.</strong> Split strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/conditionals/wrap-up.html"><strong aria-hidden="true">2.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/final-project-instructions/final-project-inspiration.html"><strong aria-hidden="true">3.1.</strong> Final project inspiration</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo.html"><strong aria-hidden="true">4.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/intro-to-programming-in-python.html"><strong aria-hidden="true">4.1.</strong> Intro to programming in python</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">4.2.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/replit-assignments.html"><strong aria-hidden="true">4.3.</strong> Replit assignments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">4.4.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">4.5.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">4.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops.html"><strong aria-hidden="true">5.</strong> Lists and loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/debugging-loops-and-lists.html"><strong aria-hidden="true">5.1.</strong> Debugging loops and lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/list-basics.html" class="active"><strong aria-hidden="true">5.2.</strong> List basics</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/loop-patterns.html"><strong aria-hidden="true">5.3.</strong> Loop patterns</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/practice-lists-and-loops.html"><strong aria-hidden="true">5.4.</strong> Practice lists and loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/practice-lists.html"><strong aria-hidden="true">5.5.</strong> Practice lists</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/project.html"><strong aria-hidden="true">5.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/lists-and-loops/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops.html"><strong aria-hidden="true">6.</strong> Loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/for-loops.html"><strong aria-hidden="true">6.1.</strong> For loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/practice-loops-and-conditionals.html"><strong aria-hidden="true">6.2.</strong> Practice loops and conditionals</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/project.html"><strong aria-hidden="true">6.3.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/range-function.html"><strong aria-hidden="true">6.4.</strong> Range function</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/while-loops.html"><strong aria-hidden="true">6.5.</strong> While loops</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/loops/wrap-up.html"><strong aria-hidden="true">6.6.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data.html"><strong aria-hidden="true">8.</strong> Working with data</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/data-types-operators-and-expressions.html"><strong aria-hidden="true">8.1.</strong> Data types operators and expressions</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/input-and-output.html"><strong aria-hidden="true">8.2.</strong> Input and output</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/practice.html"><strong aria-hidden="true">8.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/program-overview.html"><strong aria-hidden="true">8.4.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/programs-and-comments.html"><strong aria-hidden="true">8.5.</strong> Programs and comments</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/project.html"><strong aria-hidden="true">8.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/string-concatenation-and-f-strings.html"><strong aria-hidden="true">8.7.</strong> String concatenation and f strings</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/variables-and-assignment.html"><strong aria-hidden="true">8.8.</strong> Variables and assignment</a></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/working-with-data/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../future-proof-with-python-april-2022/wrapping-up-final-steps-for-fpwp5.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for fpwp5</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Future Proof With Python - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="list-basics"><a class="header" href="#list-basics">List basics</a></h1>
+<p><em>Estimated Time: 1 hour</em></p>
+<hr />
+<h1 id="what-is-a-list"><a class="header" href="#what-is-a-list">What is a list?</a></h1>
+<p>In your life, you’ve come across all kinds of lists - grocery lists, todo lists, the attendance roll at school, the roster of your football team. Lists in Python are a way to represent many pieces of data, like you do on those lists. Instead of just one number, string, or boolean, a list can hold many pieces of data at once.</p>
+<p>When working with lists in your life, there are a few core actions you perform:</p>
+<ul>
+<li>Create a list</li>
+<li>Add something to the list</li>
+<li>Remove something from the list</li>
+<li>Change an item on the list</li>
+<li>Take some action for all of the items on the list</li>
+</ul>
+<p>In this lesson, we’ll cover the syntax for creating lists and updating lists, and performing these core actions.</p>
+<h2 id="list-syntax"><a class="header" href="#list-syntax">List Syntax</a></h2>
+<p>A list is a sequence of values. It’s written like this:</p>
+<pre><code class="language-python">[1,2,3]
+</code></pre>
+<p>The list is surrounded by square brackets, with <strong>elements</strong> separated by commas. The values inside a list are called ‘elements’ or ‘items’. You can assign lists to variables, just like you can with numbers and strings:</p>
+<pre><code class="language-python">my_list = [1,2,3]
+</code></pre>
+<p>Lists can be empty. An empty list looks like this: </p>
+<pre><code class="language-python">empty_list = []
+</code></pre>
+<p>Lists can contain any type of element, even other lists.</p>
+<p>Below are some examples of valid lists:</p>
+<pre><code class="language-python">countries = [&quot;Kenya&quot;, &quot;Ghana&quot;, &quot;Ethiopia&quot;, &quot;Zimbabwe&quot;]
+primes = [2, 3, 5, 7, 11]
+empty_list = []
+foods = [[&quot;apples&quot;, &quot;kiwis&quot;, &quot;bananas&quot;], [&quot;chorizo&quot;, &quot;steak&quot;, &quot;chicken nuggets&quot;], [&quot;ice cream&quot;, &quot;popcorn&quot;, &quot;chocolate bars&quot;]]
+different_types = [False, 1, &quot;string&quot;, []]
+</code></pre>
+<h2 id="the-list-data-type"><a class="header" href="#the-list-data-type">The <code>list</code> data type</a></h2>
+<p>Earlier, you learned the basic Python data types: String, Int, Float, Boolean. A List is another core data type in Python, but it’s different from the others you’ve learned so far.</p>
+<pre><code class="language-python">my_list = [1,2,3]
+type(my_list) # &lt;class 'list'&gt;
+</code></pre>
+<p>A list is a type of <strong>data structure</strong>.</p>
+<aside>
+<p>📗 A <strong>data structure</strong> is a way of storing and organizing data. Data structures are used in programming to organize and store data such that computers can efficiently perform operations on that data.</p>
+</aside>
+<p>Different data structures are useful for solving different kinds of problems in Python. The other most common built-in Python data structures are dictionaries, sets, and tuples. We’re going to focus on Lists, but as you grow in your Python skills, you’ll learn the uses of these other types.</p>
+<h3 id="list-indices"><a class="header" href="#list-indices">List indices</a></h3>
+<p>Each element of the list has a position, called an <strong>index</strong>. We can get an element from a list using the name of the list and its index in brackets. For example, given the list below:</p>
+<pre><code class="language-python">countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+</code></pre>
+<p>We can access the first list item using <code>countries[0]</code>, the second list item using <code>countries [1]</code>, and so on. </p>
+<pre><code class="language-python">countries[0] # &quot;Kenya&quot;
+countries[1] # &quot;Ghana&quot;
+</code></pre>
+<p>Remember that lists are <strong>indexed starting at 0</strong>. So the first item has position 0, the second item has position 1, and so on. This start-from-zero numbering is common to almost all programming languages.</p>
+<aside>
+<p>👉🏿 <strong>Why do list indices start at 0?</strong>
+You can think of a list index as an <strong>offset.</strong> Indexes answer the question:</p>
+<blockquote>
+<p><em>How many <strong>spaces from the start</strong> do I go to find the item?</em></p>
+</blockquote>
+<p><img src="/future-proof-with-python-april-2022/lists-and-loops/list-basics/array-indices-explanation.png" alt="array_indices_explanation.png" /></p>
+<p>In this list, you have to move 0 spaces to get to <code>&quot;Kenya&quot;</code>, so it is at index <code>0</code>. You have to move 2 spaces to get to Ethiopia, so it is at index <code>2</code>.</p>
+<pre><code class="language-python">countries[0] # &quot;Kenya&quot;
+countries[2] # &quot;Ethiopia&quot;
+</code></pre>
+</aside>
+<p>After you access an element from a list, you can use it anywhere you’d use another value or variable.</p>
+<pre><code class="language-python">print(countries[0]) # Kenya
+print(countries[1] + &quot; is a nice place to visit&quot;) # Ghana is a nice place to visit
+</code></pre>
+<h2 id="practice"><a class="header" href="#practice">Practice</a></h2>
+<aside>
+<p>👩🏿‍💻 Practice accessing items in a list. Modify the code below by following instructions in the comments.</p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W41-Accessing-List-Items" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<ul>
+<li>
+<p>Solution Code (try for 5 minutes before peeking)</p>
+<pre><code class="language-python">tallest_buildings = [&quot;Burj Khalifa&quot;, &quot;Merdeka 118&quot;, &quot;Shanghai Tower&quot;, &quot;Abraj Al-Bait Clock Tower&quot;, &quot;Ping An International Finance Centre&quot;, &quot;Lotte World Tower&quot;]
+
+print(tallest_buildings[0])
+print(tallest_buildings[2])
+print(tallest_buildings[1], &quot;is taller than&quot;, tallest_buildings[5])
+</code></pre>
+</li>
+</ul>
+<h2 id="more-about-list-indices"><a class="header" href="#more-about-list-indices">More about list indices</a></h2>
+<p>If you try to access a value past the end of the list, Python will raise an error:</p>
+<pre><code class="language-python">print(countries) # ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+countries[3] # &quot;Zimbabwe&quot;
+countries[4] # IndexError: list index out of range
+</code></pre>
+<p>To keep from going out of bounds, you can get the length of the list with the function <code>len</code>:</p>
+<pre><code class="language-python">len(countries) # 4
+</code></pre>
+<p>If there are 4 elements, then the last index is <code>3</code>, since we start counting at <code>0</code>. The last element is always at index one less than the length of the list.</p>
+<pre><code class="language-python">countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+last_index = len(countries) - 1 # 3
+countries[last_index] # &quot;Zimbabwe&quot;
+countries[len(countries) - 1] # &quot;Zimbabwe&quot;
+</code></pre>
+<p>Python has a shorthand for accessing elements from the end of the list:</p>
+<pre><code class="language-python">countries[-1] # &quot;Zimbabwe&quot;
+countries[-2] # &quot;Ethiopia&quot;
+</code></pre>
+<p>Negative indices start counting from the end of the list, so <code>-1</code> is the last index, and <code>-2</code> is the second-to-last, and so on.</p>
+<h2 id="changing-lists"><a class="header" href="#changing-lists">Changing Lists</a></h2>
+<p>Lists are <strong>mutable.</strong> In programming, that means ‘changeable’. The order of items in a list and the list items themselves <strong>can be changed</strong>. We can add and remove items, swap items in place, and reorder the list.</p>
+<p>We can change any element of a list by assigning at an index. For example, to change the second item in the list above to the <code>&quot;Nigeria&quot;</code>, we can assign to index <code>1</code>, like this:</p>
+<pre><code class="language-python"># The old list
+print(countries) # ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+# Change the second item
+countries[1] = 'Nigeria'
+# The new list
+print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe']
+</code></pre>
+<p>To add a new element to the end of the list, you use <code>.append()</code></p>
+<pre><code class="language-python">countries.append(&quot;Cameroon&quot;)
+print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
+</code></pre>
+<p>To remove an item from a list, you use <code>pop()</code>. With no arguments, pop removes the last element.</p>
+<pre><code class="language-python">countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
+countries.pop() # removes the last element, &quot;Cameroon&quot;
+print(countries) # ['Kenya','Nigeria', 'Ethiopia', 'Zimbabwe']
+</code></pre>
+<p>Or, you can specify an index to remove, and <code>pop()</code> will remove the element at that index.</p>
+<pre><code class="language-python">print(countries) # ['Kenya','Nigeria', 'Ethiopia', 'Zimbabwe']
+countries.pop(1) # Removes the element at index 1, &quot;Nigeria&quot;
+print(countries) # ['Kenya', 'Ethiopia', 'Zimbabwe']
+</code></pre>
+<h2 id="check-your-understanding"><a class="header" href="#check-your-understanding">Check your understanding</a></h2>
+<p>Try this quiz to check how well you understand what list operations will do.</p>
+<div data-tf-widget="zKMVM3FL" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<h2 id="practice-1"><a class="header" href="#practice-1">Practice</a></h2>
+<aside>
+<p>👩🏿‍💻 Modify the code below to perform operations on a list.</p>
+<p>A sample run of your code should look like this:</p>
+<p><img src="/future-proof-with-python-april-2022/lists-and-loops/list-basics/c2cae-7f32-4c99-a035-74a8d0e206c1-535-0003a68938832020.png" alt="967C2CAE-7F32-4C99-A035-74A8D0E206C1-535-0003A68938832020.png" /></p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W42-Mutating-A-List" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<ul>
+<li>
+<p>Solution Code (try for 5 minutes before peeking)</p>
+<pre><code class="language-python">my_list = [10, 20, 30, 40, 50]
+print(my_list)
+
+# Assign the first list item the value 5
+my_list[0] = 5
+print(my_list)
+
+# Assign the last list item the value 'dog'
+my_list[4] = 'dog'
+print(my_list)
+
+# Remove the second item in the list
+my_list.pop(1)
+print(my_list)
+
+# Add another item to the end of the list with value False
+my_list.append(False)
+print(my_list)
+
+print(&quot;The number of items in the list is&quot;, len(my_list))
+</code></pre>
+</li>
+</ul>
+<aside>
+<p><img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: <a href="/future-proof-with-python-april-2022/lists-and-loops/practice-lists.html">Practice: Lists</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../future-proof-with-python-april-2022/lists-and-loops/debugging-loops-and-lists.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../future-proof-with-python-april-2022/lists-and-loops/loop-patterns.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../future-proof-with-python-april-2022/lists-and-loops/debugging-loops-and-lists.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../future-proof-with-python-april-2022/lists-and-loops/loop-patterns.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

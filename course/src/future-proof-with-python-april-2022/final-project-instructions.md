@@ -1,10 +1,12 @@
-# Final Project Instructions
+# Final project instructions
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
 Congratulations on making it this far in your Future Proof journey! It’s been a fun-filled few weeks. Now it’s time for you to put your Python skills to test by building a program of your own design. The final project is a chance to  🙌🏿 **celebrate what you’ve learned** **🎉**  and ✨**explore the creativity of coding**.🎨
 
 <aside>
+
+
 👥 This is a team project. Schedule time to work on the project together. Teams can be a **max size of 3** people. 
 
 If you cannot or do not wish to work with a teammate, you may work on the project alone. If you have trouble finding a partner, or have trouble with the project, use the **#help-python** channel in Discord or message an instructor.
@@ -12,6 +14,8 @@ If you cannot or do not wish to work with a teammate, you may work on the projec
 </aside>
 
 <aside>
+
+
 ✅ **Requirements**
 
 - You must submit the **Replit** **project**  and a **video**, according to the instructions in the Replit.
@@ -22,6 +26,8 @@ See the **Rubric** in the Replit for more details about what you need to include
 </aside>
 
 <aside>
+
+
 💭 **Get Creative**
 There are lots of different programs you could write that meet the requirements. Take a look at some example ideas and past student projects for inspiration for your project:
 
@@ -30,7 +36,9 @@ There are lots of different programs you could write that meet the requirements.
 </aside>
 
 <aside>
-➡️ **Access the Final Project on Replit here:** [https://replit.com/team/kibo-fpwp5/Final-Project](https://replit.com/team/kibo-fpwp5/Final-Project)
+
+
+➡️ **Access the Final Project on Replit here:** <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Final-Project" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 </aside>
 
