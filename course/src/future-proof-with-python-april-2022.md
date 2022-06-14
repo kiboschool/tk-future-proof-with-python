@@ -1,11 +1,11 @@
-# Future Proof with Python (April 2022)
+# Welcome to Future Proof with Python
 
-***[bit.ly/tk5-fpwp](http://bit.ly/tk5-fpwp)***
+**_[bit.ly/tk6-fpwp](http://bit.ly/tk5-fpwp)_**
 
-**Welcome to Future Proof with Python!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. This page includes links to the lessons for the course.  New lessons will be added each week.
+**Welcome to Future Proof with Python!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. This page includes links to the lessons for the course. New lessons will be added each week.
 
 <aside>
-<img src="Future%20Proof%20with%20Python%20(April%202022)%20cde560ea771b4db192e308aa17d69936/instruction.png" alt="Future%20Proof%20with%20Python%20(April%202022)%20cde560ea771b4db192e308aa17d69936/instruction.png" width="40px" /> Watch this video from your community manager for a walk-through on how Notion works
+🎥 Watch this video from your community manager for a walk-through on how Notion works
 
 </aside>
 
