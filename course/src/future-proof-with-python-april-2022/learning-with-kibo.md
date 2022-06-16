@@ -10,11 +10,9 @@ In this lesson, you’ll get an overview of how learning at Kibo works, instruct
 
 At Kibo we love learning together!
 
-[As a tradition, we take a “peakture” together on zoom!](https://lh3.googleusercontent.com/pw/AM-JKLV8Ai7156wBfMB0f3AXB91QuaBcqiC6QlBL4EfLCPhtb-K02tTmoITNihlfmhF7h2ycRLc-ts-Cqf05A4qJ_LXiIzg8kDBqRZ6yjf3UYM_3WxHWLFqhuvX5vvElXWKFttROKTFjwn3dREsefDXyECFh=w2548-h1592-no?authuser=0)
-
 As a tradition, we take a “peakture” together on zoom!
 
-[https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0)
+![https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0)
 
 Kibo is different from other classes you have been a part of.
 
