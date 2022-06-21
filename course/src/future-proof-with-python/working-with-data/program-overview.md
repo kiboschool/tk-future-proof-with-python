@@ -18,7 +18,7 @@ In the next few weeks, you’ll learn to make programs that can:
 
 ⚠️ **Reminder.** For an overview of lessons and the weekly schedule, see:
 
-[0.1 Lesson Topics and Navigation](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
+[Lesson Topics and Navigation](../learning-with-kibo/lesson-topics-and-navigation.md)
 
 </aside>
 
@@ -62,7 +62,6 @@ Let’s hear from some Kibo alumni about their learning journey.
 
 - **Ayo** (Try Kibo Alum)
     <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/KI3HZ8DhuII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 
 <aside>
 

@@ -4,26 +4,32 @@
 
 ## Lessons
 
-<!-- - [Learning with kibo](future-proof-with-python/learning-with-kibo.md)
+- [Learning with kibo](future-proof-with-python/learning-with-kibo.md)
 
-  - [Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
   - [Topics and navigation](future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
-  - [Replit assignments](future-proof-with-python/learning-with-kibo/replit-assignments.md)
+  - [Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
   - [Sign up for replit](future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
-  - [The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md) -->
+  - [Replit assignments](future-proof-with-python/learning-with-kibo/replit-assignments.md)
+
+  - [The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
+  - [Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
 
 - [Community Orientation](future-proof-with-python/community-orientation.md)
 
 - [Working with data](future-proof-with-python/working-with-data.md)
-  - [Data types operators and expressions](future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
-  - [Input and output](future-proof-with-python/working-with-data/input-and-output.md)
-  - [Practice](future-proof-with-python/working-with-data/practice.md)
+
   - [Program overview](future-proof-with-python/working-with-data/program-overview.md)
   - [Programs and comments](future-proof-with-python/working-with-data/programs-and-comments.md)
-  - [Project](future-proof-with-python/working-with-data/project.md)
-  - [String concatenation and f strings](future-proof-with-python/working-with-data/string-concatenation-and-f-strings.md)
   - [Variables and assignment](future-proof-with-python/working-with-data/variables-and-assignment.md)
+  - [Data types operators and expressions](future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
+  - [Input and output](future-proof-with-python/working-with-data/input-and-output.md)
+  - [String concatenation and f strings](future-proof-with-python/working-with-data/string-concatenation-and-f-strings.md)
+  - [Practice](future-proof-with-python/working-with-data/practice.md)
+
+  - [Project](future-proof-with-python/working-with-data/project.md)
+
   - [Wrap up](future-proof-with-python/working-with-data/wrap-up.md)
+
 - [Conditionals](future-proof-with-python/conditionals.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
   - [Multi way decisions](future-proof-with-python/conditionals/multi-way-decisions.md)
@@ -35,8 +41,6 @@
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
 
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
-
-  - [Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
 
 - [Lists and loops](future-proof-with-python/lists-and-loops.md)
   - [Debugging loops and lists](future-proof-with-python/lists-and-loops/debugging-loops-and-lists.md)

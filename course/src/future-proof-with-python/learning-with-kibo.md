@@ -10,11 +10,8 @@ In this lesson, you’ll get an overview of how learning at Kibo works, instruct
 
 At Kibo we love learning together!
 
-[As a tradition, we take a “peakture” together on zoom!](https://lh3.googleusercontent.com/pw/AM-JKLV8Ai7156wBfMB0f3AXB91QuaBcqiC6QlBL4EfLCPhtb-K02tTmoITNihlfmhF7h2ycRLc-ts-Cqf05A4qJ_LXiIzg8kDBqRZ6yjf3UYM_3WxHWLFqhuvX5vvElXWKFttROKTFjwn3dREsefDXyECFh=w2548-h1592-no?authuser=0)
-
 As a tradition, we take a “peakture” together on zoom!
-
-[https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0)
+![Peak1.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/peak1.png)
 
 Kibo is different from other classes you have been a part of.
 
@@ -46,17 +43,17 @@ After this Lesson, you will be able to:
 
 <aside>
 
-<img src="/future-proof-with-python/instruction.png" alt="instruction.png" width="40px" /> Complete each of the sections below
+📋 Complete each of the sections below
 
 </aside>
 
-[0.1 Lesson Topics and Navigation](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
+[ 0.1 Lesson Topics and Navigation](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
 
-[0.2 Intro to Programming in Python](/future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
+[ 0.2 Intro to Programming in Python](/future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
 
-[0.3 Sign Up for Replit](/future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
+[ 0.3 Sign Up for Replit](/future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
 
-[0.4 Replit Assignments](/future-proof-with-python/learning-with-kibo/replit-assignments.md)
+[ 0.4 Replit Assignments](/future-proof-with-python/learning-with-kibo/replit-assignments.md)
 
 [0.5 The Debugging Mindset](/future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
 

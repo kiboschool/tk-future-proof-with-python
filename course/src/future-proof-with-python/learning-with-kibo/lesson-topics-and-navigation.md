@@ -49,13 +49,13 @@ Each lesson includes:
 - A **wrap-up** page that includes a summary of the lesson and a chance for you to give us feedback.
   _Feedback is a gift, and we appreciate hearing from you!_
 
-You can use the top navigation bar (highlighted in the below image) and the links at the bottom of each page, to navigate through the lessons.
+You can use the side navigation bar (highlighted in the below image) and the links at the bottom of each page, to navigate through the lessons.
 
-![0%201%20Lesson%20Topics%20and%20Navigation%20cd0f257dc52e4f41bc87533b3405c23e/Screen_Shot_2021-07-30_at_1.50.42_PM.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/screen-shot-2021-07-30-at-1.50.42-pm.png)
+![Nav1](/future-proof-with-python/learning-with-kibo/nav1.png)
 
 The overview page for each lesson will also have links to each of the other pages for that week:
 
-![Screenshot 2022-04-08 at 11.07.04 AM.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/screenshot-2022-04-08-at-11.07.04-am.png)
+![Nav2](/future-proof-with-python/learning-with-kibo/nav2.png)
 
 <aside>
 
