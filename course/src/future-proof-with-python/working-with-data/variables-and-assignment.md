@@ -78,7 +78,7 @@ These variable names are descriptive and helpful!
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Variables-and-Assignment-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W11-Practice-Variables-and-Assignment-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -88,18 +88,23 @@ These variable names are descriptive and helpful!
 
 </aside>
 
-- **Solution** (try for 5 minutes before looking!)
-  ```python
-  books_read = 13
-  print(books_read)
+<details><summary>Solution (try for 5 minutes before looking!)</summary>
 
-  meals_eaten = 4
-  meals_eaten = meals_eaten + 1
-  print(meals_eaten)
-  ```
+```python
+books_read = 13
+print(books_read)
 
+meals_eaten = 4
+meals_eaten = meals_eaten + 1
+print(meals_eaten)
+```
+
+</details>
+
+</br>
+</br>
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Data Types, Operators, and Expressions](/future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
+Next up: [Data Types, Operators, and Expressions](/future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
 
 </aside>

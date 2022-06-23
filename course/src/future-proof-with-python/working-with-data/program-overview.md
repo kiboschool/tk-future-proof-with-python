@@ -26,15 +26,19 @@ In the next few weeks, you’ll learn to make programs that can:
 
 At the end of the course, you’ll make a final project of your own design, using the skills you learn in the program.
 
-Here’s a **Guess the Capital** project by a past student that shows the different concepts you’ll learn. (_Press the green button to play the game_).
+Here’s a **Guess the Capital** project by a past student that shows the different concepts you’ll learn.
 
 <aside>
 
-🤔 You don’t need to understand this code yet. Each week, you’ll learn more about how these work in detail. But, for now, you can just have fun with the project and get a sense of what will come later.
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/CaggLX5MopI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+You can try the program yourself by clicking on [this link](https://replit.com/@kibocurriculum/Final-Project-Sample-FPWP#main.py).
+
+<aside>
+🤔 You don’t need to understand the code of this project yet. Each week, you’ll learn more about how these work in detail. But, for now, you can just have fun with the project and get a sense of what will come later.
 
 </aside>
-
-[https://replit.com/@kibocurriculum/Final-Project-Sample-FPWP#main.py](https://replit.com/@kibocurriculum/Final-Project-Sample-FPWP#main.py)
 
 In week 1, you’ll learn the basics: **data**, **variables**, **operators**, **input** and **output**.
 
@@ -65,6 +69,6 @@ Let’s hear from some Kibo alumni about their learning journey.
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Programs and Comments](/future-proof-with-python/working-with-data/programs-and-comments.md)
+Next up: [Programs and Comments](/future-proof-with-python/working-with-data/programs-and-comments.md)
 
 </aside>

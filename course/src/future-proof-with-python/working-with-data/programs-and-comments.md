@@ -100,6 +100,6 @@ The comment is explaining the result of running that line of code.
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Variables and Assignment](/future-proof-with-python/working-with-data/variables-and-assignment.md)
+Next up: [Variables and Assignment](/future-proof-with-python/working-with-data/variables-and-assignment.md)
 
 </aside>
