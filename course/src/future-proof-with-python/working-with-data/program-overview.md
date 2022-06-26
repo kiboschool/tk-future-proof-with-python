@@ -18,7 +18,7 @@ In the next few weeks, you’ll learn to make programs that can:
 
 ⚠️ **Reminder.** For an overview of lessons and the weekly schedule, see:
 
-[Lesson Topics and Navigation](../learning-with-kibo/lesson-topics-and-navigation.md)
+<a href="../learning-with-kibo/lesson-topics-and-navigation.md" target="_blank">Lesson Topics and Navigation</a>
 
 </aside>
 

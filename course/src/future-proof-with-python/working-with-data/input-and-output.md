@@ -87,7 +87,7 @@ soda_price = float(input("How much does a soda cost?"))
 
 📌 Here's what the output should look like when you run the program
 
-![1%205%20Input%20and%20Output%204c9bf71420574fd5a1ef3f2bd96a3959/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![p15.png](p15.png)
 
 </aside>
 
@@ -138,16 +138,29 @@ print("Hello", name) # Hello Emmy
 
 <aside>
 
-👩🏿‍💻 Below is an embedded program from Replit.
+👩🏿‍💻 Below is a program hosted on Replit.
 
-\***\*To complete:**
-(1) **Run** the code using the green "Run ▷" button
-(2) **Follow** the prompts in the `Console` tab below, to enter two numbers
-(3) **See** the results of the program
+**To complete:**
+
+(1) **Click** on the <a href="https://replit.com/@kibocurriculum/add-two-numbers" target="_blank">link</a> to open it.
+
+(2) **Run** the code using the green "Run ▷" button
+
+(3) **Follow** the prompts in the `Console` tab, to enter two numbers
+
+(4) **See** the results of the program
 
 </aside>
 
-[https://replit.com/@kibocurriculum/add-two-numbers](https://replit.com/@kibocurriculum/add-two-numbers)
+```python
+1. first_num = int(input("enter first number: "))
+2. second_num = int(input("enter second number: "))
+3.
+4. total = first_num + second_num
+5.
+6. print("the sum is: ", total)
+
+```
 
 In plain English, here is what the code does:
 
@@ -186,20 +199,23 @@ Try more inputs to the program. What happens if you enter something that's not a
 
 </aside>
 
-- Solution: **Add Three Numbers**
+<details><summary>Solution: Add Three Numbers</summary>
 
-  ```python
-  first_num = int(input("enter first number: "))
-  second_num = int(input("enter second number: "))
-  third_num = int(input("enter third number: "))
+```python
+first_num = int(input("enter first number: "))
+second_num = int(input("enter second number: "))
+third_num = int(input("enter third number: "))
 
-  # change the line below
-  total = first_num + second_num + third_num
+# change the line below
+total = first_num + second_num + third_num
 
-  # edit the text that will show up
-  print("the sum of the three numbers is: ", total)
-  ```
+# edit the text that will show up
+print("the sum of the three numbers is: ", total)
+```
 
+</details>
+
+</br>
 <aside>
 
 Next up: [String Concatenation and f-strings](/future-proof-with-python/working-with-data/string-concatenation-and-f-strings.md)

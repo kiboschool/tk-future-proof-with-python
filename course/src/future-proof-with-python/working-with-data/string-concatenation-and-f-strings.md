@@ -7,6 +7,7 @@ _Estimated Time: 30 minutes_
 ### Key ideas
 
 - Using formatted strings
+- Concatenating strings
 
 ## String Concatenation and f-strings
 
@@ -56,17 +57,24 @@ f-strings have other formatting powers, but we’ll leave it at rounding floats 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W15-F-strings-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Solution: **F-strings practice**
+</br>
+</br>
+<details><summary>Solution: F-strings practice
+</summary>
 
-  ```python
-  first_num = float(input("enter first number: "))
-  second_num = float(input("enter second number: "))
+```python
+first_num = float(input("enter first number: "))
+second_num = float(input("enter second number: "))
 
-  # change the line below
-  result = first_num / second_num
+# change the line below
+result = first_num / second_num
 
-  print(f"the result is {result:.3} ")
-  ```
+print(f"the result is {result:.3} ")
+```
+
+</details>
+
+</br>
 
 <aside>
 

@@ -726,6 +726,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 <li>Use different data types in Python</li>
 <li>Use math and string operators in Python</li>
 <li>Use variables in Python</li>
+<li>Use and concatenate strings in Python</li>
 </ul>
 <h2 id="welcome-video"><a class="header" href="#welcome-video">Welcome Video</a></h2>
 <aside>
@@ -762,7 +763,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 </ul>
 <aside>
 <p>⚠️ <strong>Reminder.</strong> For an overview of lessons and the weekly schedule, see:</p>
-<p><a href="future-proof-with-python/working-with-data/../learning-with-kibo/lesson-topics-and-navigation.html">Lesson Topics and Navigation</a></p>
+<p><a href="future-proof-with-python/working-with-data/../learning-with-kibo/lesson-topics-and-navigation.html" target="_blank">Lesson Topics and Navigation</a></p>
 </aside>
 <h2 id="final-project-example"><a class="header" href="#final-project-example">Final Project Example</a></h2>
 <p>At the end of the course, you’ll make a final project of your own design, using the skills you learn in the program.</p>
@@ -807,7 +808,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 <p>Everything on the computer is a program behind the scenes.</p>
 <p>At this very moment, you are reading on a computer, with a web browser. The browser is a program, built by a large team. But, how do they actually do it? What does a program look like when they are writing it? How does it work?</p>
 <p>This is the question we'll focus on first: <strong>What are computer programs?</strong></p>
-<p>In <a href="future-proof-with-python/working-with-data//future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.html">0.2 Intro to Programming in Python</a> you learned...</p>
+<p>In <a href="future-proof-with-python/working-with-data//future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.html" target="_blank">Intro to Programming in Python </a> you learned...</p>
 <ul>
 <li>Programming languages let us write instructions for computers using words</li>
 <li>Programming languages get translated into 1s and 0s the machine understands</li>
@@ -829,7 +830,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 <li>A <strong>Text Editor</strong>: A tool to write text</li>
 <li>An <strong>Interpreter or a Compiler:</strong> A tool to translate your code to computer-executable programs.</li>
 </ol>
-<p>In this course, we're going to use <a href="https://replit.com/">Replit</a>, because it has both of those pieces: a <strong>text editor</strong> and an <strong>interpreter</strong>.</p>
+<p>In this course, we're going to use <a href="https://replit.com/" target="_blank">Replit</a>, because it has both of those pieces: a <strong>text editor</strong> and an <strong>interpreter</strong>.</p>
 <p>Replit also has other helpful features that we'll use: multiplayer mode, comments, sharing, and assignments.</p>
 <h3 id="plain-text-vs-rich-text"><a class="header" href="#plain-text-vs-rich-text">Plain text vs. Rich text</a></h3>
 <blockquote>
@@ -926,8 +927,6 @@ print(pay) # 437.5
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W11-Practice-Variables-and-Assignment-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <aside>
-<p>📌 When your code runs, the output should look like this</p>
-<p><img src="future-proof-with-python/working-with-data//future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png" alt="1%203%20Variables%20and%20Assignment%207a30aa1380874207a16f80c2e997197d/Untitled.png" /></p>
 </aside>
 <details><summary>Solution (try for 5 minutes before looking!)</summary>
 <pre><code class="language-python">books_read = 13
@@ -1092,12 +1091,8 @@ print(age) # 20
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W12-Practice-Operators" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <aside>
-<p>📌 Here's what the output should look like when you run the program.</p>
-<p><img src="future-proof-with-python/working-with-data//future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png" alt="Untitled" /></p>
 </aside>
-<ul>
-<li>
-<p>Solution Code (try for 5 minutes before peeking)</p>
+<details><summary>Solution Code (try for 5 minutes before peeking)</summary>
 <pre><code class="language-python">a = 15
 b = 7
 
@@ -1113,8 +1108,7 @@ print(a / b)
 # Print the remainder (%) of a and b
 print(a % b)
 </code></pre>
-</li>
-</ul>
+</details>
 <h2 id="typeerror-and-type-conversion"><a class="header" href="#typeerror-and-type-conversion">TypeError and Type Conversion</a></h2>
 <p>If you try to add a number to a string, Python will raise a <code>TypeError</code>. It doesn’t know what you want to do. Do you want to concatenate the two, as if they are both strings? Or, add them together mathematically, as if they are numbers? <strong>Python refuses to guess.</strong></p>
 <pre><code class="language-python">age = &quot;15&quot; # a string
@@ -1188,7 +1182,7 @@ age = int(response)
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W13-Input-Hours-of-Sleep" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <aside>
 <p>📌 Here's what the output should look like when you run the program</p>
-<p><img src="future-proof-with-python/working-with-data//future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png" alt="1%205%20Input%20and%20Output%204c9bf71420574fd5a1ef3f2bd96a3959/Untitled.png" /></p>
+<p><img src="future-proof-with-python/working-with-data/p15.png" alt="p15.png" /></p>
 </aside>
 <h2 id="experimenting-with-print"><a class="header" href="#experimenting-with-print">Experimenting With Print</a></h2>
 <pre><code class="language-python">print()
@@ -1218,13 +1212,21 @@ print(&quot;Hello&quot;, name) # Hello Emmy
 <aside>
 <p>👉🏿 Let's take a look at a Python program that gives instructions to add two numbers:</p>
 <aside>
-<p>👩🏿‍💻 Below is an embedded program from Replit.</p>
-<p>*<strong>*To complete:</strong>
-(1) <strong>Run</strong> the code using the green &quot;Run ▷&quot; button
-(2) <strong>Follow</strong> the prompts in the <code>Console</code> tab below, to enter two numbers
-(3) <strong>See</strong> the results of the program</p>
+<p>👩🏿‍💻 Below is a program hosted on Replit.</p>
+<p><strong>To complete:</strong></p>
+<p>(1) <strong>Click</strong> on the <a href="https://replit.com/@kibocurriculum/add-two-numbers" target="_blank">link</a> to open it.</p>
+<p>(2) <strong>Run</strong> the code using the green &quot;Run ▷&quot; button</p>
+<p>(3) <strong>Follow</strong> the prompts in the <code>Console</code> tab, to enter two numbers</p>
+<p>(4) <strong>See</strong> the results of the program</p>
 </aside>
-<p><a href="https://replit.com/@kibocurriculum/add-two-numbers">https://replit.com/@kibocurriculum/add-two-numbers</a></p>
+<pre><code class="language-python">1. first_num = int(input(&quot;enter first number: &quot;))
+2. second_num = int(input(&quot;enter second number: &quot;))
+3.
+4. total = first_num + second_num
+5.
+6. print(&quot;the sum is: &quot;, total)
+
+</code></pre>
 <p>In plain English, here is what the code does:</p>
 <ul>
 <li><strong>line 1:</strong> Ask the user for an input. Convert the input to an integer, and store it in a variable named <code>first_num</code></li>
@@ -1251,9 +1253,7 @@ Try more inputs to the program. What happens if you enter something that's not a
 <li>Don't spend more than 10 minutes stuck on this problem. If you've spent more time than that, take a look at the solution below.</li>
 </ol>
 </aside>
-<ul>
-<li>
-<p>Solution: <strong>Add Three Numbers</strong></p>
+<details><summary>Solution: Add Three Numbers</summary>
 <pre><code class="language-python">first_num = int(input(&quot;enter first number: &quot;))
 second_num = int(input(&quot;enter second number: &quot;))
 third_num = int(input(&quot;enter third number: &quot;))
@@ -1264,8 +1264,8 @@ total = first_num + second_num + third_num
 # edit the text that will show up
 print(&quot;the sum of the three numbers is: &quot;, total)
 </code></pre>
-</li>
-</ul>
+</details>
+</br>
 <aside>
 <p>Next up: <a href="future-proof-with-python/working-with-data//future-proof-with-python/working-with-data/string-concatenation-and-f-strings.html">String Concatenation and f-strings</a></p>
 </aside>
@@ -1275,6 +1275,7 @@ print(&quot;the sum of the three numbers is: &quot;, total)
 <h3 id="key-ideas-1"><a class="header" href="#key-ideas-1">Key ideas</a></h3>
 <ul>
 <li>Using formatted strings</li>
+<li>Concatenating strings</li>
 </ul>
 <h2 id="string-concatenation-and-f-strings-1"><a class="header" href="#string-concatenation-and-f-strings-1">String Concatenation and f-strings</a></h2>
 <p>When there’s a variable we want to combine with a string to print out a message, so far we’ve added the strings with <code>+</code>.</p>
@@ -1303,9 +1304,10 @@ print(f&quot;{one_third:.2}&quot;) # 0.33
 <p>👩🏿‍💻 Practice using f-strings to format results.</p>
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W15-F-strings-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-<ul>
-<li>
-<p>Solution: <strong>F-strings practice</strong></p>
+</br>
+</br>
+<details><summary>Solution: F-strings practice
+</summary>
 <pre><code class="language-python">first_num = float(input(&quot;enter first number: &quot;))
 second_num = float(input(&quot;enter second number: &quot;))
 
@@ -1314,8 +1316,8 @@ result = first_num / second_num
 
 print(f&quot;the result is {result:.3} &quot;)
 </code></pre>
-</li>
-</ul>
+</details>
+</br>
 <aside>
 <p>Next up: <a href="future-proof-with-python/working-with-data//future-proof-with-python/working-with-data/practice.html">Practice</a></p>
 </aside>
@@ -1373,10 +1375,10 @@ print(f&quot;the result is {result:.3} &quot;)
 <p><em>Estimated Time: 1 hour</em></p>
 <hr />
 <h1 id="team-project-mad-libs"><a class="header" href="#team-project-mad-libs">Team Project: Mad Libs</a></h1>
-<p><strong>Due date: Sunday May 1st</strong></p>
+<p><strong>Due date: Sunday July 17</strong></p>
 <aside>
 <p>👥 This is a team project. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.</p>
-<p>If you have trouble finding a partner, or have trouble with the project, use the <strong>#help-web</strong> channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.</p>
+<p>If you have trouble finding a partner, or have trouble with the project, use the <strong>#help-python</strong> channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.</p>
 <p>You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (<strong>which you all created together</strong>!).</p>
 </aside>
 <aside>
@@ -1406,6 +1408,8 @@ Remember...
 <li><strong>Ints</strong> and <strong>Floats</strong> are the Python data types for numbers, and they look like <code>9</code> or <code>0.7</code></li>
 <li>Python can use <strong>operators</strong> like <code>+</code> to add numbers or concatenate strings</li>
 <li><code>print</code> shows output to the user, and <code>input</code> asks the user to type in text</li>
+<li>You can format the output in a variety of ways using f-strings</li>
+<li>Strings can be concatenated (added together) using the <code>+</code> and using <code>f-strings</code></li>
 </ul>
 <h2 id="do-you-want-to-be-a-squad-rep"><a class="header" href="#do-you-want-to-be-a-squad-rep">Do you want to be a Squad Rep?</a></h2>
 <aside>

@@ -82,10 +82,6 @@ These variable names are descriptive and helpful!
 
 <aside>
 
-📌 When your code runs, the output should look like this
-
-![1%203%20Variables%20and%20Assignment%207a30aa1380874207a16f80c2e997197d/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
-
 </aside>
 
 <details><summary>Solution (try for 5 minutes before looking!)</summary>

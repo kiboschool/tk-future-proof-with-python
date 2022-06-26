@@ -157,30 +157,28 @@ Every opening paren needs a closing paren. You can’t do just `(5 + 7`, it need
 
 <aside>
 
-📌 Here's what the output should look like when you run the program.
-
-![Untitled](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
-
 </aside>
 
-- Solution Code (try for 5 minutes before peeking)
+<details><summary>Solution Code (try for 5 minutes before peeking)</summary>
 
-  ```python
-  a = 15
-  b = 7
+```python
+a = 15
+b = 7
 
-  # Print the sum (+) of a and b (this one is done for you)
-  print(a + b)
+# Print the sum (+) of a and b (this one is done for you)
+print(a + b)
 
-  # Print the difference (-) of a and b
-  print(a - b)
-  # Print the product (*) of a and b
-  print(a * b)
-  # Print the quotient (/) of a and b
-  print(a / b)
-  # Print the remainder (%) of a and b
-  print(a % b)
-  ```
+# Print the difference (-) of a and b
+print(a - b)
+# Print the product (*) of a and b
+print(a * b)
+# Print the quotient (/) of a and b
+print(a / b)
+# Print the remainder (%) of a and b
+print(a % b)
+```
+
+</details>
 
 ## TypeError and Type Conversion
 

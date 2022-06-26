@@ -10,7 +10,7 @@ At this very moment, you are reading on a computer, with a web browser. The brow
 
 This is the question we'll focus on first: **What are computer programs?**
 
-In [0.2 Intro to Programming in Python](/future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md) you learned...
+In <a href="/future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)" target="_blank">Intro to Programming in Python </a> you learned...
 
 - Programming languages let us write instructions for computers using words
 - Programming languages get translated into 1s and 0s the machine understands
@@ -38,7 +38,7 @@ We need two things to start writing programs of our own:
 1. A **Text Editor**: A tool to write text
 2. An **Interpreter or a Compiler:** A tool to translate your code to computer-executable programs.
 
-In this course, we're going to use [Replit](https://replit.com/), because it has both of those pieces: a **text editor** and an **interpreter**.
+In this course, we're going to use <a href="https://replit.com/" target="_blank">Replit</a>, because it has both of those pieces: a **text editor** and an **interpreter**.
 
 Replit also has other helpful features that we'll use: multiplayer mode, comments, sharing, and assignments.
 

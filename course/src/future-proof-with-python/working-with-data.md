@@ -16,6 +16,7 @@ After this week, you will be able to:
 - Use different data types in Python
 - Use math and string operators in Python
 - Use variables in Python
+- Use and concatenate strings in Python
 
 ## Welcome Video
 
