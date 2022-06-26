@@ -56,8 +56,10 @@ There are more rules for other types, but we're skipping them for now.
     ```
   - They are called _strings_ because they are a series (a ‘string’) of characters. The string `"Kibo"` is made of the characters `'K'`, `'i'`, `'b'`, `'o'`.
 - **Integers** are for representing positive and negative whole numbers.
+
   - They look like numbers: `10`, `9019`, or `-5`
   - Python works like a calculator. It can do math with `+`, `-`, `*`, `/` and more.
+
     ```python
     10 + 5 # 15
 
@@ -67,6 +69,7 @@ There are more rules for other types, but we're skipping them for now.
     value * 10 # 1000
     value / 10 # 10
     ```
+
 - **Floats** are for representing fractional numbers
   - They look like numbers with a decimal point: `10.5`, `90.19`, or `-0.781`
   - Python stores them differently from integers, so they show something different when you call `type` on them
@@ -150,7 +153,7 @@ Every opening paren needs a closing paren. You can’t do just `(5 + 7`, it need
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Practice-Operators" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W12-Practice-Operators" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -161,6 +164,7 @@ Every opening paren needs a closing paren. You can’t do just `(5 + 7`, it need
 </aside>
 
 - Solution Code (try for 5 minutes before peeking)
+
   ```python
   a = 15
   b = 7
@@ -200,6 +204,6 @@ age + str(5) # "155"
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Input and Output](/future-proof-with-python/working-with-data/input-and-output.md)
+Next up: [Input and Output](/future-proof-with-python/working-with-data/input-and-output.md)
 
 </aside>

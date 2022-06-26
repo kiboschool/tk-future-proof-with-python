@@ -54,9 +54,10 @@ f-strings have other formatting powers, but we’ll leave it at rounding floats 
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W15-F-strings-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W15-F-strings-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - Solution: **F-strings practice**
+
   ```python
   first_num = float(input("enter first number: "))
   second_num = float(input("enter second number: "))
@@ -69,6 +70,6 @@ f-strings have other formatting powers, but we’ll leave it at rounding floats 
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Practice](/future-proof-with-python/working-with-data/practice.md)
+Next up: [Practice](/future-proof-with-python/working-with-data/practice.md)
 
 </aside>

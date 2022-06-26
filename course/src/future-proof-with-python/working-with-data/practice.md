@@ -23,7 +23,7 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 🏦 Create a program that asks a user for a value in US Dollars, then converts to Nigerian Naira.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/P11-Currency-Conversion" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit [here](https://replit.com/team/kibo-fpwp6/P11-Currency-Conversion)
 
 </aside>
 
@@ -31,9 +31,10 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 <img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the full solution. Make sure you give yourself enough time to solve the practice without watching the video; It is really important for your learning.
 
-- Currency Conversion Solution Video
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/urMYOnhxOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<details><summary>Currency Conversion Solution Video</summary>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/urMYOnhxOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+</details>
 
 </aside>
 
@@ -43,7 +44,7 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 👩🏿‍💻 Write a program to build an AC unit load estimator. Your program should get input from the user, use the formula to calculate the horsepower, then print the horsepower.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/P13-AC-Load-Estimator" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit [here](https://replit.com/team/kibo-fpwp6/P13-AC-Load-Estimator)
 
 </aside>
 
@@ -51,11 +52,12 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 <img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the full solution. Make sure you give yourself enough time to solve the practice without watching the video; It is really important for your learning.
 
-- Load Estimator Solution Video
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/66tvjwqNiRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<details><summary>Load Estimator Solution Video</summary>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/66tvjwqNiRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
     
     ******There is a typo in the code at the end of the video ("numbe" should be "number").*
-
+</details>
 
 </aside>
 
@@ -65,7 +67,7 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 💪🏿 Create a program that calculates body mass index, which is used to determine if a person's weight is a healthy proportion for their height.
 
-**Access** and **submit** in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/P12-Body-Mass-Index" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** in Replit [here](https://replit.com/team/kibo-fpwp6/P12-Body-Mass-Index)
 
 </aside>
 
@@ -73,16 +75,14 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 <img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the full solution. Make sure you give yourself enough time to solve the practice without watching the video; It is really important for your learning.
 
-- Body Mass Index Solution
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/vuy5ScUuMYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<details><summary>Body Mass Index Solution</summary>
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/vuy5ScUuMYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+</details>
 </aside>
-
----
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Project](/future-proof-with-python/working-with-data/project.md)
+Next up: [Project](/future-proof-with-python/working-with-data/project.md)
 
 </aside>
