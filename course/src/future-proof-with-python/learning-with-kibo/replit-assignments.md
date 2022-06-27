@@ -4,7 +4,7 @@ _Estimated Time: 20 minutes_
 
 ---
 
-Complete these two challenges in Repl.it. You’ll practice using input and output in Python, and you’ll learn more about how assignments in Repl.it will work.
+Complete these two challenges in Replit. You’ll practice using input and output in Python, and you’ll learn more about how assignments in Replit will work.
 
 <aside>
 
