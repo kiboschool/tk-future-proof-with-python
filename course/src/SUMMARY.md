@@ -1,20 +1,16 @@
 # Future Proof with Python
 
 [Welcome!](future-proof-with-python-july-2022.md)
+[Learning with kibo](future-proof-with-python/learning-with-kibo.md)
+[Topics and navigation](future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
+[Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
+[Sign up for replit](future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
+[Replit assignments](future-proof-with-python/learning-with-kibo/replit-assignments.md)
+[The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
+[Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
+[Community Orientation](future-proof-with-python/community-orientation.md)
 
 ## Lessons
-
-[Learning with kibo](future-proof-with-python/learning-with-kibo.md)
-
-  - [Topics and navigation](future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
-  - [Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
-  - [Sign up for replit](future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
-  - [Replit assignments](future-proof-with-python/learning-with-kibo/replit-assignments.md)
-
-  - [The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-  - [Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
-
-[Community Orientation](future-proof-with-python/community-orientation.md)
 
 - [Working with data](future-proof-with-python/working-with-data.md)
 
