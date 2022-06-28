@@ -17,7 +17,7 @@ Kibo is different from other classes you have been a part of.
 
 - Kibo is an online program. That means that **you’re in charge of your own learning**.
 - A lot of the learning is **asynchronous:** you go at your own pace. There is a **weekly live class** everyone will attend, and weekly assignments everyone will submit.
-- Get ready for a challenging journey. Learning to code takes time!
+- Get ready for a challenging journey.
 - Learning to code takes time! You need to **schedule lots of practice time.**
 - We love learning to code together. Once the program starts, you’ll **work with partners and groups**.
 
