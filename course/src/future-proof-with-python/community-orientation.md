@@ -22,7 +22,7 @@ If not, click this link and follow the instructions to join the Kibo School Disc
 
 ⚠️ **Make sure you have updated your profile name in Discord.**
 If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B)
-![update-user-name.png](/future-proof-with-python/community-orientation-april-25-2022/update-user-name.png)
+![update-user-name.png](/future-proof-with-python/community-orientation/update-user-name.png)
 
 </aside>
 
@@ -70,7 +70,7 @@ The instructors will update this as you complete challenges together. Whenever y
 
 To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad. **All squad members will have their names in the colour grey.**
 
-![Screen Shot 2022-04-23 at 5.03.56 PM.png](/future-proof-with-python/community-orientation-april-25-2022/screen-shot-2022-04-23-at-5.03.56-pm.png)
+![Screen Shot 2022-04-23 at 5.03.56 PM.png](/future-proof-with-python/community-orientation/screen-shot-2022-04-23-at-5.03.56-pm.png)
 
 ---
 
@@ -144,7 +144,7 @@ To see the list of your squad members, go to your squad text channel, and look a
 
 ## Who You Are (Word Cloud)
 
-![Screenshot 2022-04-25 at 11.31.33 AM.png](/future-proof-with-python/community-orientation-april-25-2022/screenshot-2022-04-25-at-11.31.33-am.png)
+![Screenshot 2022-04-25 at 11.31.33 AM.png](/future-proof-with-python/community-orientation/screenshot-2022-04-25-at-11.31.33-am.png)
 
 ---
 
