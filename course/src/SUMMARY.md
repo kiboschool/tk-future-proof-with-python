@@ -1,10 +1,10 @@
 # Future Proof with Python
 
-- [Welcome!](future-proof-with-python-july-2022.md)
+[Welcome!](future-proof-with-python-july-2022.md)
 
 ## Lessons
 
-- [Learning with kibo](future-proof-with-python/learning-with-kibo.md)
+[Learning with kibo](future-proof-with-python/learning-with-kibo.md)
 
   - [Topics and navigation](future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
   - [Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
@@ -14,7 +14,7 @@
   - [The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
   - [Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
 
-- [Community Orientation](future-proof-with-python/community-orientation.md)
+[Community Orientation](future-proof-with-python/community-orientation.md)
 
 - [Working with data](future-proof-with-python/working-with-data.md)
 
