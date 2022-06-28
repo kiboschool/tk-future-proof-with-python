@@ -10,7 +10,7 @@ At this very moment, you are reading on a computer, with a web browser. The brow
 
 This is the question we'll focus on first: **What are computer programs?**
 
-In <a href="/future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)" target="_blank">Intro to Programming in Python </a> you learned...
+In <a href="/future-proof-with-python/admissions-challenge.md" target="_blank">Intro to Programming in Python </a> you learned...
 
 - Programming languages let us write instructions for computers using words
 - Programming languages get translated into 1s and 0s the machine understands

@@ -1,13 +1,8 @@
 # Future Proof with Python
 
 [Welcome!](future-proof-with-python-july-2022.md)
-[Learning with kibo](future-proof-with-python/learning-with-kibo.md)
-[Topics and navigation](future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation.md)
-[Intro to programming in python](future-proof-with-python/learning-with-kibo/intro-to-programming-in-python.md)
-[Sign up for replit](future-proof-with-python/learning-with-kibo/sign-up-for-replit.md)
-[Replit assignments](future-proof-with-python/learning-with-kibo/replit-assignments.md)
-[The debugging mindset](future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-[Wrap up](future-proof-with-python/learning-with-kibo/wrap-up.md)
+[Admissions Challenge](future-proof-with-python/admissions-challenge.md)
+[Onboarding](future-proof-with-python/try-kibo-onboarding.md)
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
 ## Lessons
@@ -25,6 +20,7 @@
   - [Project](future-proof-with-python/working-with-data/project.md)
 
   - [Wrap up](future-proof-with-python/working-with-data/wrap-up.md)
+  - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
 - [Conditionals](future-proof-with-python/conditionals.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
@@ -53,6 +49,5 @@
   - [Range function](future-proof-with-python/loops/range-function.md)
   - [While loops](future-proof-with-python/loops/while-loops.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
-- [Try kibo onboarding](future-proof-with-python/try-kibo-onboarding.md)
 
 - [Wrapping up final steps for fpwp5](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
