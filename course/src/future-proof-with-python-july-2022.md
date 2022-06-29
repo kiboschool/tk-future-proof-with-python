@@ -16,8 +16,6 @@
 
 Community Orientation
 
-Lesson 0: Learning With Kibo
-
 Week 1: Working with Data
 
 Week 2: Conditionals
