@@ -6,7 +6,7 @@
 
 <aside>
 
-<img src="/future-proof-with-python/instruction.png" alt="Future%20Proof%20with%20Python%20(April%202022)%20cde560ea771b4db192e308aa17d69936/instruction.png" width="40px" /> Watch this video from your community manager for a walk-through on how Notion works
+<img src="/future-proof-with-python/instruction.png" alt="Future%20Proof%20with%20Python%20(April%202022)%20cde560ea771b4db192e308aa17d69936/instruction.png" width="40px" /> Watch this welcome video from your instructor, Mo.
 
 </aside>
 
