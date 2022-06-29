@@ -1,6 +1,6 @@
 # Future Proof With Python July 2022
 
-**_[bit.ly/tk5-fpwp](http://bit.ly/tk5-fpwp)_**
+**_[bit.ly/tk6-fpwp](http://bit.ly/tk6-fpwp)_**
 
 **Welcome to Future Proof with Python!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. This page includes links to the lessons for the course. New lessons will be added each week.
 
