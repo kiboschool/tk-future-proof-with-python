@@ -2,7 +2,7 @@
 
 [Welcome!](future-proof-with-python-july-2022.md)
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
-[Onboarding](future-proof-with-python/try-kibo-onboarding.md)
+[Set up for class](future-proof-with-python/try-kibo-set-up-for-class.md)
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
 ## Lessons
