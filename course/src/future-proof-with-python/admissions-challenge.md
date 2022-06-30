@@ -5,13 +5,12 @@
 
 ---
 
-## Welcome to the Challenge!
+## Congratulations on completing the challenge!
 
 <aside>
 
-Watch the video to learn more about how notion works and how to access your challenges
+Well done on completing the challenge and gaining admission to the program. This page includes all the lessons you did as part of the challenge for reference. If you made it this far, you have already completed the challenge so head to the next section. 
 
-</aside>
 
 [https://youtu.be/Ja57HYc828s](https://youtu.be/Ja57HYc828s)
 
