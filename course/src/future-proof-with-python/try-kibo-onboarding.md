@@ -18,7 +18,7 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 </aside>
 
-| Teaching Assistant | Time (in GMT, translate to your local time) | Sign-Up Link                     | Status                  |
+| Instructor | Time (in GMT, translate to your local time) | Sign-Up Link           | Status                  
 | ------------------ | ------------------------------------------- | -------------------------------- | ----------------------- |
 | Mohammed           | 12:00pm GMT                                 | https://lu.ma/fpwp-mo-a          | open |
 | Mohammed           | 15:00pm GMT                                 | https://lu.ma/fpwp-mo-b          | open |
