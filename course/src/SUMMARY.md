@@ -1,11 +1,16 @@
 # Future Proof with Python
 
 [Welcome!](future-proof-with-python-july-2022.md)
+
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
-[Set up for class](future-proof-with-python/try-kibo-set-up-for-class.md)
+
+[Set up for class](future-proof-with-python/try-kibo-onboarding.md)
+
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
-<!--## Lessons
+<!--
+
+## Lessons
 
 - [Working with data](future-proof-with-python/working-with-data.md)
 
@@ -50,4 +55,6 @@
   - [While loops](future-proof-with-python/loops/while-loops.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
 
-- [Wrapping up final steps for fpwp5](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)-->
+- [Wrapping up final steps for fpwp5](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
+
+-->
