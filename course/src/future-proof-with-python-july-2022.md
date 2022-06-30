@@ -30,7 +30,7 @@ Week 5: Final Project
 
 ## Program Schedule
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/1jBHN9Bh-LLbchnR3SY6UHugRHZT3DzdyLfSrtzdSI2Y/edit#slide=id.g124eed9e17f_1_59" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/embed?id=1jBHN9Bh-LLbchnR3SY6UHugRHZT3DzdyLfSrtzdSI2Y/edit#slide=id.g124eed9e17f_1_59" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 ---
 
