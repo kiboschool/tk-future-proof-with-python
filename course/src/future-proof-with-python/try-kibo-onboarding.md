@@ -1,4 +1,4 @@
-# Try kibo onboarding
+# Set up for class
 
 ---
 
@@ -14,23 +14,15 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 <aside>
 
-🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday April 28th**, **Thursday May 5th**, **Thursday May 12th**, and **Thursday May 19th**.
+🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday July 14th**, **Thursday July 21st**, **Thursday May 28th**, and **Thursday August 4th**.
 
 </aside>
 
 | Teaching Assistant | Time (in GMT, translate to your local time) | Sign-Up Link                     | Status                  |
 | ------------------ | ------------------------------------------- | -------------------------------- | ----------------------- |
-| Ojoayo             | 12:00pm GMT                                 | https://lu.ma/fpwp5-ojoayo       | FULL - no more sign ups |
-| Sha-Mayn & Alice   | 12:00pm GMT                                 | https://lu.ma/fpwp5-aliceshamayn | FULL - no more sign ups |
-| Ismail             | 12:00pm GMT                                 | https://lu.ma/fpwp5-ismail       |                         |
-| Ahmad              | 1:30pm GMT                                  | https://lu.ma/fpwp5-ahmad        |                         |
-| Mohammed           | 3:00pm GMT                                  | https://lu.ma/fpwp5-mohammed     |                         |
-| Theresa            | 5:00pm GMT                                  | https://lu.ma/fpwp5-theresa      |                         |
-| Stanley            | 5:00pm GMT                                  | https://lu.ma/fpwp5-stanley      |                         |
-| Faith              | 5:00pm GMT                                  | https://lu.ma/fpwp5-faith        | FULL - no more sign ups |
-| Hillary            | 6:00pm GMT                                  | https://lu.ma/fpwp5-hillary      | FULL - no more sign ups |
-| Daniel             | 6:30pm GMT                                  | https://lu.ma/fpwp5-daniel       | FULL - no more sign ups |
-| Mubaarak           | 8:00pm GMT                                  | https://lu.ma/fpwp5-mubaarak     | FULL - no more sign ups |
+| Mohammed           | 12:00pm GMT                                 | https://lu.ma/fpwp-mo-a          | open |
+| Mohammed           | 15:00pm GMT                                 | https://lu.ma/fpwp-mo-b          | open |
+
 
 ---
 
@@ -41,6 +33,22 @@ Discord is our community platform. It's where you will get daily announcements, 
 **Click here to join the Kibo School Discord server: [https://discord.gg/9Vqam4Ub](https://discord.gg/9Vqam4Ub)** and \***\*then follow the instructions to sign up. Once you have joined, update your Discord profile and introduce yourself to the community (**see details below on how to do both of these\*\*).
 
 ### **Update your Discord Profile**
+
+# Join Replit for class
+<aside>
+  
+
+🛠️ As you know, during Try Kibo, you will write code in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript.
+
+You will use Replit to **practice coding** and to **submit your assignments**.
+
+</aside>
+
+You have already a Replit account during the admissions challenge. 
+
+- Go to [replit.com](https://replit.com)
+- Select "Sign in" at the top right corner and enter your details
+- [Click this link](https://replit.com/teams/join/ngoyuthkryfsfgfirfdztblrzkwrdsoy-kibo-fpwp6) to join the Replit team for the class. 
 
 You can customize your profile by finding yourself in the member list, then selecting “Edit Server Profile.” For instructions, see the gif below.
 
@@ -70,7 +78,7 @@ _Example:_
 
 # Onboarding Checklist
 
-We’re excited to see you at Orientation on Monday April 25th from 3pm - 5pm GMT. You should already have an invitation with a zoom link. Before you go, make sure that you have:
+We’re excited to see you at Orientation on Tuesday July 12th from 3pm - 5pm GMT. You should already have an invitation with a zoom link. Before you go, make sure that you have:
 
 - [ ] **Selected a live class time (and received a confirmation email)**
 - [ ] **Joined Discord and updated your profile name, photo, and description**
