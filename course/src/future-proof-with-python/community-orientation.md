@@ -7,14 +7,14 @@
 <aside>
 
 ⚠️ **Make sure you have signed into Orientation**
-If not, fill out this form so that we can confirm that you attended: [**https://bit.ly/3JMVajH**](https://bit.ly/3JMVajH)
+If not, fill out this form so that we can confirm that you attended: **[https://bit.ly/3JMVajH](https://bit.ly/3JMVajH)**
 
 </aside>
 
 <aside>
 
 ⚠️ **Make sure you have signed up for Discord.**
-If not, click this link and follow the instructions to join the Kibo School Discord server: [**https://discord.gg/9Vqam4Ub**](https://discord.gg/9Vqam4Ub)
+If not, click this link and follow the instructions to join the Kibo School Discord server: **[https://discord.gg/9Vqam4Ub](https://discord.gg/9Vqam4Ub)**
 
 </aside>
 
