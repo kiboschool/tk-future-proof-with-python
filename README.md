@@ -131,21 +131,6 @@ vercel, assign a production domain, and set up auto-deploys.
 If all that's been done...
 
 * Pushes to the `main` branch will automatically deploy to vercel. 
-* Vercel serves the static content from the `course/output` directory. Run `mdbook
-build` to update the build output.
+* Vercel will run `mdbook build` and then serve the static output of `course/output`
 
-### Manual deployment
 
-You'll need vercel permissions.
-
-Create a preview deploy:
-
-```
-vercel
-```
-
-Deploy to production:
-
-```
-vercel --prod
-```
