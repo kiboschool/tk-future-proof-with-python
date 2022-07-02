@@ -56,6 +56,6 @@ After this week, you will be able to:
 
 <aside>
 
-<img src="/future-proof-with-python/learning-with-kibo/man-in-hike.png" alt="Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Program Overview](/future-proof-with-python/working-with-data/program-overview.md)
+Next up: [Program Overview](/future-proof-with-python/working-with-data/program-overview.md)
 
 </aside>
