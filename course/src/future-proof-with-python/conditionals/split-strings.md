@@ -4,7 +4,7 @@ _Estimated Time: 30 minutes_
 
 ---
 
-In the first week, you learned how to do some useful operations with strings, e.g., concatenate or combine strings. There’s one more operation — splitting — that will help you prepare for your projects, especially Tic-tac-toe. We’ll review that briefly here before moving on to this week’s main topics which are Conditionals.
+In the past sections, you learned how to do some useful operations with strings, e.g., concatenate or combine strings. There’s one more operation — splitting — that will help you prepare for your projects and do some cool stuff.
 
 ### Key ideas
 
@@ -22,6 +22,6 @@ In the first week, you learned how to do some useful operations with strings, e.
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [2.1 - Simple decisions](/future-proof-with-python/conditionals/simple-decisions.md)
+Next up: [2.1 - Simple decisions](/future-proof-with-python/conditionals/simple-decisions.md)
 
 </aside>

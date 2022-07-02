@@ -23,16 +23,20 @@
   - [Project](future-proof-with-python/working-with-data/project.md)
 
   - [Wrap up](future-proof-with-python/working-with-data/wrap-up.md)
+  - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
 - [Conditionals](future-proof-with-python/conditionals.md)
-  - [Bonus](future-proof-with-python/conditionals/bonus.md)
+
+  - [Simple decisions](future-proof-with-python/conditionals/simple-decisions.md)
+
   - [Multi way decisions](future-proof-with-python/conditionals/multi-way-decisions.md)
   - [Practice conditionals](future-proof-with-python/conditionals/practice-conditionals.md)
   - [Project](future-proof-with-python/conditionals/project.md)
-  - [Simple decisions](future-proof-with-python/conditionals/simple-decisions.md)
-  - [Split strings](future-proof-with-python/conditionals/split-strings.md)
+
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
+  - [Bonus](future-proof-with-python/conditionals/bonus.md)
+
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
 
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
@@ -46,6 +50,7 @@
   - [Project](future-proof-with-python/lists-and-loops/project.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
 - [Loops](future-proof-with-python/loops.md)
+
   - [For loops](future-proof-with-python/loops/for-loops.md)
   - [Practice loops and conditionals](future-proof-with-python/loops/practice-loops-and-conditionals.md)
   - [Project](future-proof-with-python/loops/project.md)
