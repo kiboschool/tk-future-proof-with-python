@@ -2,9 +2,12 @@
 
 [Welcome!](future-proof-with-python-july-2022.md)
 
+[Set up for class](future-proof-with-python/try-kibo-onboarding.md)
+
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
-[Set up for class](future-proof-with-python/try-kibo-onboarding.md)
+
+<! --
 
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
@@ -59,3 +62,5 @@
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
 
 - [Wrapping up final steps for fpwp5](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
+
+-->
