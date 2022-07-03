@@ -1,20 +1,16 @@
-# Admissions Challenge: Learning Python with Kibo
-*Estimated Time: 2 hour 30 mins*
-
-[https://bit.ly/tk6-fpwp6-challenge](https://bit.ly/tk6-fpwp6-challenge)
+# Admissions challenge: Learning Python with Kibo
 
 ---
 
-## Congratulations on completing the challenge!
-
 <aside>
+  
+  **Well done on completing the challenge and gaining admission to the program.** This page includes all the lessons you did as part of the challenge, for reference only. You've finished the challenge, so there is nothing more for you to do on this page.
 
-Well done on completing the challenge and gaining admission to the program. This page includes all the lessons you did as part of the challenge for reference. If you made it this far, you have already completed the challenge so head to the next section. 
+</aside>
 
 
-[https://youtu.be/Ja57HYc828s](https://youtu.be/Ja57HYc828s)
 
-In this lesson, you’ll get:
+## In this lesson, you’ll get:
 
 - an overview of how learning at Kibo works
 - instructions to set up the tools you need

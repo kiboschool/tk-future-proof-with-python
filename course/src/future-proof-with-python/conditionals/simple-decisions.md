@@ -38,7 +38,7 @@ Up until now, Python has run every line of code in our programs, in order. With 
 
 A one-branch `if` statement is the simplest **conditional statement**. Below is a flow control diagram for the code snippet.
 
-![2%201%20Simple%20decisions%20efbfa340f5df47bd9059c5d369f5793d/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![onebranchif](/future-proof-with-python/conditionals/simple-decisions/one-branch-if.png)
 
 The **boolean expression** after `if`, in this case `x > 0`, is called the **condition**. If it is true, then the indented statement gets executed. **If not, nothing happens.**
 
@@ -148,7 +148,7 @@ print("Goodbye")         # runs no matter what
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/If-Awkward" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W21-If-Awkward" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## If-Else
 
@@ -192,10 +192,10 @@ A sample run of the code should look like this:
 
 ![2%201%20Simple%20decisions%20efbfa340f5df47bd9059c5d369f5793d/Untitled%202.png](/future-proof-with-python/conditionals/simple-decisions/untitled-2.png)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Stay-and-Par-tay" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W22-Stay-and-Par-tay" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Multi-way decisions](/future-proof-with-python/conditionals/multi-way-decisions.md)
+Next up: [Multi-way decisions](/future-proof-with-python/conditionals/multi-way-decisions.md)
 
 </aside>

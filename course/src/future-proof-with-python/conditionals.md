@@ -35,8 +35,6 @@ After this week, you will be able to:
 
 </aside>
 
-[1.7 Split strings](/future-proof-with-python/conditionals/split-strings.md)
-
 [2.1: Simple decisions](/future-proof-with-python/conditionals/simple-decisions.md)
 
 [2.2: Multi-way decisions](/future-proof-with-python/conditionals/multi-way-decisions.md)
@@ -45,12 +43,12 @@ After this week, you will be able to:
 
 [Project](/future-proof-with-python/conditionals/project.md)
 
-[Bonus ](/future-proof-with-python/conditionals/bonus.md)
-
 [Wrap Up](/future-proof-with-python/conditionals/wrap-up.md)
+
+[Bonus ](/future-proof-with-python/conditionals/bonus.md)
 
 <aside>
 
-<img src="/future-proof-with-python/learning-with-kibo/man-in-hike.png" alt="Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Split strings](/future-proof-with-python/conditionals/split-strings.md)
+Next up: [Split strings](/future-proof-with-python/conditionals/split-strings.md)
 
 </aside>
