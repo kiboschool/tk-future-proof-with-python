@@ -7,8 +7,13 @@ _Estimated Time: 20 minutes_
 ## What you need to know about data types
 
 - Python can store different **types** of data
-- The basic types of data you’ll learn about first are Strings, Integers, Floats, and Boolean values
-- Python knows how to do different operations based the type of value, like `+` to add numbers together
+- The basic types of data you’ll learn about first are:
+  - Strings
+  - Integers
+  - Floats
+  - Booleans
+- Python can do different operations based the data type
+  - like `+` to add numbers together
 
 ## Basic Data Types
 
@@ -24,7 +29,7 @@ Every programming language has data types, but the built-in types are different 
 - **str** (for string)
   - Stores text as character-based data like words, e.g., `Hello World`
 
-These are called _primitive types_. Python can represent more complicated data using _compound types_ like List and Dictionary, \*\*which are made out of the primitive types. We’ll learn about some of those in later lessons.
+These are called _primitive types_. Python can represent more complicated data using _compound types_ like List and Dictionary, which are made out of the primitive types. We’ll learn about some of those in later lessons.
 
 Python figures out the type automatically based on some rules:
 
@@ -38,13 +43,15 @@ There are more rules for other types, but we're skipping them for now.
 
 <aside>
 
-Watch this video to learn about data types.
+📺 Watch this video to learn about data types.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xvmPtqoEBn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## Video Notes
+<aside>
+
+### Video Notes
 
 - Every value in Python has a type, for example, **string**, **float**, and **integer**. You can find out what type a value is by using the `type()` function.
 - **Strings** are for representing text.
@@ -80,19 +87,86 @@ Watch this video to learn about data types.
   ```
 - There are lots more Python types that we didn’t cover. You can look them up by using Google to find the Python documentation.
 
+</aside>
+
 ## Operators
 
-- **Operators** are symbols that represent computations like addition and multiplication.
-  - **+** performs **addition**
-  - **-** performs **subtraction**
-  - **\*** performs **multiplication**
-  - **/** performs **division**
-  - **\*\*** performs **exponentiation**
-  - **%** performs **remainder (or modulus) operation**
+**Operators** are symbols that represent computations like addition and multiplication.
+
+- `+` performs **addition**
+- `-` performs **subtraction**
+- `*` performs **multiplication**
+- `/` performs **division**
+- `**` performs **exponentiation**
+- `%` performs **remainder (or modulus) operation**
+
+## What would happen?
+
+Try to guess what each snippet would print out. Then, click the arrow to see an
+explanation.
+
+<details>
+<summary>
+
+```python
+print(5 + 10)
+```
+</summary>
+
+It would print `15`.
+
+First, python adds `5` and `10`, then it does the `print`.
+</details>
+
+<details>
+<summary>
+
+```python
+print(4 + 3 * 2)
+```
+</summary>
+
+It would print `10`.
+
+Python uses the same order of operations as school
+arithmetic, so the `*` comes before the `+`.
+
+</details>
+
+<details>
+<summary>
+
+```python
+print(10 ** 5)
+```
+
+</summary>
+
+It would print `100000`. 
+
+`**` is the exponentiation operator, so it's as if Python did `10 * 10 * 10 * 10 * 10`.
+
+</details>
+
+<details>
+<summary>
+
+```python
+print(12 % 10)
+```
+
+</summary>
+
+It would print `2`.
+
+The `%` operation calculates the remainder. `12` divided by `10` has remainder `2`.
+
+
+</details>
 
 ## Expressions
 
-An expression is a sequence of operands and operators, like 15+5, that gets evaluated to a certain result.
+An expression is a sequence of operands and operators, like `15+5`, that gets evaluated to a certain result.
 
 Python doesn’t do everything all at once. It runs a program line by line, in order. Within a line, Python has an evaluation order that decides what comes first.
 
@@ -154,10 +228,6 @@ Every opening paren needs a closing paren. You can’t do just `(5 + 7`, it need
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W12-Practice-Operators" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
-</aside>
 
 <details><summary>Solution Code (try for 5 minutes before peeking)</summary>
 

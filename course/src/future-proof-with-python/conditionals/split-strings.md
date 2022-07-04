@@ -4,7 +4,9 @@ _Estimated Time: 30 minutes_
 
 ---
 
-In the past sections, you learned how to do some useful operations with strings, e.g., concatenate or combine strings. There’s one more operation — splitting — that will help you prepare for your projects and do some cool stuff.
+> ⚠️ This is a bonus section. Only complete it if you have time after completing the rest of this week's lessons.
+
+ You've learned how to do some useful operations with strings, like concatenating and combining. There’s one more operation — splitting — that will help you prepare for your projects and do some cool stuff.
 
 ### Key ideas
 
@@ -14,7 +16,7 @@ In the past sections, you learned how to do some useful operations with strings,
 
 <aside>
 
-Watch this video to learn how to use split() function to divide strings
+Watch this video to learn how to use the `split()` function to divide strings
 
 </aside>
 

@@ -57,10 +57,7 @@ f-strings have other formatting powers, but we’ll leave it at rounding floats 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W15-F-strings-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-</br>
-</br>
-<details><summary>Solution: F-strings practice
-</summary>
+<details><summary>Solution: F-strings practice</summary>
 
 ```python
 first_num = float(input("enter first number: "))
