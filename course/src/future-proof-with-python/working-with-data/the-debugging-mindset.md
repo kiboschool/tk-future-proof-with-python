@@ -8,22 +8,17 @@ Learning programming is challenging!
 
 On this page, we’ve collected skills, tips, and mindsets helped students get the most from the program. We hope that they help you too.
 
-- [Growth Mindset](/future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-- [Debugging Mindset](/future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-- [Learn from Your Peers](/future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-- [Ask for Help](/future-proof-with-python/learning-with-kibo/the-debugging-mindset.md)
-
 ## 🌱 Growth Mindset
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the following video on the most powerful mindset for success
+Watch the following video on the most powerful mindset for success
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/qjBdcyueom8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**In this class and beyond, we hope you use the following methods mentioned in the video to improve your learning**
+**In this class and beyond, we hope you use the following methods mentioned in the video to improve your learning:**
 
 - Maintaining a growth mindset
 - Using and refining a process
@@ -32,15 +27,16 @@ On this page, we’ve collected skills, tips, and mindsets helped students get t
 
 ## 🐛 Debugging Mindset
 
-> _What we see as a good program with a small bug, the child sees as “wrong”, “bad”, “a mistake”. School teaches that errors are bad; the last thing one wants to do is to pore over them, dwell on them, or think about them. The child is glad to take advantage of a computer’s ability to erase it all without any trace for anyone to see. The debugging philosophy suggests an opposite attitude. **Errors benefit us because they lead us to study what happened, to understand what went wrong, and, through understanding, to fix it**. Experience with computer programming leads children more effectively than any other activity to “believe in” debugging._
-
-Seymour Papert*, Mindstorms*
-
+> What we see as a good program with a small bug, the child sees as “wrong”, “bad”, “a mistake”. School teaches that errors are bad; the last thing one wants to do is to pore over them, dwell on them, or think about them. The child is glad to take advantage of a computer’s ability to erase it all without any trace for anyone to see. The debugging philosophy suggests an opposite attitude. **Errors benefit us because they lead us to study what happened, to understand what went wrong, and, through understanding, to fix it**. Experience with computer programming leads children more effectively than any other activity to “believe in” debugging.
+>
+> *Seymour Papert, Mindstorms*
 >
 
 **When you see errors in your code, how do you feel?**
 
-When you see the red Python error message, the Replit tests don’t pass, or your program isn’t doing what you want, it’s natural to feel scared, stressed, or frustrated! However, errors don’t mean your program is _bad,_ and they definitely don’t mean you are a bad programmer*.*
+When you see the red Python error message, the Replit tests don’t pass, or your program isn’t doing what you want, it’s natural to feel scared, stressed, or frustrated.
+
+However, errors don’t mean your program is _bad,_ and they definitely don’t mean you are a bad programmer.
 
 Debugging is the process of making programs better - **and learning means running into _lots_ of bugs.**
 
@@ -99,31 +95,37 @@ Here’s more quotes from past students:
 
 > What I found valuable was the fact that I was not going to be judged for asking questions, no matter how "Useless" it sounds.
 
-### **How should you ask for help?**
+### **How to ask for help**
 
-When you need to ask the community or Kibo team for help, you might send a message that only says, "I need help". Unfortunately, **this message does not have the information needed to help you**. You won’t get the help you need.
+When you need to ask for help, you might send a message that only says, "I need help". Unfortunately, **this message does not have the information needed to help you**. You won’t get the help you need.
 
-Therefore, when writing a message to ask for help, be sure to include the following information:
+When asking for help, include the following information:
 
-1.  Details of your goal. _"I am trying to [goal]."_
-2.  Details of what you have tried so far. _"I have tried [details of how you have tried to solve the problem already]."_
-3.  Any helpful context. “_Here’s a screenshot of my code._"
+1. Details of your goal. 
 
-4 - Specific ask. _"Can you help me [specific ask]"_
+    _"I am trying to [goal]."_
 
-**❌ Don’t Write:**
+2. Details of what you have tried so far.
+
+    _"I have tried [details of how you have tried to solve the problem already]."_
+
+3. Helpful context.
+
+    _“Here’s a screenshot of my code."_
+
+**❌ Don’t Write**
 
 - “need help”
 - “I’m stuck on problem 3”
 - “Can anyone help?”
 - “Hi”
 
-**✅ Do Write:**
+**✅ Do Write**
 
 - “I’m working on solving problem three, and getting this error when I run my code: [screenshot]. Can anyone help explain this error? I don’t get it.”
 - “I’m trying to print all the values in this list for my project, but it keeps saying `NameError: name ‘item’ is not defined`. Here's a screenshot of my code. I tried changing the list, but that didn't work."
 
-### Screenshots
+## Screenshots
 
 It’s often helpful to include a screenshot with your question. Here’s how:
 
@@ -132,9 +134,3 @@ It’s often helpful to include a screenshot with your question. Here’s how:
   - _alternatively: press the Windows key + Shift + S to open the snipping tool_
 - **Mac:** press the Command key + Shift key + 4
   - it will save to your desktop, and show as a thumbnail
-
-<aside>
-
-<img src="/future-proof-with-python/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Wrap Up](/future-proof-with-python/learning-with-kibo/wrap-up.md)
-
-</aside>

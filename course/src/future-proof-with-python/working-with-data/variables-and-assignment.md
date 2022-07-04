@@ -15,38 +15,47 @@ _Estimated Time: 15 minutes_
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about variables.
+📺 This video explains variables in Python
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZDjxKGNfJKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## Video Notes
+<aside>
+
+### Video Notes
 
 - Working with variables and data is a core part of learning programming
 - A **Variable** is a named place in memory. We can use it to store data and manipulate it, using its name.
 - An **assignment statement** assigns some value (on the right-hand side) to the variable name on the left-hand side. Technically this means putting this value in memory and point to it using that variable name.
 
-## Video: Variable Names
+</aside>
+
+## Variable Names
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about variable naming rules
+📺 Watch this video to learn about variable naming rules
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/csYYlAITTzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+
 ### Video Notes
 
-- Variable names in Python must follow some rules:
-  - We cannot use r**eserved words for** variables names**.** Reserved words include words like `if`, `for,` `return`, which have specific meanings in Python
+Variable names in Python must follow some rules:
+
+  - We cannot use **reserved words** variables names. Reserved words include words like `if`, `for,` `return`, which have specific meanings in Python
   - Names can start with letters or underscores, and can only contain letters, numbers, and underscores. They can’t have spaces.
-- Variable names are case-sensitive. That means `shop` and `Shop` can refer to different values.
+  - Variable names are case-sensitive. That means `shop` and `Shop` can refer to different values.
+
+</aside>
 
 ### Good and Bad Variable Names
 
-Good variable naming is important! Variable names should be descriptive and help a human reader to understand the code.
+Variable names should be descriptive and help a reader understand the code.
 
 For example, take a look at the code below:
 
@@ -80,11 +89,8 @@ These variable names are descriptive and helpful!
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W11-Practice-Variables-and-Assignment-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-</aside>
-
-<details><summary>Solution (try for 5 minutes before looking!)</summary>
+<details>
+<summary><strong>Solution</strong> (try for 5 minutes before looking!)</summary>
 
 ```python
 books_read = 13
@@ -96,11 +102,3 @@ print(meals_eaten)
 ```
 
 </details>
-
-</br>
-</br>
-<aside>
-
-Next up: [Data Types, Operators, and Expressions](/future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
-
-</aside>

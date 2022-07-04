@@ -246,9 +246,3 @@ A sample run of your code should look like this:
 
   print("The number of items in the list is", len(my_list))
   ```
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Practice: Lists](/future-proof-with-python/lists-and-loops/practice-lists.md)
-
-</aside>

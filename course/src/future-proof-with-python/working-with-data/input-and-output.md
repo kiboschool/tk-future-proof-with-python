@@ -19,7 +19,9 @@ Websites and apps you have used in the past have a whole screen full of text and
 print("Hello, world")
 ```
 
-You’ve written code like this from your first “Hello, World” program. When you run it, the output shows up. In Replit, output shows in the ‘Console’ tab. On early computers, there was _only_ a text console. On the earliest computers, there wasn’t a screen at all - instead, the output was printed out on paper. The output now shows up in the Console in our web browser, but we still call the function `print`.
+You’ve written code like this from your first “Hello, World” program. When you run it, the output shows up.
+
+In Replit, output shows in the ‘Console’ tab. On early computers, there was _only_ a text console. On the earliest computers, there wasn’t a screen at all. Instead, the output was printed out on paper. The output now shows up in the Console in our web browser, but we still call the function `print`.
 
 ```python
 print("We can print any string we want")
@@ -61,17 +63,17 @@ Converting to a float is similar:
 soda_price = float(input("How much does a soda cost?"))
 ```
 
-- What does python do if you try to convert a string like `"3.5"` to an integer using `int`?
+<details>
+<summary>What does python do if you try to convert a string like <code>"3.5"</code> to an integer using <code>int</code>?
+</summary>
 
-  ```python
-  int("3.5") # ValueError: invalid literal for int() with base 10: '3.5'
-  ```
+```python
+int("3.5") # ValueError: invalid literal for int() with base 10: '3.5'
+```
 
-    <aside>
+⚠️  Python doesn’t want to accidentally lose information. Instead of guessing whether you want to round up or down, it raises a `ValueError` and halts the program.
 
-  ⚠️ Python doesn’t want to accidentally lose information. Instead of guessing whether you want to round up or down, it raises a `ValueError` and halts the program.
-
-    </aside>
+</details>
 
 ### Practice: Assigning and printing user input
 
@@ -103,24 +105,13 @@ What happens when there’s nothing between the parentheses? Or if you leave off
 
 Sometimes, the best way to find things out about how Python works is to try it out.
 
-- **Experiment with `print` to find out what it does in different situations**
-  [https://replit.com/@kibocurriculum/Explore-With-Print](https://replit.com/@kibocurriculum/Explore-With-Print)
+> **Experiment with `print` to find out what it does in different situations**
+> 
+> [https://replit.com/@kibocurriculum/Explore-With-Print](https://replit.com/@kibocurriculum/Explore-With-Print)
 
 ## Print with multiple arguments
 
-<aside>
-
-ℹ️ **Function Arguments**
-
-**`print` and `input` are **functions\*\*. We haven’t talked much about what functions are yet. We can still use them without fully understanding them yet.
-
-The name of “the things between the parentheses” is **\*arguments**.\*
-
-Function **arguments** let the same function do something different each time you use it. `print` always sends _something_ to the Console, but what it sends depends on the _arguments_ in the parentheses.
-
-</aside>
-
-The `print()` function can take more than one argument. It can have more than one thing inside the `(...)`
+The `print()` function can take more than one argument. It can have more than one thing inside the parentheses `(...)`
 
 However, you must separate arguments by commas.
 
@@ -130,27 +121,36 @@ print("Hello" name) # SyntaxError: invalid syntax (because there's no comma)
 print("Hello", name) # Hello Emmy
 ```
 
-## **Example: Input and Output**
+<aside>
+
+ℹ️ **Function Arguments**
+
+`print` and `input` are **functions**. (We haven’t covered functions yet, but we can use them without fully understanding them.)
+
+The name of “the things between the parentheses” is **arguments**.
+
+Function **arguments** let the same function do something different each time you use it. `print` always sends _something_ to the Console, but what it sends depends on the _arguments_ in the parentheses.
+
+</aside>
+
+## Example: Input and Output
 
 <aside>
 
 👉🏿 Let's take a look at a Python program that gives instructions to add two numbers:
 
-<aside>
-
 👩🏿‍💻 Below is a program hosted on Replit.
 
-**To complete:**
+1. [**Click** on the link to open the exercise](https://replit.com/@kibocurriculum/add-two-numbers)
+2. **Run** the code using the green "Run ▷" button
+3. **Follow** the prompts in the `Console` tab, to enter two numbers
+4. **See** the results of the program
 
-(1) **Click** on the <a href="https://replit.com/@kibocurriculum/add-two-numbers" target="_blank">link</a> to open it.
-
-(2) **Run** the code using the green "Run ▷" button
-
-(3) **Follow** the prompts in the `Console` tab, to enter two numbers
-
-(4) **See** the results of the program
+[https://replit.com/@kibocurriculum/add-two-numbers](https://replit.com/@kibocurriculum/add-two-numbers)
 
 </aside>
+
+Here's the code for the exercise:
 
 ```python
 1. first_num = int(input("enter first number: "))
@@ -167,7 +167,7 @@ In plain English, here is what the code does:
 - **line 1:** Ask the user for an input. Convert the input to an integer, and store it in a variable named `first_num`
 - **line 2:** Ask the user for another input. Convert the input to an integer, and store it in a variable named `second_num`
 - **line 4:** Add `first_num` and `second_num` and put the result in a third variable named `total`
-- **line 6:** Print out the string "the sum is" and the value of the variable named `total`
+- **line 6:** Print out the string `"the sum is"` and the value of the variable named `total`
 
 <aside>
 
@@ -214,10 +214,3 @@ print("the sum of the three numbers is: ", total)
 ```
 
 </details>
-
-</br>
-<aside>
-
-Next up: [String Concatenation and f-strings](/future-proof-with-python/working-with-data/string-concatenation-and-f-strings.md)
-
-</aside>

@@ -125,7 +125,7 @@ print(total)
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about lists and loops with conditions.
+Watch this video to learn about lists and loops with conditions.
 
 </aside>
 
@@ -270,11 +270,3 @@ The program should look like this when it runs:
 
   print("The smallest number is:", minimum)
   ```
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Practice: Lists and Loops](/future-proof-with-python/lists-and-loops/practice-lists-and-loops.md)
-
-</aside>

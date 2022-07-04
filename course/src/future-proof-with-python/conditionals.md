@@ -21,34 +21,8 @@ After this week, you will be able to:
 
 <aside>
 
-<img src="/future-proof-with-python/instruction.png" alt="instruction.png" width="40px" /> A note from FPWP instructor Mohammed on week 2
+A note from FPWP instructor Mohammed on week 2
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/GPcK5fTCnMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-## Sections
-
-<aside>
-
-<img src="/future-proof-with-python/instruction.png" alt="instruction.png" width="40px" /> Complete this lesson by exploring each section
-
-</aside>
-
-[2.1: Simple decisions](/future-proof-with-python/conditionals/simple-decisions.md)
-
-[2.2: Multi-way decisions](/future-proof-with-python/conditionals/multi-way-decisions.md)
-
-[Practice: Conditionals](/future-proof-with-python/conditionals/practice-conditionals.md)
-
-[Project](/future-proof-with-python/conditionals/project.md)
-
-[Wrap Up](/future-proof-with-python/conditionals/wrap-up.md)
-
-[Bonus ](/future-proof-with-python/conditionals/bonus.md)
-
-<aside>
-
-Next up: [Split strings](/future-proof-with-python/conditionals/split-strings.md)
-
-</aside>

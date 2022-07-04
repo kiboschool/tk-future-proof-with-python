@@ -4,13 +4,15 @@ _Estimated Time: 20 minutes_
 
 ---
 
-Everything on the computer is a program behind the scenes.
+## Programs
 
-At this very moment, you are reading on a computer, with a web browser. The browser is a program, built by a large team. But, how do they actually do it? What does a program look like when they are writing it? How does it work?
+Everything on a computer is a program behind the scenes.
+
+This very moment, you are reading on a computer, with a web browser. The browser is a program, built by a large team. But, how do they actually do it? What does a program look like when they are writing it? How does it work?
 
 This is the question we'll focus on first: **What are computer programs?**
 
-In <a href="/future-proof-with-python/admissions-challenge.md" target="_blank">Intro to Programming in Python </a> you learned...
+In <a href="/future-proof-with-python/admissions-challenge.md" target="_blank">Intro to Programming in Python</a> you learned...
 
 - Programming languages let us write instructions for computers using words
 - Programming languages get translated into 1s and 0s the machine understands
@@ -19,7 +21,7 @@ In <a href="/future-proof-with-python/admissions-challenge.md" target="_blank">I
 
 Let’s review.
 
-## Programs are...
+### Programs are...
 
 > **Programs are text that a computer can execute as instructions.**
 
@@ -42,7 +44,10 @@ In this course, we're going to use <a href="https://replit.com/" target="_blank"
 
 Replit also has other helpful features that we'll use: multiplayer mode, comments, sharing, and assignments.
 
-### Plain text vs. Rich text
+<details>
+<summary>
+<strong>Further Exploration: Plain text vs. Rich text</strong>
+</summary>
 
 > Why not use something like Google Docs to write code?
 
@@ -57,6 +62,7 @@ For programming, we use something called a "Plain Text Editor", or just "Text Ed
 But... in the examples above, the code has colors!?
 
 Text Editors for programming have features like **Syntax Highlighting** that display your code in color to help you. The colors aren't saved with the code, and you can't change them word-by-word. Replit has built-in features like Syntax Highlighting, so you don't have to worry about it as long as you're using Replit.
+</details>
 
 ## Code Comments
 
@@ -68,7 +74,7 @@ We can help others make sense of our code through its structure, and with commen
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about comments.
+📺 Watch this video to learn about comments.
 
 </aside>
 
@@ -86,20 +92,16 @@ number_of_copies = 10
 print(message * number_of_copies)
 ```
 
-To make programs do what we want, we have to read them, write them, and edit them **together**. We use comments to communicate with the other people that may need to read and understand our code. While code can sometimes make sense on its own, comments fill gaps in explanation.
+Comments communicate with the other people that read our code. While code can sometimes make sense on its own, comments fill gaps in explanation.
 
 In Python, comments start with the `#` character (called ‘hash’ or ‘octothorp’). Anything after the `#` gets ignored by Python - it won’t try to run it as code.
 
 In Kibo, we’ll often use comments to explain code and to illustrate what code does. When you see a snippet like:
 
 ```python
-print(message * number_of_copies) # ProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgramming
+# prints message lots of times
+print(message * number_of_copies)
+# => ProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgrammingProgramming
 ```
 
-The comment is explaining the result of running that line of code.
-
-<aside>
-
-Next up: [Variables and Assignment](/future-proof-with-python/working-with-data/variables-and-assignment.md)
-
-</aside>
+The comments explain the result of running the code.

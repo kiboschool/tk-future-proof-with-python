@@ -27,7 +27,7 @@ _If you canâ€™t do the challenge without looking the solution, it means you donâ
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the solution process
+Watch the video below to see the solution process
 
 - **Exam Results Solution**
   [https://www.loom.com/embed/c0feac819d2d49ecbb5146c7c262ab27](https://www.loom.com/embed/c0feac819d2d49ecbb5146c7c262ab27)
@@ -46,18 +46,10 @@ _If you canâ€™t do the challenge without looking the solution, it means you donâ
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the full solution
+Watch the video below to see the full solution
 
 - **Money for Books Solution**
     <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/P5XvolfsQtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-</aside>
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Project](/future-proof-with-python/conditionals/project.md)
 
 </aside>

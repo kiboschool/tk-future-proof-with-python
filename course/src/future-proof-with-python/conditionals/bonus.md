@@ -47,11 +47,3 @@ In this project, you'll use the `random` and `time` modules to help you create a
 **A note on using Replit for group projects:** the link above will take you to the team page. Scroll down until you see the project then click “Select project group.” You’ll see existing groups that you can join. You will also be able to create a new group. Note that you can’t switch groups after you join, so make sure you confirm your group members (in Discord #help-python) first. If you absolutely need to switch your group, post in Discord and an administrator will help you.
 
 ![Untitled](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Wrap Up](/future-proof-with-python/conditionals/wrap-up.md)
-
-</aside>

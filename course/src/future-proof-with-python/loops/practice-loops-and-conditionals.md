@@ -41,7 +41,7 @@ _If you can’t do the challenge without looking the solution, it means you don�
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the video below to see the full solution. Before checking the solution, make sure you spend enough time thinking and trying. This is really how you learn and build experience.
+Watch the video below to see the full solution. Before checking the solution, make sure you spend enough time thinking and trying. This is really how you learn and build experience.
 
 - **Print Multiples Solution**
   [https://www.loom.com/embed/ab9c0184aaee4f3a9b05a7e66fef46ff](https://www.loom.com/embed/ab9c0184aaee4f3a9b05a7e66fef46ff)
@@ -55,13 +55,5 @@ _If you can’t do the challenge without looking the solution, it means you don�
 👩🏿‍💻 In this example, you'll practice using loops to calculate the Scrabble score of different words.
 
 **Access** and **submit** it in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/P32-Scrabble-Word-Score" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-</aside>
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Project](/future-proof-with-python/loops/project.md)
 
 </aside>
