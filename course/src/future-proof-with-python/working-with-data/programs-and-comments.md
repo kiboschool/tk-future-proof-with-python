@@ -68,7 +68,7 @@ We can help others make sense of our code through its structure, and with commen
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about comments.
+Watch this video to learn about comments.
 
 </aside>
 
@@ -97,9 +97,3 @@ print(message * number_of_copies) # ProgrammingProgrammingProgrammingProgramming
 ```
 
 The comment is explaining the result of running that line of code.
-
-<aside>
-
-Next up: [Variables and Assignment](/future-proof-with-python/working-with-data/variables-and-assignment.md)
-
-</aside>

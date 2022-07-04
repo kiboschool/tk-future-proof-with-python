@@ -15,7 +15,7 @@ _Estimated Time: 15 minutes_
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about variables.
+Watch this video to learn about variables.
 
 </aside>
 
@@ -96,11 +96,3 @@ print(meals_eaten)
 ```
 
 </details>
-
-</br>
-</br>
-<aside>
-
-Next up: [Data Types, Operators, and Expressions](/future-proof-with-python/working-with-data/data-types-operators-and-expressions.md)
-
-</aside>

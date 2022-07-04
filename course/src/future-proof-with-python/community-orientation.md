@@ -106,7 +106,7 @@ To see the list of your squad members, go to your squad text channel, and look a
 
 <aside>
 
-<img src="/future-proof-with-python/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to create a thread in Discord.**
+**Watch the clip below to learn how to create a thread in Discord.**
 
 </aside>
 
@@ -154,7 +154,7 @@ To see the list of your squad members, go to your squad text channel, and look a
 
 <aside>
 
-<img src="/future-proof-with-python/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
+**Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
 
 </aside>
 

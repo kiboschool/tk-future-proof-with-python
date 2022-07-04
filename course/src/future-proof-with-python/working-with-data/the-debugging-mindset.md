@@ -17,7 +17,7 @@ On this page, we’ve collected skills, tips, and mindsets helped students get t
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the following video on the most powerful mindset for success
+Watch the following video on the most powerful mindset for success
 
 </aside>
 
@@ -132,9 +132,3 @@ It’s often helpful to include a screenshot with your question. Here’s how:
   - _alternatively: press the Windows key + Shift + S to open the snipping tool_
 - **Mac:** press the Command key + Shift key + 4
   - it will save to your desktop, and show as a thumbnail
-
-<aside>
-
-<img src="/future-proof-with-python/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Wrap Up](/future-proof-with-python/learning-with-kibo/wrap-up.md)
-
-</aside>

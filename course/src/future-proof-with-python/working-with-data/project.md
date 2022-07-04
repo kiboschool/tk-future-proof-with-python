@@ -33,9 +33,3 @@ Remember...
 - **Debug** if you aren't getting the desired output
 - **Attend** office hours if you need additional support
 - **Ask** for help in Discord
-
-<aside>
-
-Next up: [Wrap Up](/future-proof-with-python/working-with-data/wrap-up.md)
-
-</aside>

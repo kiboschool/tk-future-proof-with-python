@@ -38,7 +38,7 @@ There are more rules for other types, but we're skipping them for now.
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about data types.
+Watch this video to learn about data types.
 
 </aside>
 
@@ -199,9 +199,3 @@ age = "15" # a string
 int(age) + 5 # 15
 age + str(5) # "155"
 ```
-
-<aside>
-
-Next up: [Input and Output](/future-proof-with-python/working-with-data/input-and-output.md)
-
-</aside>

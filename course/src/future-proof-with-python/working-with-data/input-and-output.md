@@ -214,10 +214,3 @@ print("the sum of the three numbers is: ", total)
 ```
 
 </details>
-
-</br>
-<aside>
-
-Next up: [String Concatenation and f-strings](/future-proof-with-python/working-with-data/string-concatenation-and-f-strings.md)
-
-</aside>

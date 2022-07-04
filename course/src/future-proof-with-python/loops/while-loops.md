@@ -177,11 +177,3 @@ while i > 13:
   The check of the condition `i > 13` will result in `False`. 10 is not greater than 13. So, the body of the while loop will be skipped.
 
 </aside>
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [`for` loops](/future-proof-with-python/loops/for-loops.md)
-
-</aside>

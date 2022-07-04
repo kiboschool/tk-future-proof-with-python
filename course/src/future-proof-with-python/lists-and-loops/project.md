@@ -45,9 +45,3 @@ Remember...
 - **Debug** if you aren't getting the desired output
 - **Attend** office hours if you need additional support
 - **Ask** for help in Discord
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Wrap Up](/future-proof-with-python/lists-and-loops/wrap-up.md)
-
-</aside>

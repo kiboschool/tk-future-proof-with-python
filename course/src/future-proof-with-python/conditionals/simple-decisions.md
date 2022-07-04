@@ -193,9 +193,3 @@ A sample run of the code should look like this:
 ![2%201%20Simple%20decisions%20efbfa340f5df47bd9059c5d369f5793d/Untitled%202.png](/future-proof-with-python/conditionals/simple-decisions/untitled-2.png)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W22-Stay-and-Par-tay" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
-Next up: [Multi-way decisions](/future-proof-with-python/conditionals/multi-way-decisions.md)
-
-</aside>

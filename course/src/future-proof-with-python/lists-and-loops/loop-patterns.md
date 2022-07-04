@@ -18,7 +18,7 @@ When solving more complicated problems with lists, it’s also helpful to have m
 
 <aside>
 
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video to learn about lists and loops.
+ Watch this video to learn about lists and loops.
 
 </aside>
 
@@ -115,11 +115,3 @@ _Remember, you can use the third argument to_ `range` _to control the step size.
     total+=i
   print(total)
   ```
-
----
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Debugging Loops and Lists](/future-proof-with-python/lists-and-loops/debugging-loops-and-lists.md)
-
-</aside>

@@ -73,11 +73,3 @@ print(f"the result is {result:.3} ")
 ```
 
 </details>
-
-</br>
-
-<aside>
-
-Next up: [Practice](/future-proof-with-python/working-with-data/practice.md)
-
-</aside>

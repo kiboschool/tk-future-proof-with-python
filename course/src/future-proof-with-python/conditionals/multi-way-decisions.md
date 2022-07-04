@@ -127,9 +127,3 @@ If the input is not greater than 100, it will print output to tell the user that
 if not (x < 10 or x > 100):
 	print("x is a medium sized number")
 ```
-
-<aside>
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> Next up: [Practice Conditionals](/future-proof-with-python/conditionals/practice-conditionals.md)
-
-</aside>
