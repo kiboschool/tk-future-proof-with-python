@@ -74,13 +74,13 @@ _Example:_
 
 ## Onboarding Checklist
 
-We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT.** If you complete all the steps on this page, you will get a calendar invitation for orientation on Saturday. Remember that attending orientation is mandatory to take the class.
+We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT (convert to your local timezone <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt" target="_blank">here</a>).** If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
 
 Before you go, make sure that you have:
 
-- [ ]  Selected a live class time (and received a confirmation email)
-- [ ]  Joined Discord and updated your profile name, photo, and description
-- [ ]  Introduced yourself in the #general channel on Discord
-- [ ]  Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
+- Registered for a live class time (and received a confirmation email)
+- Joined Discord and updated your profile name, photo, and description
+- Introduced yourself in the #general channel on Discord
+- Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
 
  See you soon! 🎉🎉
