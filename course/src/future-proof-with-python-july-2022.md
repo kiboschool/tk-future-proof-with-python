@@ -23,7 +23,9 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
   📺 Watch this lesson navigation walkthrough video from Emmy, one of your community managers
 </aside>
 
-TODO: ADD EMMY's VIDEO WALKTHROUGH
+<div style="position: relative; height: 100%; width: 100%;">
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/d3HOm2JShuY" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Program schedule
 Below is the overall schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
