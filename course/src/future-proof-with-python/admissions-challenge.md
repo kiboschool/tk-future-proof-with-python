@@ -1,5 +1,4 @@
-# Admissions challenge: Learning Python with Kibo
-
+# Admissions challenge - for reference only
 ---
 
 <aside>
@@ -18,8 +17,6 @@
 - an assignment with tasks to complete
 
 <aside>
-
-⚠️ **You must complete the assignment** to gain admission to the program!
 
 </aside>
 
