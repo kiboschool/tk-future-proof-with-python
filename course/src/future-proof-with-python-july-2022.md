@@ -14,10 +14,10 @@
 
 
 ## Completing your lessons
-This page will include all the lessons for the class. Each week, Wasiu will add new lessons and assignments for you to work on. 
-Bookmark this page to find all of your lessons. You can get to this page using: [https://bit.ly/tk6-fpwp](https://bit.ly/tk6-fpwp)
+This page will include all the lessons for the class. Each week, Mo will add new lessons and assignments for you to work on. 
+Bookmark this page to find all of your lessons: [https://bit.ly/tk6-fpwp](https://bit.ly/tk6-fpwp)
 
-To find lessons, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson. 
+To find a lesson, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson. 
 
 <aside>
   📺 Watch this lesson navigation walkthrough video from Emmy, one of your community managers
@@ -28,7 +28,7 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
 </div>
 
 ## Program schedule
-Below is the overall schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
+Below is the  schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/embed?id=1jBHN9Bh-LLbchnR3SY6UHugRHZT3DzdyLfSrtzdSI2Y" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
