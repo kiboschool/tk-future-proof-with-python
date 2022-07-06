@@ -19,7 +19,7 @@ In this lesson, you’ll learn how to write programs that can make simple decisi
 In the example above, you are going to stay at the party if you do not feel awkward. You can write that decision in a general `if` statement:
 
 ```
-**if** I don't feel awkward:
+if I don't feel awkward:
   stay at the party
 ```
 
@@ -38,7 +38,11 @@ Up until now, Python has run every line of code in our programs, in order. With 
 
 A one-branch `if` statement is the simplest **conditional statement**. Below is a flow control diagram for the code snippet.
 
+<div style="text-align:center">
+
 ![onebranchif](/future-proof-with-python/conditionals/simple-decisions/one-branch-if.png)
+
+</div>
 
 The **boolean expression** after `if`, in this case `x > 0`, is called the **condition**. If it is true, then the indented statement gets executed. **If not, nothing happens.**
 

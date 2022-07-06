@@ -1,6 +1,6 @@
 # Wrap up
 
-*Estimated time: 5 minutes*
+_Estimated time: 5 minutes_
 
 ---
 
@@ -21,7 +21,6 @@ Feedback is a gift! We use your feedback to improve our lessons for future stude
 
 <aside>
 
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%2032002756da8b4ed2a610df0347af2a08/man-in-hike.png" width="40px" /> The next lesson will be about Loops.
+The next lesson will be about Loops.
 
 </aside>

@@ -22,7 +22,7 @@ After this week, you will be able to:
 
 <aside>
 
-Future Proof with Python Instructor Mohammed welcomes you to the course
+An introduction to Week 1 from FPWP instructor, Mohammed.
 
 </aside>
 

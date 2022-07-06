@@ -12,7 +12,11 @@ In this section, we will explore writing conditional statements when there are m
 
 Below is the flow control diagram for a multi-branch program:
 
-![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+<div style="text-align:center">
+
+![multi-way-flowchart](/future-proof-with-python/conditionals/multi-way-decisions/multi-way1.png)
+
+</div>
 
 Here is the corresponding Python code:
 
