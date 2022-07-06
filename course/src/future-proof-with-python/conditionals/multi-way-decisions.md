@@ -49,9 +49,7 @@ There is no limit on the number of `elif` statements that can be added, but the 
 
 ![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Screen_Shot_2021-07-27_at_3.10.10_PM.png](/future-proof-with-python/conditionals/simple-decisions/screen-shot-2021-07-27-at-3.10.10-pm.png)
 
-Sample runs of the code now look like this:
-
-![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%201.png](/future-proof-with-python/conditionals/simple-decisions/untitled-1.png)
+Sample run of the code now look like this:
 
 ![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%202.png](/future-proof-with-python/conditionals/simple-decisions/untitled-2.png)
 
