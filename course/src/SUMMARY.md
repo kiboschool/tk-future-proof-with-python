@@ -6,8 +6,6 @@
 
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
-<!--
-
 ## Lessons
 
 ### Week 1
@@ -25,6 +23,7 @@
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
+<!--
 ### Week 2
 
 - [Conditionals](future-proof-with-python/conditionals.md)
