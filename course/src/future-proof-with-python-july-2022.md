@@ -2,11 +2,14 @@
 
 **_[bit.ly/tk6-fpwp](http://bit.ly/tk6-fpwp)_**
 
-**Welcome to Future Proof with Python!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. 
+**Welcome to Future Proof with Python!**
+
+You are joining a global learning community dedicated to helping you learn and thrive in computer science. 
 
 <aside>
   📺 Watch this welcome video from your instructor, Mo. 
 </aside>
+
 
   <div style="position: relative; height: 100%; width: 100%;">
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/OxsDwTYt40s" title="Welcome to Future Proof with Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
