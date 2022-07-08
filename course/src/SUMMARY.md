@@ -6,6 +6,8 @@
 
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
+[Community Orientation](future-proof-with-python/community-orientation.md)
+
 ## Lessons
 
 ### Week 1
