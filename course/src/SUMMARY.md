@@ -6,6 +6,8 @@
 
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
+<!--
+
 ## Lessons
 
 ### Week 1
@@ -33,7 +35,6 @@
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
 
-<!--
 ## Week 3
 
 - [Loops](future-proof-with-python/loops.md)
