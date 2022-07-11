@@ -8,8 +8,7 @@
 
 ⚠️ **Make sure you have signed into Orientation**
 
-If not, fill out this form so that we can confirm that you attended: **[https://bit.ly/3JMVajH](https://bit.ly/3JMVajH)**
-
+If not, fill out this form so that we can confirm that you attended: <a href="https://forms.gle/uoTXNbpysxBM5nJy9" target="_blank"> Orientation Sign Up</a>
 </aside>
 
 <aside>
