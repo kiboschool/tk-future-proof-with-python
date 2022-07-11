@@ -239,7 +239,7 @@ You’re done with orientation and ready to begin class. If you want to keep exp
 
 ## Who You Are (Word Cloud)
 
-![Screenshot 2022-04-25 at 11.31.33 AM.png](/future-proof-with-python/community-orientation/screenshot-2022-04-25-at-11.31.33-am.png)
+Check back later for a copy of the word cloud from the frist part of orientation. 
 
 ---
 
