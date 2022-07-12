@@ -35,6 +35,9 @@ The responsibilities of a squad rep include things like checking in with squad m
 
 </aside>
 
-**Fill out this form to apply! The application deadline is Sunday, May 1st.**
+👉🏿 Fill out the form below or use [this link](https://forms.gle/LKs72kHwghLc6yYo7) to apply.
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfejrh8gBx7QG-10GyN9-dFtazDDWxRhNwGpJvf3Fs8bO_7MQ/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+The application deadline is Monday July 18.
+    
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuy8JmPB7LXX-7zOGc2Rw36LftCg3ScKHUjlkOJe-_RbJAwA/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+   
