@@ -6,6 +6,8 @@
 
 [Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
+[Community Orientation](future-proof-with-python/community-orientation.md)
+
 <!--
 
 ## Lessons
@@ -62,3 +64,5 @@
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md) -->
+
+-->
