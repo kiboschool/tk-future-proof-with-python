@@ -8,8 +8,6 @@
 
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
-<!--
-
 ## Lessons
 
 ### Week 1
@@ -26,6 +24,8 @@
   - [Wrap up](future-proof-with-python/working-with-data/wrap-up.md)
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
+
+<!--
 
 ### Week 2
 
@@ -64,5 +64,3 @@
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md) -->
-
--->
