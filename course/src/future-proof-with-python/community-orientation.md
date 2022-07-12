@@ -243,7 +243,9 @@ You’re done with orientation and ready to begin class. If you want to keep exp
 
 ## Who You Are (Word Cloud)
 
-Check back later for a copy of the word cloud from the frist part of orientation. 
+These are the words you used to describe yourselves. What an awesome group!
+
+![Screenshot 2022-07-12 at 11 33 06 AM](https://user-images.githubusercontent.com/3818920/178545575-e2f3b2d0-3920-4df9-b917-7ef2f1aa4ef9.png)
 
 ---
 
