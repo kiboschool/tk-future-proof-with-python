@@ -4,23 +4,7 @@ _Estimated time: 2 hours_
 
 ---
 
-> The practice and project on this page are **bonus material**. If you finish the required project before the week is up, you can work on them to keep building your Python skills.
-
-## Practice: Print multiples
-
-<aside>
-
-📌 You should work on this **individually**. If you have questions, post a thread in the **#help-python** channel in Discord. Remember: no spoilers! Use Discord spoiler tags if you are going to include a screenshot or code sample.
-
-</aside>
-
-In this practice, you will write a program that asks the user for a number then prints a statement based on the number the user enters.
-
-<aside>
-
-[✂️ **Access** and **submit** the practice here](https://replit.com/team/kibo-fpwp6/Print-multiples)
-
-</aside>
+> This page is **bonus material**. If you finish the required project before the week is up, you can work on them to keep building your Python skills.
 
 ---
 
