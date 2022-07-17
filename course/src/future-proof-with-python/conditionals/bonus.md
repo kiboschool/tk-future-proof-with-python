@@ -18,7 +18,7 @@ In this practice, you will write a program that asks the user for a number then 
 
 <aside>
 
-✂️ **Access** and **submit** the practice here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/Print-multiples" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[✂️ **Access** and **submit** the practice here](https://replit.com/team/kibo-fpwp6/Print-multiples)
 
 </aside>
 
@@ -34,16 +34,20 @@ If you want to find someone to work with or you have questions about the project
 
 </aside>
 
-In this project, you'll use the `random` and `time` modules to help you create a game that tests your reaction time. Below is a video of Rob playing the game:
+In this project, you'll use the `random` and `time` modules to help you create a game that tests your reaction time. 
+
+<details><summary>Below is a video of Rob playing the game</summary>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/604d7be55d1f43aa97919cb3862c6191" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+</details>
+
 <aside>
 
-✂️ **Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/Bonus-Quick-Draw-Project" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/kibo-fpwp6/Bonus-Quick-Draw-Project)
 
 </aside>
 
 **A note on using Replit for group projects:** the link above will take you to the team page. Scroll down until you see the project then click “Select project group.” You’ll see existing groups that you can join. You will also be able to create a new group. Note that you can’t switch groups after you join, so make sure you confirm your group members (in Discord #help-python) first. If you absolutely need to switch your group, post in Discord and an administrator will help you.
 
-![onebranchif](/future-proof-with-python/conditionals/group-project.png)
+![group project replit screenshot](/future-proof-with-python/conditionals/group-project.png)

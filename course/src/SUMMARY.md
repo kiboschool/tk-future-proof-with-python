@@ -25,7 +25,6 @@
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
-<!--
 
 ### Week 2
 
@@ -41,6 +40,8 @@
   - [Project](future-proof-with-python/conditionals/project.md)
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
+
+<!--
 
 ## Week 3
 
@@ -68,4 +69,6 @@
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
-[Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md) -->
+[Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
+
+-->

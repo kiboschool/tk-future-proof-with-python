@@ -67,11 +67,7 @@ if not response > 100:
 
 If the input is not greater than 100, it will print output to tell the user that their number isn’t big enough.
 
-<aside>
-
-🤔 How else could you write this snippet?
-
-<details><summary>Solution</summary>
+<details><summary> 🤔 How else could you write this snippet? </summary>
 
 You could express the same thing with `<=`. 
 
