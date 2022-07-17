@@ -28,6 +28,6 @@ In this assignment, you'll recreate the classic game of rock, paper, scissors. I
 
 <aside>
 
-✂️ **Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Project-Rock-Paper-Scissors" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/kibo-fpwp6/Project-Rock-Paper-Scissors)
 
 </aside>
