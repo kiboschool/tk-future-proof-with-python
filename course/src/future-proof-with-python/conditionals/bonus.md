@@ -4,7 +4,7 @@ _Estimated time: 2 hours_
 
 ---
 
-**The practice and project on this page are bonus material. If you finish the required project before the week is up, you should work on them to keep building your Python skills.**
+> The practice and project on this page are **bonus material**. If you finish the required project before the week is up, you can work on them to keep building your Python skills.
 
 ## Practice: Print multiples
 

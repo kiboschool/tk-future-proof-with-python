@@ -29,7 +29,12 @@
 
 - [Conditionals](future-proof-with-python/conditionals.md)
   - [Simple decisions](future-proof-with-python/conditionals/simple-decisions.md)
+      - [Boolean Expressions](future-proof-with-python/conditionals/simple-decisions/boolean-expressions.md)
+      - [If/Else](future-proof-with-python/conditionals/simple-decisions/if-else.md)
   - [Multi way decisions](future-proof-with-python/conditionals/multi-way-decisions.md)
+      - [Elif](future-proof-with-python/conditionals/multi-way-decisions/elif.md)
+      - [And, Or, Not](future-proof-with-python/conditionals/multi-way-decisions/and-or-not.md)
+      <!-- - [Nested Conditionals](future-proof-with-python/conditionals/multi-way-decisions/nested-conditionals.md) -->
   - [Practice conditionals](future-proof-with-python/conditionals/practice-conditionals.md)
   - [Project](future-proof-with-python/conditionals/project.md)
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
