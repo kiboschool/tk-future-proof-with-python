@@ -6,7 +6,8 @@ _Estimated time: 2 hours_
 
 > This page is **bonus material**. If you finish the required project before the week is up, you can work on them to keep building your Python skills.
 
----
+![Snake cowboy smokes in a deserted street in a frontier
+town](/images/snake_cowboy.png)
 
 ## Project: Quick Draw
 

@@ -40,6 +40,8 @@ Watch the video below to see the solution process
 
 </details>
 
+![A snake looking quizically at its exam paper](/images/snake_exam.png)
+
 ## Money for Books
 
 <aside>
@@ -57,3 +59,5 @@ Watch the video below to see the full solution
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/P5XvolfsQtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 </details>
+
+![A cool snake with blue tinted sunglasses is coiled around some books at the library](/images/cool_library_snake.png)

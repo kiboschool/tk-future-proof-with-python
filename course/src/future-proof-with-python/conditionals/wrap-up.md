@@ -4,6 +4,8 @@ _Estimated time: 5 minutes_
 
 ---
 
+![A group of snakes at the peak of Kibo](/images/snake_summit.png)
+
 ## Summary
 
 - `if` statements let us write code that makes decisions

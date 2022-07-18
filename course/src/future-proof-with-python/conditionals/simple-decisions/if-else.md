@@ -1,6 +1,6 @@
 # If/Else
 
-_Estimated Time: 30 minutes__
+_Estimated Time: 30 minutes_
 
 ---
 
@@ -12,8 +12,10 @@ In Python, the syntax uses the keyword `if`, a **condition** followed by a colon
 
 ```python
 if response == "yes":
-	print("Proceeding...") # only runs if the value of the variable response is equal to "yes"
+	print("Proceeding...") 
 ```
+
+The `print` only runs if the value of the variable response is equal to "yes"
 
 In this example, the **condition** is `response == "yes"` and the code block is `print("Proceeding...")`.
 

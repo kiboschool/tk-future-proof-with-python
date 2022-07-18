@@ -4,6 +4,8 @@ _Estimated Time: 10 minutes_
 
 ---
 
+![Three snakes celebrating a birthday with a cake](/images/snake_excited_at_cake.png)
+
 In this section, we will explore writing conditional statements when there are more than two possible outcomes.
 
 First, we'll learn the `elif` keyword. It lets you add another conditional
@@ -17,13 +19,9 @@ Next, we'll focus on combining conditional expressions with `and`, `or`, and
 that you might use in the real world,
 like "age is greater than 18, or a parent has signed the permission slip".
 
-<!--
-
 Finally, we'll talk about nested conditions. Lots of situations have complicated
 flow charts, where you take some action and then check another condition as part
 of that action.
 
 Nested `if` statements can express almost any flowchart, but the syntax
 sometimes trips people up!
-
--->

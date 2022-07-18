@@ -31,3 +31,5 @@ In this assignment, you'll recreate the classic game of rock, paper, scissors. I
 [✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/kibo-fpwp6/Project-Rock-Paper-Scissors)
 
 </aside>
+
+![snakes sitting at a table, with a rock, a piece of paper, and a pair of scissors](/images/snake_rock_paper_scissors.png)

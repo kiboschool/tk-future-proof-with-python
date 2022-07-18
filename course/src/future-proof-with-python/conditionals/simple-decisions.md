@@ -4,6 +4,8 @@ _Estimated Time: 10 minutes_
 
 ---
 
+![snakes standing awkwardly at a birthday party](/images/snake_party.png)
+
 Life is full of decisions.
 
 - Do I stay at the party, or is it too awkward?

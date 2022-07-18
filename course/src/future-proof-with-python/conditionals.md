@@ -2,6 +2,8 @@
 
 ---
 
+![Snakes on a computer](/images/snakes_on_computer.png)
+
 ## Intro
 
 So far, the Python programs you’ve written have all run step by step, from top to bottom, executing each line exactly once. This week, and the next week, you’ll learn to write programs where the **flow of control** is more complex.
