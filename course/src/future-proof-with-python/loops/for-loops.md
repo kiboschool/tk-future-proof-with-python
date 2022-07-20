@@ -21,7 +21,7 @@ for variable in items:
 
 The flow chart of a `for` loop is:
 
-![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled.png](/future-proof-with-python/loops/for-loops/untitled.png)
 
 Let's take a look at an example of a `for` loop:
 
@@ -66,7 +66,7 @@ print('Blastoff!')
   Similarities:
   - loop keyword, then something, then `:`
   - loop body is indented
-  Differences:
+    Differences:
   - variable `n` created before the loop, variable `i` created as part of the `for` statement
   - `while` loop changes the variable with `n = n - 1`, `for` loop variable changes automatically
   - `for` loop has to write out exactly what numbers the iteration variable will have
@@ -98,4 +98,4 @@ We’ll cover the list syntax `[5, 4, 3, 2, 1]` in more detail later in the cour
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/For-Loop-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W32-For-Loop-Practice" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

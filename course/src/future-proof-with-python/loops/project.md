@@ -21,7 +21,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 <aside>
 
 🔢 Write a program that asks a user to guess the value of a number chosen between 1 and 99. Let the user know if their guess is too low, too high, or correct.
-**Access** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/P33-Guess-My-Number" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/Project-Guess-My-Number" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 </aside>
 

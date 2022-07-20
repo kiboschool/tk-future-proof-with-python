@@ -25,7 +25,6 @@
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
-
 ### Week 2
 
 - [Conditionals](future-proof-with-python/conditionals.md)
@@ -41,18 +40,19 @@
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
 
-<!--
-
 ## Week 3
 
 - [Loops](future-proof-with-python/loops.md)
-  - [For loops](future-proof-with-python/loops/for-loops.md)
-  - [Practice loops and conditionals](future-proof-with-python/loops/practice-loops-and-conditionals.md)
-  - [Project](future-proof-with-python/loops/project.md)
-  - [Range function](future-proof-with-python/loops/range-function.md)
+
   - [While loops](future-proof-with-python/loops/while-loops.md)
+  - [For loops](future-proof-with-python/loops/for-loops.md)
+  - [Range function](future-proof-with-python/loops/range-function.md)
+  - [Practice loops and conditionals](future-proof-with-python/loops/practice-loops-and-conditionals.md)
+
+  - [Project](future-proof-with-python/loops/project.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
 
+<!--
 ## Week 4
 
 - [Lists and loops](future-proof-with-python/lists-and-loops.md)

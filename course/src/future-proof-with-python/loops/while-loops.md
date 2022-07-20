@@ -29,7 +29,7 @@ Unlike an `if` statement, however, after executing the block, a `while` loop che
 
 Here’s a flow chart depicting a `while` loop:
 
-![3%201%20while%20Loops%2085d2cab20b38436b81b4c9fbb404a14d/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![3%201%20while%20Loops%2085d2cab20b38436b81b4c9fbb404a14d/Untitled.png](/future-proof-with-python/loops/while-loops/untitled.png)
 
 The flow of a `while` statement is:
 
@@ -114,8 +114,7 @@ In the animation, you can see the variable `a` change over time, and the loop co
 👩🏿‍💻 Write a `while` loop that displays the integers 1 through 10. Follow the code comments in the below Replit exercise.
 
 </aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W31-Count-with-While" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W31-Count-with-While" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Loop Vocabulary
 
