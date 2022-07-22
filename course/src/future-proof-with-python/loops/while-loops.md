@@ -29,7 +29,7 @@ Unlike an `if` statement, however, after executing the block, a `while` loop che
 
 Here’s a flow chart depicting a `while` loop:
 
-![3%201%20while%20Loops%2085d2cab20b38436b81b4c9fbb404a14d/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![3%201%20while%20Loops%2085d2cab20b38436b81b4c9fbb404a14d/Untitled.png](/future-proof-with-python/loops/while-loops/untitled.png)
 
 The flow of a `while` statement is:
 
@@ -107,16 +107,6 @@ In the animation, you can see the variable `a` change over time, and the loop co
 
 </aside>
 
-## Practice
-
-<aside>
-
-👩🏿‍💻 Write a `while` loop that displays the integers 1 through 10. Follow the code comments in the below Replit exercise.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W31-Count-with-While" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ## Loop Vocabulary
 
 A `while` loop has a **condition** and a **body.** The condition is what gets checked each time. The body is the code that runs again and again. Just like an `if` statement, the body code has to be indented.
@@ -142,13 +132,15 @@ print ("Done!")
 
 4 is always greater than 0, and `x` never changes, so the loop runs forever.
 
-If you accidentally write an infinite loop, you will have to figure out how to stop it. Sometimes you’ll need to force-close the program. If you accidentally run an infinite loop in Replit, press “Stop” at the top of the page, or press Control + C (at the same time) in the console.
+If you accidentally write an infinite loop, you will have to figure out how to stop it. Sometimes you’ll need to force-close the program. If you accidentally run an infinite loop in Replit, press “Stop” at the top of the page, or press Control + C in the console.
 
 ### Infinite Loop Demo
 
 <aside>
 
-♾️ Try running this demo of an infinite loop. Press the Play button to start it. See the output - it keeps on printing forever.
+♾️ Try running this demo of an infinite loop. 
+
+Click to open the replit. Press Run button to start the program and see the output - it keeps on printing forever!
 
 Press the Stop button to end the program. Otherwise, it will run on forever! Or, at least until you leave the page.
 
@@ -158,12 +150,9 @@ Press the Stop button to end the program. Otherwise, it will run on forever! Or,
 
 ## Practice: Loop Prediction
 
-<aside>
+🤔 Look at the following code snippet. **What will the output be? Why?**
 
-🤔 Look at the following code snippet. **What will the output be?** **Why?**
-
-Don't write this in a code editor!
-Instead, think about it, write down what you think the result will be, then expand the solution.
+Think about it, write down what you think the result will be, then expand the solution.
 
 ```python
 i = 10
@@ -172,8 +161,22 @@ while i > 13:
   i = i + 1
 ```
 
-- See the solution by clicking the arrow
-  The body of the loop will never get executed!
-  The check of the condition `i > 13` will result in `False`. 10 is not greater than 13. So, the body of the while loop will be skipped.
+<details>
+<summary>Unfold to see the solution</summary>
+
+The body of the loop will never get executed!
+The condition `i > 13` will be `False` because 10 is not greater than 13. So, the body of the while loop will be skipped.
+
+</details>
+
+## Practice
+
+<aside>
+
+👩🏿‍💻 Write a `while` loop that displays the integers 1 through 10. Follow the code comments in the below Replit exercise.
 
 </aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W31-Count-with-While" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+

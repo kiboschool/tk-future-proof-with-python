@@ -12,3 +12,6 @@ After this week, you will be able to:
 
 - Use loops to repeat code
 - Break programming problems into small parts and gradually build up a solution
+
+
+<!-- TODO: Mo week 3 video -->

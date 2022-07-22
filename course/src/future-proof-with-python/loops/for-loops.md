@@ -1,6 +1,6 @@
 # For loops
 
-_Estimated Time: 50 minutes_
+_Estimated Time: 1 hour_ 
 
 ---
 
@@ -21,7 +21,7 @@ for variable in items:
 
 The flow chart of a `for` loop is:
 
-![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled.png](/future-proof-with-python/learning-with-kibo/lesson-topics-and-navigation/untitled.png)
+![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled.png](/future-proof-with-python/loops/for-loops/untitled.png)
 
 Let's take a look at an example of a `for` loop:
 
@@ -42,7 +42,7 @@ This `for` loop will have the same output as the `while` loop we saw in the prev
 Blastoff!
 ```
 
-Let’s compare the `for` loop side by side with the `while` loop :
+Let’s compare the `for` loop with the `while` loop :
 
 ```python
 for i in [5, 4, 3, 2, 1] :
@@ -58,20 +58,20 @@ while n > 0:
 print('Blastoff!')
 ```
 
-<aside>
-
 🤔 Compare the two code examples above (the `for` loop and the `while` loop). What do you notice about them?
 
-- `while` vs. `for`
-  Similarities:
+<details><summary><code>while</code> vs. <code>for</code></summary>
+
+Similarities:
   - loop keyword, then something, then `:`
   - loop body is indented
-  Differences:
-  - variable `n` created before the loop, variable `i` created as part of the `for` statement
-  - `while` loop changes the variable with `n = n - 1`, `for` loop variable changes automatically
-  - `for` loop has to write out exactly what numbers the iteration variable will have
 
-</aside>
+Differences:
+  - variable `n` created before the while loop, variable `i` created as part of the `for` loop
+  - `while` loop changes the variable with `n = n - 1`, `for` loop variable changes automatically
+  - `for` loop has to write out exactly what numbers to loop through
+
+</details>
 
 ## `for` loop iteration variable
 
@@ -81,7 +81,7 @@ The initial statement in the `for` loop is:
 for i in [5,4,3,2,1]:
 ```
 
-In this code, the loop creates a new variable `i`. Its value will change in each iteration of the loop, to take on the value of each item in the list. In this example, `i` will take on successive values of 5, 4, 3, 2, and 1.
+In this code, the loop creates a new variable `i`. The value of `i` will change in each iteration of the loop, to take on the value of each item in the list. In this example, `i` will take on successive values of 5, 4, 3, 2, and 1.
 
 As you can see, `for` loops offer a more direct syntax than `while` loops, because you can explicitly declare the values of the iteration variable.
 
@@ -93,8 +93,9 @@ We’ll cover the list syntax `[5, 4, 3, 2, 1]` in more detail later in the cour
 
 👩🏿‍💻 Write a `for` loop that displays Hello, plus each name in the list. Follow the code comments in the below Replit exercise.
 
-- The output should be like this screenshot
-  ![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled%201.png](/future-proof-with-python/conditionals/simple-decisions/untitled-1.png)
+The output should be like this screenshot:
+
+![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled%201.png](/future-proof-with-python/loops/for-loops/untitled-1.png)
 
 </aside>
 

@@ -41,28 +41,32 @@
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
 
-<!--
 
 ## Week 3
 
 - [Loops](future-proof-with-python/loops.md)
+  - [While loops](future-proof-with-python/loops/while-loops.md)
   - [For loops](future-proof-with-python/loops/for-loops.md)
+  - [Range function](future-proof-with-python/loops/range-function.md)
+  - [Debugging Loops](future-proof-with-python/loops/debugging-loops.md)
   - [Practice loops and conditionals](future-proof-with-python/loops/practice-loops-and-conditionals.md)
   - [Project](future-proof-with-python/loops/project.md)
-  - [Range function](future-proof-with-python/loops/range-function.md)
-  - [While loops](future-proof-with-python/loops/while-loops.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
+
+<!--
 
 ## Week 4
 
 - [Lists and loops](future-proof-with-python/lists-and-loops.md)
-  - [Debugging loops and lists](future-proof-with-python/lists-and-loops/debugging-loops-and-lists.md)
   - [List basics](future-proof-with-python/lists-and-loops/list-basics.md)
-  - [Loop patterns](future-proof-with-python/lists-and-loops/loop-patterns.md)
-  - [Practice lists and loops](future-proof-with-python/lists-and-loops/practice-lists-and-loops.md)
+  - [Mutating Lists](future-proof-with-python/lists-and-loops/mutating-lists.md)
   - [Practice lists](future-proof-with-python/lists-and-loops/practice-lists.md)
+  - [Loop patterns](future-proof-with-python/lists-and-loops/loop-patterns.md)
+  - [Loops, Conditions, and Lists](future-proof-with-python/lists-and-loops/conditions-and-lists.md)
+  - [Practice lists and loops](future-proof-with-python/lists-and-loops/practice-lists-and-loops.md)
   - [Project](future-proof-with-python/lists-and-loops/project.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
+
 
 ## Week 5
 
