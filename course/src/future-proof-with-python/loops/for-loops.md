@@ -1,6 +1,6 @@
 # For loops
 
-_Estimated Time: 1 hour_ 
+_Estimated Time: 1 hour_
 
 ---
 
@@ -63,18 +63,15 @@ print('Blastoff!')
 <details><summary><code>while</code> vs. <code>for</code></summary>
 
 Similarities:
-  - loop keyword, then something, then `:`
-  - loop body is indented
-<<<<<<< HEAD
-    Differences:
-  - variable `n` created before the loop, variable `i` created as part of the `for` statement
-=======
+
+- loop keyword, then something, then `:`
+- loop body is indented
 
 Differences:
-  - variable `n` created before the while loop, variable `i` created as part of the `for` loop
->>>>>>> fe56cda3464c42fbe293e3d7999bc42086ab2596
-  - `while` loop changes the variable with `n = n - 1`, `for` loop variable changes automatically
-  - `for` loop has to write out exactly what numbers to loop through
+
+- variable `n` created before the while loop, variable `i` created as part of the `for` loop
+- `while` loop changes the variable with `n = n - 1`, `for` loop variable changes automatically
+- `for` loop has to write out exactly what numbers to loop through
 
 </details>
 

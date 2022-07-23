@@ -103,7 +103,7 @@ print(total)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W44-Loop-Debugging-With-Print" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W34-Loop-Debugging-With-Print" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <details>
 <summary>Solution (try for 10-20 minutes before looking)</summary>
@@ -129,8 +129,6 @@ print(total)
 
 When debugging more complicated code, it’s helpful to be able to see how the code executes step by step. You can use [pythontutor.com](https://pythontutor.com/visualize.html#mode=display) to run your code step by step, and see the values of all your variables as the program runs.
 
-
-
 <details>
 <summary>🎥 Watch this video to see how to step through the code using PythonTutor</summary>
 
@@ -141,4 +139,3 @@ When debugging more complicated code, it’s helpful to be able to see how the c
 Similar to printing out the values at each step, PythonTutor helps you see what’s happening when your code runs. That makes it easier to spot bugs.
 
 Here’s the [**example from before in pythontutor**](https://pythontutor.com/visualize.html#code=%23%20Does%20the%20list%20have%20string%20%22Python%22%20in%20it%3F%0Alanguages%20%3D%20%5B%22Ruby%22,%20%22JavaScript%22,%20%22C%22,%20%22Rust%22,%20%22Smalltalk%22,%20%22Clojure%22,%20%22Python%22%5D%0A%0Ahas_match%20%3D%20False%0Afor%20language%20in%20languages%3A%0A%20%20%20%20if%20language%20%3D%3D%20%22Python%22%3A%0A%20%20%20%20%20%20%20%20has_match%20%3D%20True%0A%0Aprint%28has_match%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false). Try it out!
-
