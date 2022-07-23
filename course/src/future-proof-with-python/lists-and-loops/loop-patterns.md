@@ -62,25 +62,25 @@ Here’s what this program does:
 
 <aside>
 
-⚠️ **Common Mistake:** If you create a variable inside the loop*,* it will get re-created from scratch each time the loop body executes.
+⚠️ **Common Mistake:** If you create a variable inside the loop, it will get re-created from scratch each time the loop body executes.
+
 To make sure you are updating the variable every iteration, you have to **create the variable before the loop.**
 
-- Here is the wrong version. `total` is created inside the loop, so it doesn’t work. **Don’t do this!**
-  ```python
-  for number in range(1,11):
-       total = 0          # total gets re-assigned 0 every time the loop body runs
-       total += number
+Here is the wrong version. `total` is created inside the loop, so it doesn’t work. **Don’t do this!**
 
-  print(total) # 10   <- WRONG!
-  ```
+```python
+for number in range(1,11):
+     total = 0          # total gets re-assigned 0 every time the loop body runs
+     total += number
+
+print(total) # 10   <- WRONG!
+```
 
 </aside>
 
 ## Solving problems using loops
 
 Many loop problems can be solved using the pattern in this example: **update the variable every time you go through the loop.** In this lesson, you’ll see lots of different problems you can solve with this pattern.
-
-<aside>
 
 🔑 **Common pattern**
 
@@ -89,8 +89,6 @@ Many loop problems can be solved using the pattern in this example: **update the
 **Step 2:** Perform some computation on each item in the loop body, which may change the value of the variable.
 
 **Step 3:** Use the value of the variable when the loop completes.
-
-</aside>
 
 Let’s try it out.
 
@@ -106,12 +104,16 @@ _Remember, you can use the third argument to_ `range` _to control the step size.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W43-Sum-of-Range" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Solution (try for 10-20 minutes before peeking)
-  ```python
-  total = 0
-  # We want to include 100, so we stop at 101
-  # We want even numbers, so step by 2
-  for i in range(10,101,2):
-    total+=i
-  print(total)
-  ```
+<details>
+<summary>Solution (try for 10-20 minutes before peeking)</summary>
+
+```python
+total = 0
+# We want to include 100, so we stop at 101
+# We want even numbers, so step by 2
+for i in range(10,101,2):
+  total+=i
+print(total)
+```
+
+</details>

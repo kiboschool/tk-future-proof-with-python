@@ -86,12 +86,10 @@ countries[1] # "Ghana"
 
 Remember that lists are **indexed starting at 0**. So the first item has position 0, the second item has position 1, and so on. This start-from-zero numbering is common to almost all programming languages.
 
-<aside>
+<details>
+<summary><strong>Why do list indices start at 0?</strong></summary>
 
-👉🏿 **Why do list indices start at 0?**
-You can think of a list index as an **offset.** Indexes answer the question:
-
-> _How many **spaces from the start** do I go to find the item?_
+You can think of a list index as an **offset.** Indexes answer the question: _"How many spaces from the start do I go to find the item?"_
 
 ![array_indices_explanation.png](/future-proof-with-python/lists-and-loops/list-basics/array-indices-explanation.png)
 
@@ -102,7 +100,7 @@ countries[0] # "Kenya"
 countries[2] # "Ethiopia"
 ```
 
-</aside>
+</details>
 
 After you access an element from a list, you can use it anywhere you’d use another value or variable.
 
@@ -111,7 +109,7 @@ print(countries[0]) # Kenya
 print(countries[1] + " is a nice place to visit") # Ghana is a nice place to visit
 ```
 
-## Practice
+## Practice: Access List Items
 
 <aside>
 
@@ -121,16 +119,21 @@ print(countries[1] + " is a nice place to visit") # Ghana is a nice place to vis
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W41-Accessing-List-Items" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- Solution Code (try for 5 minutes before peeking)
-  ```python
-  tallest_buildings = ["Burj Khalifa", "Merdeka 118", "Shanghai Tower", "Abraj Al-Bait Clock Tower", "Ping An International Finance Centre", "Lotte World Tower"]
+<details>
+<summary>Solution Code (try for 5 minutes before peeking)</summary>
 
-  print(tallest_buildings[0])
-  print(tallest_buildings[2])
-  print(tallest_buildings[1], "is taller than", tallest_buildings[5])
-  ```
+```python
+tallest_buildings = ["Burj Khalifa", "Merdeka 118", "Shanghai Tower", "Abraj Al-Bait Clock Tower", "Ping An International Finance Centre", "Lotte World Tower"]
 
-## More about list indices
+print(tallest_buildings[0])
+print(tallest_buildings[2])
+print(tallest_buildings[1], "is taller than", tallest_buildings[5])
+```
+</details>
+
+## More about lists
+
+### `IndexError`
 
 If you try to access a value past the end of the list, Python will raise an error:
 
@@ -140,13 +143,19 @@ countries[3] # "Zimbabwe"
 countries[4] # IndexError: list index out of range
 ```
 
+### `len`
+
 To keep from going out of bounds, you can get the length of the list with the function `len`:
 
 ```python
 len(countries) # 4
 ```
 
-If there are 4 elements, then the last index is `3`, since we start counting at `0`. The last element is always at index one less than the length of the list.
+### Last item
+
+If there are 4 elements, then the last index is `3`. 
+
+Since we start counting at `0`, the last element is always at index _one less than the length of the list_.
 
 ```python
 countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
@@ -154,6 +163,8 @@ last_index = len(countries) - 1 # 3
 countries[last_index] # "Zimbabwe"
 countries[len(countries) - 1] # "Zimbabwe"
 ```
+
+### Negative indexes
 
 Python has a shorthand for accessing elements from the end of the list:
 
@@ -164,85 +175,4 @@ countries[-2] # "Ethiopia"
 
 Negative indices start counting from the end of the list, so `-1` is the last index, and `-2` is the second-to-last, and so on.
 
-## Changing Lists
-
-Lists are **mutable.** In programming, that means ‘changeable’. The order of items in a list and the list items themselves **can be changed**. We can add and remove items, swap items in place, and reorder the list.
-
-We can change any element of a list by assigning at an index. For example, to change the second item in the list above to the `"Nigeria"`, we can assign to index `1`, like this:
-
-```python
-# The old list
-print(countries) # ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
-# Change the second item
-countries[1] = 'Nigeria'
-# The new list
-print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe']
-```
-
-To add a new element to the end of the list, you use `.append()`
-
-```python
-countries.append("Cameroon")
-print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
-```
-
-To remove an item from a list, you use `pop()`. With no arguments, pop removes the last element.
-
-```python
-countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
-print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
-countries.pop() # removes the last element, "Cameroon"
-print(countries) # ['Kenya','Nigeria', 'Ethiopia', 'Zimbabwe']
-```
-
-Or, you can specify an index to remove, and `pop()` will remove the element at that index.
-
-```python
-print(countries) # ['Kenya','Nigeria', 'Ethiopia', 'Zimbabwe']
-countries.pop(1) # Removes the element at index 1, "Nigeria"
-print(countries) # ['Kenya', 'Ethiopia', 'Zimbabwe']
-```
-
-## Check your understanding
-
-Try this quiz to check how well you understand what list operations will do.
-
-<div data-tf-widget="zKMVM3FL" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
-## Practice
-
-<aside>
-
-👩🏿‍💻 Modify the code below to perform operations on a list.
-
-A sample run of your code should look like this:
-
-![967C2CAE-7F32-4C99-A035-74A8D0E206C1-535-0003A68938832020.png](/future-proof-with-python/lists-and-loops/list-basics/c2cae-7f32-4c99-a035-74a8d0e206c1-535-0003a68938832020.png)
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W42-Mutating-A-List" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-- Solution Code (try for 5 minutes before peeking)
-  ```python
-  my_list = [10, 20, 30, 40, 50]
-  print(my_list)
-
-  # Assign the first list item the value 5
-  my_list[0] = 5
-  print(my_list)
-
-  # Assign the last list item the value 'dog'
-  my_list[4] = 'dog'
-  print(my_list)
-
-  # Remove the second item in the list
-  my_list.pop(1)
-  print(my_list)
-
-  # Add another item to the end of the list with value False
-  my_list.append(False)
-  print(my_list)
-
-  print("The number of items in the list is", len(my_list))
-  ```
+<!-- TODO: add practice on accessing list items -->

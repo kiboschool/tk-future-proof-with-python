@@ -8,6 +8,10 @@
     - assigning: `my_list[0] = 5`
     - appending `my_list.append(10)`
     - removing `my_list.pop(2)`
+- You can solve many problems by updating a variable at each step in a loop
+    - total and average
+    - maximum and minimum
+    - finding and filtering
 
 ## How was this lesson?
 
@@ -16,7 +20,6 @@
 ---
 
 <aside>
-
 
 💡 The next week will be focused on developing your final projects.
 
