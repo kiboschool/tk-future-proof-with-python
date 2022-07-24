@@ -144,9 +144,10 @@ Click to open the replit. Press Run button to start the program and see the outp
 
 Press the Stop button to end the program. Otherwise, it will run on forever! Or, at least until you leave the page.
 
+[https://replit.com/@kibocurriculum/Infinite-Loop-Demo#main.py](https://replit.com/@kibocurriculum/Infinite-Loop-Demo#main.py)
+
 </aside>
 
-[https://replit.com/@kibocurriculum/Infinite-Loop-Demo#main.py](https://replit.com/@kibocurriculum/Infinite-Loop-Demo#main.py)
 
 ## Practice: Loop Prediction
 

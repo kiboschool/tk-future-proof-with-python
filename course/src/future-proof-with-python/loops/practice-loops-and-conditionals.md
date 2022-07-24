@@ -53,4 +53,4 @@ Watch the video below to see the full solution. Before checking the solution, ma
 
 👩🏿‍💻 In this example, you'll practice using loops to calculate the Scrabble score of different words.
 
-**Access** and **submit** it in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P32-Scrabble-Word-Score" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+> [**Access** and **submit** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/P32-Scrabble-Word-Score)
