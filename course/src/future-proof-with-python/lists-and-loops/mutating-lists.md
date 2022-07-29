@@ -57,7 +57,7 @@ print(countries) # ['Kenya', 'Ethiopia', 'Zimbabwe']
 
 Try this quiz to check how well you understand what list operations will do.
 
-<div data-tf-widget="zKMVM3FL" data-tf-medium="snippet" style="width:130%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="zKMVM3FL" data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ## Practice
 

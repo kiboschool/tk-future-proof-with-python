@@ -77,7 +77,7 @@ Each element of the list has a position, called an **index**. We can get an elem
 countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
 ```
 
-We can access the first list item using `countries[0]`, the second list item using `countries [1]`, and so on.
+We can access the first list item using `countries[0]`, the second list item using `countries[1]`, and so on.
 
 ```python
 countries[0] # "Kenya"

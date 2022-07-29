@@ -24,10 +24,10 @@ _If you can’t do the challenge without looking the solution, it means you don�
 
 💬 In this assignment, you'll practice finding the longest word in a list.
 
-**Access** and **submit** the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P44-Longest-Word">here</a>.
+<a target="_blank" href="https://replit.com/team/kibo-fpwp6/P44-Longest-Word">**Access** and **submit** the assignment in Replit here</a>.
 
 ## List Average
 
 🔢 Calculate the average of numbers in a list.
 
-Access and submit the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P45-List-Average">here</a>.
+<a target="_blank" href="https://replit.com/team/kibo-fpwp6/P45-List-Average">**Access** and **submit** the assignment in Replit here</a>.
