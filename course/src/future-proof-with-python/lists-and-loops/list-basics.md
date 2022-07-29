@@ -117,7 +117,7 @@ print(countries[1] + " is a nice place to visit") # Ghana is a nice place to vis
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/W41-Accessing-List-Items" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W41-Accessing-List-Items" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <details>
 <summary>Solution Code (try for 5 minutes before peeking)</summary>
@@ -129,6 +129,7 @@ print(tallest_buildings[0])
 print(tallest_buildings[2])
 print(tallest_buildings[1], "is taller than", tallest_buildings[5])
 ```
+
 </details>
 
 ## More about lists
@@ -153,7 +154,7 @@ len(countries) # 4
 
 ### Last item
 
-If there are 4 elements, then the last index is `3`. 
+If there are 4 elements, then the last index is `3`.
 
 Since we start counting at `0`, the last element is always at index _one less than the length of the list_.
 

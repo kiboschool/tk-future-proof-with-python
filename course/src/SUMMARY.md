@@ -53,7 +53,6 @@
   - [Project](future-proof-with-python/loops/project.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
 
-<!--
 ## Week 4
 
 - [Lists and loops](future-proof-with-python/lists-and-loops.md)
@@ -66,7 +65,7 @@
   - [Project](future-proof-with-python/lists-and-loops/project.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
 
-
+<!--
 ## Week 5
 
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
