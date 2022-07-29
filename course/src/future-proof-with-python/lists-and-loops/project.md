@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 ## Team Project: Team Info Bot
 
-**Due date: Sunday May 22nd**
+**Due date: Sunday August 3**
 
 <aside>
 
@@ -31,7 +31,7 @@ You can use [https://lettucemeet.com/](https://lettucemeet.com/) to find a time 
 
 This is your chance to be creative with your teammates. You can make a really fun and funny project together that meets all the requirements.
 
-**View the assignment in Replit here**: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/Assignment-4-Squad-Info-Bot" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**View the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/Assignment-4-Squad-Info-Bot">here</a>.**
 
 </aside>
 

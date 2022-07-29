@@ -24,16 +24,16 @@ _If you can’t do the challenge without looking the solution, it means you don�
 
 👥 Write a program that creates a list with the names of your squad mates and prints them out
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P41-Squad-Mates" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P41-Squad-Mates">here</a>.
 
 ## Safari Animals
 
 🦁 Write a program to print out the description of a zoo animal, based on user input.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P42-Safari-Animals" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P42-Safari-Animals">here</a>.
 
 ## Roster Change
 
 ⚽ There have been some changes to the roster. Write a program that makes the changes to the list and shows the old and new rosters.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P43-Roster-Change" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P43-Roster-Change">here</a>.

@@ -20,14 +20,14 @@ _If you can’t do the challenge without looking the solution, it means you don�
 2. Remember **G**o **C**limb **K**ibo - first Google, then ask the Community on Discord, then reach out to Kibo instructional team.
 3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
 
-### Longest Word
+## Longest Word
 
 💬 In this assignment, you'll practice finding the longest word in a list.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P44-Longest-Word" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access** and **submit** the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P44-Longest-Word">here</a>.
 
-### List Average
+## List Average
 
 🔢 Calculate the average of numbers in a list.
 
-Access and submit the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/P45-List-Average" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Access and submit the assignment in Replit <a target="_blank" href="https://replit.com/team/kibo-fpwp6/P45-List-Average">here</a>.
