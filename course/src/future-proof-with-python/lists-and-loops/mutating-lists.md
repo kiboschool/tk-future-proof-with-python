@@ -39,7 +39,7 @@ print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
 To remove an item from a list, you use `pop()`. With no arguments, pop removes the last element.
 
 ```python
-countries = ['Kenya', 'Ghana', 'Ethiopia', 'Zimbabwe']
+countries = ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
 print(countries) # ['Kenya', 'Nigeria', 'Ethiopia', 'Zimbabwe', 'Cameroon']
 countries.pop() # removes the last element, "Cameroon"
 print(countries) # ['Kenya','Nigeria', 'Ethiopia', 'Zimbabwe']
