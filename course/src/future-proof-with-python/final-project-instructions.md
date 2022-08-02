@@ -46,7 +46,4 @@ There are lots of different programs you could write that meet the requirements.
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
 
 ✨✨Have fun!✨✨
-
-[**Pulling up to the house with your new Python skills like**](https://lh6.googleusercontent.com/J0FhTe0Xnp5ka0qbMJ93Yb0TDjU5vTOJ7ZYzblQVx6uBq5pP5fHFp9F_vU9cfRPThOClsDxGpyK_N_yg-GVqqLppHMbsf95BL150j9ziFgGZ3EIL_cPROirt4XTHJIMsMCXkiG0R=s1600)
-
-**Pulling up to the house with your new Python skills like**
+<img src = "https://lh6.googleusercontent.com/J0FhTe0Xnp5ka0qbMJ93Yb0TDjU5vTOJ7ZYzblQVx6uBq5pP5fHFp9F_vU9cfRPThOClsDxGpyK_N_yg-GVqqLppHMbsf95BL150j9ziFgGZ3EIL_cPROirt4XTHJIMsMCXkiG0R=s1600"> </img>
