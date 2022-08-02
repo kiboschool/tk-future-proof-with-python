@@ -6,11 +6,11 @@ Congratulations on **_almost_** finishing your FPWP journey. Below is what you n
 
 ## Earn Your Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, June 3rd. ~~by end of day on Friday, May 27th.~~ (Note the deadline extension).**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, August 12th.**
 
 - Complete the assignments from Weeks 1 through 4, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the [**Final Project**](/future-proof-with-python/final-project-instructions.md)
-- Complete the [**Python Program Feedback Survey**](https://forms.gle/nXUQLNVzPeoU7hJc9)
+- Complete the <a href="https://forms.gle/thTeSfZVf7jaQQuj6" target = "_blank">**Python Program Feedback Survey** </a>
 
 ---
 

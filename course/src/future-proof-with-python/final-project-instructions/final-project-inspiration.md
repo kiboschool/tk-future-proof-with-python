@@ -2,15 +2,17 @@
 
 There are many projects you could build to meet the requirements. Below are a few suggestions:
 
-[1 - Quiz Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.md)
+[1 - Quiz Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.html#1---quiz-game)
 
-[2 - Choose Your Own Adventure Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.md)
+[2 - Choose Your Own Adventure Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.md#2---choose-your-own-adventure-game)
 
-[3 - Tic Tac Toe Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.md)
+<!--
+[3 - Tic Tac Toe Game](/future-proof-with-python/final-project-instructions/final-project-inspiration.md#3---tic-tac-toe-game)
+-->
 
-[4 - Other Ideas](/future-proof-with-python/final-project-instructions/final-project-inspiration.md)
+[3 - Other Ideas](/future-proof-with-python/final-project-instructions/final-project-inspiration.md#3---other-ideas)
 
-[5 - Examples from Past Student Projects](/future-proof-with-python/final-project-instructions/final-project-inspiration.md)
+[4 - Examples from Past Student Projects](/future-proof-with-python/final-project-instructions/final-project-inspiration.md#4---examples-of-past-student-projects)
 
 ---
 
@@ -53,6 +55,7 @@ See [this article](https://www.makeuseof.com/tag/5-great-text-games-play-online/
 
 ---
 
+<!--
 ## 3 - Tic Tac Toe Game
 
 Expand on the Tic Tac Toe game you developed in the live classes to add new features that make the game complete.
@@ -67,8 +70,9 @@ Some features you might add:
 There’s lots of creative ways to make the game more interesting and fun to play. Come up with some of your own and try them out!
 
 ---
+-->
 
-## 4 - Other Ideas
+## 3 - Other Ideas
 
 As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message Mohammed to get feedback before you start coding. Other ideas might be:
 
@@ -81,7 +85,7 @@ There are tons of other possibilities, so use your imagination!
 
 ---
 
-## 5 - Examples of Past Student Projects
+## 4 - Examples of Past Student Projects
 
 Here are examples of past student projects, showing what kind of project you can build. Remember, you're not restricted to building a project exactly like these - they are just a starting point.
 

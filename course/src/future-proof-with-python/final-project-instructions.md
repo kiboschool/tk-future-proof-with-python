@@ -34,7 +34,7 @@ There are lots of different programs you could write that meet the requirements.
 
 <aside>
 
-➡️ **Access the Final Project on Replit here:** <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Final-Project" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here</a>.**
 
 </aside>
 

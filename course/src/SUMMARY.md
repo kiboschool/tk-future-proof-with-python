@@ -65,12 +65,9 @@
   - [Project](future-proof-with-python/lists-and-loops/project.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
 
-<!--
 ## Week 5
 
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
-
--->
