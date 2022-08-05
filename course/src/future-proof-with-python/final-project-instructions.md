@@ -34,7 +34,7 @@ There are lots of different programs you could write that meet the requirements.
 
 <aside>
 
-➡️ **Access the Final Project on Replit here:** <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp5/Final-Project" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**Access the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here</a>.**
 
 </aside>
 
@@ -46,7 +46,4 @@ There are lots of different programs you could write that meet the requirements.
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
 
 ✨✨Have fun!✨✨
-
-[**Pulling up to the house with your new Python skills like**](https://lh6.googleusercontent.com/J0FhTe0Xnp5ka0qbMJ93Yb0TDjU5vTOJ7ZYzblQVx6uBq5pP5fHFp9F_vU9cfRPThOClsDxGpyK_N_yg-GVqqLppHMbsf95BL150j9ziFgGZ3EIL_cPROirt4XTHJIMsMCXkiG0R=s1600)
-
-**Pulling up to the house with your new Python skills like**
+<img src = "https://lh6.googleusercontent.com/J0FhTe0Xnp5ka0qbMJ93Yb0TDjU5vTOJ7ZYzblQVx6uBq5pP5fHFp9F_vU9cfRPThOClsDxGpyK_N_yg-GVqqLppHMbsf95BL150j9ziFgGZ3EIL_cPROirt4XTHJIMsMCXkiG0R=s1600"> </img>
