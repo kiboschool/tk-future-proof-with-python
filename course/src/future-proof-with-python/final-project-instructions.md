@@ -37,8 +37,6 @@ There are lots of different programs you could write that meet the requirements.
 
 You’ll should figure out what works best for your team. The best teams communicate clearly up front, so that there isn’t confusion about what is going on. Try to agree on how you’ll communicate (Discord, Whatsapp, email, or something else), and when you’ll get together to work on the project.
 
-## Submitting the Project
-
 ### Before You Start
 
 - Brainstorm and agree on the basic design for the project before you start coding.
@@ -46,9 +44,10 @@ You’ll should figure out what works best for your team. The best teams communi
 - Work on your project in steps, as we experienced during the course, and make sure you test each part before moving to the next.
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
 
-<aside>
+## Submitting the Project
 
-**Access the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here</a>.**
+<aside>
+Access and submit the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here.</a>
 
 </aside>
 
