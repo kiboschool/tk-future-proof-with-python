@@ -18,6 +18,7 @@ If you cannot or do not wish to work with a teammate, you may work on the projec
 
 - You must submit the **Replit** **project** and a **video**, according to the instructions in the Replit.
 - Your project must include the concepts you learned in the course.
+- Each team member needs to submit an individual repl of their project.
 
 See the **Rubric** in the Replit for more details about what you need to include.
 
@@ -32,11 +33,11 @@ There are lots of different programs you could write that meet the requirements.
 
 </aside>
 
-<aside>
+## How should you work together?
 
-**Access the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here</a>.**
+You’ll should figure out what works best for your team. The best teams communicate clearly up front, so that there isn’t confusion about what is going on. Try to agree on how you’ll communicate (Discord, Whatsapp, email, or something else), and when you’ll get together to work on the project.
 
-</aside>
+## Submitting the Project
 
 ### Before You Start
 
@@ -44,6 +45,12 @@ There are lots of different programs you could write that meet the requirements.
 - Use pen and paper to draw out the interactions before you code.
 - Work on your project in steps, as we experienced during the course, and make sure you test each part before moving to the next.
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
+
+<aside>
+
+**Access the Final Project on Replit <a href="https://replit.com/team/kibo-fpwp6/Final-Project" target="_blank">here</a>.**
+
+</aside>
 
 ✨✨Have fun!✨✨
 <img src = "https://lh6.googleusercontent.com/J0FhTe0Xnp5ka0qbMJ93Yb0TDjU5vTOJ7ZYzblQVx6uBq5pP5fHFp9F_vU9cfRPThOClsDxGpyK_N_yg-GVqqLppHMbsf95BL150j9ziFgGZ3EIL_cPROirt4XTHJIMsMCXkiG0R=s1600"> </img>

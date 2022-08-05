@@ -70,8 +70,14 @@ Remember that programming is a long journey and what matters is to learn well, n
   - [https://www.freecodecamp.org/learn/data-analysis-with-python/](https://www.freecodecamp.org/learn/data-analysis-with-python/)
   - [https://www.edx.org/course/computing-in-python-iii-data-structures](https://www.edx.org/course/computing-in-python-iii-data-structures)
   - [https://cs50.harvard.edu/x/2022/](https://cs50.harvard.edu/x/2022/)
-- Apply to Kibo degree program later this year!
-- Study computer science in university
+
+## Apply to Kibo's degree program
+
+Kibo offers a three-year BSc in Computer Science. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
+
+Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here.</a>
+
+Fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> this form to begin your application.</a>
 
 ---
 
