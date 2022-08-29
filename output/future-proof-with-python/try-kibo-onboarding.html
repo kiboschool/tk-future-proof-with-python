@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Set up for class - Future Proof With Python - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../future-proof-with-python-july-2022.html">Welcome!</a></li><li class="chapter-item expanded affix "><a href="../future-proof-with-python/try-kibo-onboarding.html" class="active">Set up for class</a></li><li class="chapter-item expanded affix "><a href="../future-proof-with-python/admissions-challenge.html">Admissions Challenge</a></li><li class="chapter-item expanded affix "><a href="../future-proof-with-python/community-orientation.html">Community Orientation</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data.html"><strong aria-hidden="true">1.</strong> Working with data</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/program-overview.html"><strong aria-hidden="true">1.1.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/programs-and-comments.html"><strong aria-hidden="true">1.2.</strong> Programs and comments</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/variables-and-assignment.html"><strong aria-hidden="true">1.3.</strong> Variables and assignment</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/data-types-operators-and-expressions.html"><strong aria-hidden="true">1.4.</strong> Data types operators and expressions</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/input-and-output.html"><strong aria-hidden="true">1.5.</strong> Input and output</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/string-concatenation-and-f-strings.html"><strong aria-hidden="true">1.6.</strong> String concatenation and f strings</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/practice.html"><strong aria-hidden="true">1.7.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/project.html"><strong aria-hidden="true">1.8.</strong> Project</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/wrap-up.html"><strong aria-hidden="true">1.9.</strong> Wrap up</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/split-strings.html"><strong aria-hidden="true">1.10.</strong> Bonus: Split strings</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/working-with-data/the-debugging-mindset.html"><strong aria-hidden="true">1.11.</strong> Bonus: The debugging mindset</a></li></ol></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals.html"><strong aria-hidden="true">2.</strong> Conditionals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/simple-decisions.html"><strong aria-hidden="true">2.1.</strong> Simple decisions</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/simple-decisions/boolean-expressions.html"><strong aria-hidden="true">2.2.</strong> Boolean Expressions</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/simple-decisions/if-else.html"><strong aria-hidden="true">2.3.</strong> If/Else</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/multi-way-decisions.html"><strong aria-hidden="true">2.4.</strong> Multi way decisions</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/multi-way-decisions/elif.html"><strong aria-hidden="true">2.5.</strong> Elif</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/multi-way-decisions/and-or-not.html"><strong aria-hidden="true">2.6.</strong> And, Or, Not</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/multi-way-decisions/nested-conditionals.html"><strong aria-hidden="true">2.7.</strong> Nested Conditionals</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/practice-conditionals.html"><strong aria-hidden="true">2.8.</strong> Practice conditionals</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/project.html"><strong aria-hidden="true">2.9.</strong> Project</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/wrap-up.html"><strong aria-hidden="true">2.10.</strong> Wrap up</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/conditionals/bonus.html"><strong aria-hidden="true">2.11.</strong> Bonus</a></li></ol></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops.html"><strong aria-hidden="true">3.</strong> Loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/while-loops.html"><strong aria-hidden="true">3.1.</strong> While loops</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/for-loops.html"><strong aria-hidden="true">3.2.</strong> For loops</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/range-function.html"><strong aria-hidden="true">3.3.</strong> Range function</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/debugging-loops.html"><strong aria-hidden="true">3.4.</strong> Debugging Loops</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/practice-loops-and-conditionals.html"><strong aria-hidden="true">3.5.</strong> Practice loops and conditionals</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/project.html"><strong aria-hidden="true">3.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/loops/wrap-up.html"><strong aria-hidden="true">3.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops.html"><strong aria-hidden="true">4.</strong> Lists and loops</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/list-basics.html"><strong aria-hidden="true">4.1.</strong> List basics</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/mutating-lists.html"><strong aria-hidden="true">4.2.</strong> Mutating Lists</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/practice-lists.html"><strong aria-hidden="true">4.3.</strong> Practice lists</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/loop-patterns.html"><strong aria-hidden="true">4.4.</strong> Loop patterns</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/conditions-and-lists.html"><strong aria-hidden="true">4.5.</strong> Loops, Conditions, and Lists</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/practice-lists-and-loops.html"><strong aria-hidden="true">4.6.</strong> Practice lists and loops</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/project.html"><strong aria-hidden="true">4.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../future-proof-with-python/lists-and-loops/wrap-up.html"><strong aria-hidden="true">4.8.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../future-proof-with-python/final-project-instructions.html"><strong aria-hidden="true">5.</strong> Final project instructions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../future-proof-with-python/final-project-instructions/final-project-inspiration.html"><strong aria-hidden="true">5.1.</strong> Final project inspiration</a></li></ol></li><li class="chapter-item expanded "><a href="../future-proof-with-python/wrapping-up-final-steps-for-fpwp5.html">Final Steps</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Future Proof With Python - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="set-up-for-class"><a class="header" href="#set-up-for-class">Set up for class</a></h1>
+<hr />
+<h2 id="sign-up-for-a-live-class"><a class="header" href="#sign-up-for-a-live-class">Sign up for a live class</a></h2>
+<p>You must attend live class once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. <strong>Please select the time that works for you below then click the link to register.</strong> </p>
+<aside>
+<p>📢 You should <strong>only sign up for one class!</strong> If you select a class and it says that “event is sold out,” that class has filled up and you should pick another one.</p>
+<p>🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are <strong>Thursday July 14th</strong>, <strong>Thursday July 21st</strong>, <strong>Thursday July 28th</strong>, and <strong>Thursday August 4th</strong>.</p>
+</aside>
+<table><thead><tr><th>Instructor</th><th>Time (in GMT)</th><th>Sign-Up Link</th><th>Status</th></tr></thead><tbody>
+<tr><td>Mohammed</td><td>12:00pm GMT</td><td><a href="https://lu.ma/fpwp-mo-a" target="_blank"> lu.ma/fpwp-mo-a</a></td><td>open</td></tr>
+<tr><td>Mohammed</td><td>15:00pm GMT</td><td><a href="https://lu.ma/fpwp-mo-b" target="_blank"> lu.ma/fpwp-mo-b</a></td><td>open</td></tr>
+</tbody></table>
+<h2 id="join-replit-team"><a class="header" href="#join-replit-team">Join Replit team</a></h2>
+<aside>
+<p>🛠️ As you know, during Try Kibo, you will write code in Replit. It has everything you need to build and run computer programs in Python. You will use Replit to <strong>practice coding</strong> and to <strong>submit your assignments</strong>.</p>
+</aside>
+<p>You have already created a Replit account during the admissions challenge. To prepare to use Replit in class:</p>
+<ol>
+<li>Go to <a href="https://replit.com">replit.com</a></li>
+<li>Select &quot;Log in&quot; at the top right corner to login to your account</li>
+<li><a href="https://replit.com/teams/join/ngoyuthkryfsfgfirfdztblrzkwrdsoy-kibo-fpwp6">Click this link</a> to join the Replit team for the class.</li>
+</ol>
+<h2 id="join-discord-and-introduce-yourself"><a class="header" href="#join-discord-and-introduce-yourself">Join Discord and introduce yourself</a></h2>
+<p>Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory. </p>
+<h3 id="join-kibo-school-server"><a class="header" href="#join-kibo-school-server">Join Kibo School server</a></h3>
+<ol>
+<li>If you already have a Discord account, <a href="https://discord.com/login">login in to Discord</a>. Otherwise, <a href="https://discord.com/register?redirect_to=%2Flogin">create a Discord account</a> then check your email to verify your account. Be sure to check your spam folder if you don't see the email</li>
+<li><strong>Click here to join the Kibo School Discord server: <a href="https://discord.gg/ghmxYFQmPp">https://discord.gg/ghmxYFQmPp</a>.</strong> </li>
+</ol>
+<p>If you have trouble signing up for Discord, wait a few hours then try again. </p>
+<h3 id="update-your-discord-profile"><a class="header" href="#update-your-discord-profile">Update your Discord profile</a></h3>
+<p>First, update your nickname. To do this:</p>
+<ol>
+<li>Click on your username in the right sidebar, then click the pencil icon to edit your profile</li>
+</ol>
+<p><img src="https://user-images.githubusercontent.com/3818920/177379432-e2997c28-f0e8-4687-9d9b-4f4cdca0aa72.png" alt="discord-sidebar" /></p>
+<ol start="2">
+<li>Select “Edit Server Profile&quot;</li>
+<li>Update your <strong>nickname</strong> to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only.</li>
+</ol>
+<p>To customize the rest of your profile</p>
+<ol>
+<li>Click again on your username in the right sidebar. This time click &quot;Edit User Profile&quot;.</li>
+<li>Upload a profile photo as your <strong>avatar</strong></li>
+<li>In the About Me section, add a <strong>description</strong> with a sentence or two about who you are, or include a quote you like.</li>
+</ol>
+<h3 id="introduce-yourself"><a class="header" href="#introduce-yourself">Introduce yourself</a></h3>
+<p>Introduce yourself in the #general channel by posting a message with:</p>
+<ol>
+<li>Your full name</li>
+<li>The name/nickname that people typically call you</li>
+<li>Your location</li>
+<li>A fun fact about you</li>
+<li>An image or gif that represents you!</li>
+</ol>
+<p><strong>TIP:</strong> Post your text message first, then post your gif/image as a separate message afterwards.</p>
+<p><em>Example:</em></p>
+<p><img src="/future-proof-with-python/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png" alt="Screenshot 2022-04-08 at 10.13.11 AM.png" /></p>
+<hr />
+<h2 id="onboarding-checklist"><a class="header" href="#onboarding-checklist">Onboarding Checklist</a></h2>
+<p>We’re excited to see you at Orientation on <strong>Tuesday July 12th from 3pm - 5pm GMT (convert to your local timezone <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt" target="_blank">here</a>).</strong> If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.</p>
+<p>Before you go, make sure that you have:</p>
+<ul>
+<li>Registered for a live class time (and received a confirmation email)</li>
+<li>Joined Discord and updated your profile name, photo, and description</li>
+<li>Introduced yourself in the #general channel on Discord</li>
+<li>Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT</li>
+</ul>
+<p>See you soon! 🎉🎉</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../future-proof-with-python-july-2022.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../future-proof-with-python/admissions-challenge.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../future-proof-with-python-july-2022.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../future-proof-with-python/admissions-challenge.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
