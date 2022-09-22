@@ -63,7 +63,7 @@ There’s lots of creative ways to make the game more interesting and fun to pla
 
 ## 3 - Other Ideas
 
-As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message Mohammed to get feedback before you start coding. Other ideas might be:
+As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message your instructor to get feedback before you start coding. Other ideas might be:
 
 - Use Python Turtle to draw cool graphics, or make a more visual game
 - Write a "Mad Libs" style program that fills in the blanks of a story based on user input

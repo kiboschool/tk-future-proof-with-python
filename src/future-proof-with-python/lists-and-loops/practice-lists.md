@@ -24,16 +24,16 @@ _If you can’t do the challenge without looking the solution, it means you don�
 
 👥 Write a program that creates a list with the names of your squad mates and prints them out
 
-<a target="_blank" href="https://replit.com/team/kibo-fpwp6/P41-Squad-Mates">**Access** and **submit** the assignment in Replit here</a>.
+<a target="_blank" href="https://replit.com/team/tk7-future-proof-with-python/P41-Squad-Mates">**Access** and **submit** the assignment in Replit here</a>.
 
 ## Safari Animals
 
 🦁 Write a program to print out the description of a zoo animal, based on user input.
 
-<a target="_blank" href="https://replit.com/team/kibo-fpwp6/P42-Safari-Animals">**Access** and **submit** the assignment in Replit here</a>.
+<a target="_blank" href="https://replit.com/team/tk7-future-proof-with-python/P42-Safari-Animals">**Access** and **submit** the assignment in Replit here</a>.
 
 ## Roster Change
 
 ⚽ There have been some changes to the roster. Write a program that makes the changes to the list and shows the old and new rosters.
 
-<a target="_blank" href="https://replit.com/team/kibo-fpwp6/P43-Roster-Change">**Access** and **submit** the assignment in Replit here</a>.
+<a target="_blank" href="https://replit.com/team/tk7-future-proof-with-python/P43-Roster-Change">**Access** and **submit** the assignment in Replit here</a>.

@@ -22,22 +22,3 @@ _Estimated time: 5 minutes_
 > Thank you!
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKPxHgJEj8kcqlQCN8fw95CWEJIM6YkjWasu35L6P9MSgbJw/viewform" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-
-## Do you want to be a Squad Rep?
-
-<aside>
-
-🙋🏿 **What’s a squad rep?**
-
-Squad reps are students who help to maintain a supportive Kibo community. It’s a way for you to help your squad successfully reach the finish line of this program.
-
-The responsibilities of a squad rep include things like checking in with squad members every week to see how they are progressing, relaying feedback to the Kibo team, and helping squad members feel like they belong and can rise to the challenge when things get tough.
-
-</aside>
-
-👉🏿 Fill out the form below or use [this link](https://forms.gle/LKs72kHwghLc6yYo7) to apply.
-
-The application deadline is Monday July 18.
-    
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuy8JmPB7LXX-7zOGc2Rw36LftCg3ScKHUjlkOJe-_RbJAwA/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-   

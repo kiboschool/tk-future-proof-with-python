@@ -22,7 +22,7 @@ After this week, you will be able to:
 
 <aside>
 
-An introduction to Week 1 from FPWP instructor, Mohammed.
+An introduction to Week 1 from your instructor
 
 </aside>
 

@@ -19,7 +19,7 @@ If you want to find someone to work with or you have questions about the project
 
 </aside>
 
-In this project, you'll use the `random` and `time` modules to help you create a game that tests your reaction time. 
+In this project, you'll use the `random` and `time` modules to help you create a game that tests your reaction time.
 
 <details><summary>Below is a video of Rob playing the game</summary>
 
@@ -29,7 +29,7 @@ In this project, you'll use the `random` and `time` modules to help you create a
 
 <aside>
 
-[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/kibo-fpwp6/Bonus-Quick-Draw-Project)
+[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/tk7-future-proof-with-python/Bonus-Quick-Draw-Project)
 
 </aside>
 

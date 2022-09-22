@@ -2,7 +2,7 @@
 ---
 
 <aside>
-  
+
   **Well done on completing the challenge and gaining admission to the program.** This page includes all the lessons you did as part of the challenge, for reference only. You've finished the challenge, so there is nothing more for you to do on this page.
 
 </aside>
@@ -120,7 +120,7 @@ We write computer programs to help us solve problems or perform tasks, like edit
 
 Underneath the screens and keyboards, computers are mechanical. They only understand 1s and 0s. But, *people don’t think in 1s and 0s*! When you want something, you use words.
 
-So, how do we tell computers what we want them to do, like “send a message” or “show this webpage”? 
+So, how do we tell computers what we want them to do, like “send a message” or “show this webpage”?
 
 We need a **translator**.
 
@@ -134,7 +134,7 @@ Programming languages only understand a **few specific words and symbols**, in a
 
 ## What is Python?
 
-Python is a programming language. You can write Python code, and then it will turn into instructions the computer understands and runs. 
+Python is a programming language. You can write Python code, and then it will turn into instructions the computer understands and runs.
 
 Here’s a small program that prints out 10 copies of the word “Programming”.
 
@@ -187,7 +187,7 @@ Click the green ▶️  button to run a program and see the output in the Consol
 *Note: if the embedded code below doesn’t work, you can click this link to go directly to the repl: [https://replit.com/@kibocurriculum/Output-with-print](https://replit.com/@kibocurriculum/Output-with-print)*
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/@kibocurriculum/Output-with-print?lite=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-     
+
 
 <aside>
 
@@ -209,7 +209,7 @@ Which would output:
 
 ```text
 This is line 1
-This is line 2 
+This is line 2
 This is line 3
 ```
 
@@ -228,7 +228,7 @@ print(message)
 print(message)
 ```
 
-`message` is a variable. It stores the value `"I love programming"`. 
+`message` is a variable. It stores the value `"I love programming"`.
 
 The equals sign `=`  assigns the value to the variable.
 
@@ -270,7 +270,7 @@ print("Ebbe" + message)
 The program would output:
 
 `Adesola loves programming`
-`Chidi loves programming` 
+`Chidi loves programming`
 `Ebbe loves programming`
 
 Click the green ▶️  button to run a program and see the output in the Console box.
@@ -319,17 +319,11 @@ Complete these challenges in Replit. You’ll practice using input and output in
 
 </aside>
 
-<aside>
-
-⚠️ Before you can start these assignments, you need to **join the class team in Replit.** [Click here to join the team](https://replit.com/teams/join/vpzrgkzskvjopkzikzgtcfeudbpyhhyf-challenge-fpwp6).
-
-</aside>
-
 ## Task 1: Hello, World
 
-Traditionally, the first program you write in a new language is a program that says “Hello, World!”. 
+Traditionally, the first program you write in a new language is a program that says “Hello, World!”.
 
-Click the link below to access the assignment in Replit, then follow the directions in the **Instructions** tab. 
+Click the link below to access the assignment in Replit, then follow the directions in the **Instructions** tab.
 
 <aside>
 
@@ -341,7 +335,7 @@ Click the link below to access the assignment in Replit, then follow the directi
 
 Encryption and decryption play an important role in information security and computer science. It’s used everywhere to secure the transmitted data between two entities. In this exercise, we have a sample program that decrypts secret messages. In this task, you will follow some steps to decrypt a secret message.
 
-Click the link below to access the assignment in Replit, then follow the directions in the **Instructions** tab. 
+Click the link below to access the assignment in Replit, then follow the directions in the **Instructions** tab.
 
 <aside>
 
@@ -392,7 +386,7 @@ Plus, hopefully some tidbits about codes and cryptography!
 ## What’s next?
 
 - **Receive your admission decision:** we will review your submission and send you an email within one week if you have been admitted to the program.
-- **Complete onboarding:** During the week of July 4, you will select your live class time, and join our Discord learning community. Once you complete these steps, you will be sent an invite to Orientation which is mandatory and takes place on **[July 12 at 3 pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt)** on Zoom. **Save the date!**
+- **Complete onboarding:** You will select your live class time, and join our Discord learning community. Once you complete these steps, you will be sent an invite to Orientation which is mandatory, on Zoom.
 
 ## Congrats!
 
@@ -402,7 +396,7 @@ At Kibo we love learning together!
 
 As a tradition, we take a “peakture” together on zoom!
 
-![Peak1.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/peak1.png)
+![Peak1.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/peak1.png)
 
 See you soon! ✨
 

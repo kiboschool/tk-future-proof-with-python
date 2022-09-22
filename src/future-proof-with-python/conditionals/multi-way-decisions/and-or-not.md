@@ -69,7 +69,7 @@ If the input is not greater than 100, it will print output to tell the user that
 
 <details><summary> 🤔 How else could you write this snippet? </summary>
 
-You could express the same thing with `<=`. 
+You could express the same thing with `<=`.
 
 `response <= 100` is equivalent to `not response > 100`
 
@@ -90,6 +90,6 @@ In this practice, you will write a program that asks the user for a number then 
 
 <aside>
 
-[✂️ **Access** and **submit** the practice here](https://replit.com/team/kibo-fpwp6/Print-multiples)
+[✂️ **Access** and **submit** the practice here](https://replit.com/team/tk7-future-proof-with-python/Print-multiples)
 
 </aside>

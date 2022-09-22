@@ -1,4 +1,4 @@
-# Wrapping up: Final steps for Future Proof with Python
+# Wrapping up final steps for fpwp5
 
 ---
 
@@ -32,11 +32,11 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 [\*\*Here is a playlist of testimonials](https://www.youtube.com/watch?v=QmQu1ynUBTY&list=PLEApm5XV23vWGm4uwl7jGSNST2Wj9S6Rx) from previous alumni 🎓\*\*
 
-![3.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/3.png)
+![3.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/3.png)
 
-![11.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/11.png)
+![11.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/11.png)
 
-![8.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/8.png)
+![8.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/8.png)
 
 ---
 
@@ -85,8 +85,8 @@ Fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![Peak3.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/peak3.png)
+![Peak3.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/peak3.png)
 
-![Peak2.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/peak2.png)
+![Peak2.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/peak2.png)
 
-![Peak1.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp/peak1.png)
+![Peak1.png](/future-proof-with-python/wrapping-up-final-steps-for-fpwp5/peak1.png)

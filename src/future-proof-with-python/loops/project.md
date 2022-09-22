@@ -6,8 +6,6 @@ _Estimated time: 2 hours_
 
 ## Individual Project: Guess My Number
 
-**Due date: Sunday July 31**
-
 <aside>
 
 💡 This is an individual project. You are expected to work independently.
@@ -20,7 +18,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 🔢 Write a program that asks a user to guess the value of a number chosen between 1 and 99. Let the user know if their guess is too low, too high, or correct.
 
-> [**Access** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/Project-Guess-My-Number)
+> [**Access** the assignment in Replit here](https://replit.com/team/tk7-future-proof-with-python/Project-Guess-My-Number)
 
 ### Part 2
 

@@ -27,7 +27,7 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 🏦 Create a program that asks a user for a value in US Dollars, then converts to Nigerian Naira.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/P11-Currency-Conversion)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk7-future-proof-with-python/P11-Currency-Conversion)
 
 </aside>
 
@@ -46,7 +46,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 
 👩🏿‍💻 Write a program to build an AC unit load estimator. Your program should get input from the user, use the formula to calculate the horsepower, then print the horsepower.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/P13-AC-Load-Estimator)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk7-future-proof-with-python/P13-AC-Load-Estimator)
 
 </aside>
 
@@ -56,7 +56,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 <details><summary>Load Estimator Solution Video</summary>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/66tvjwqNiRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
+
 **There is a typo in the code at the end of the video ("numbe" should be "number").**
 
 </details>
@@ -67,7 +67,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 
 💪🏿 Create a program that calculates body mass index, which is used to determine if a person's weight is a healthy proportion for their height.
 
-[**Access** and **submit** in Replit here](https://replit.com/team/kibo-fpwp6/P12-Body-Mass-Index)
+[**Access** and **submit** in Replit here](https://replit.com/team/tk7-future-proof-with-python/P12-Body-Mass-Index)
 
 </aside>
 
