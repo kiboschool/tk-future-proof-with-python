@@ -28,8 +28,8 @@ jobs:
         run: |
           productionFlag=""
 
-          if [[ ${GITHUB_REF} == "refs/heads/main" ]]; then
-            export VERCEL_PROJECT_ID=${MAIN_PROJECT_ID} 
+          if [[ ${GITHUB_REF} == "refs/heads/tk7" ]]; then
+            export VERCEL_PROJECT_ID=${TK7_PROJECT_ID} 
             productionFlag="--prod"
           fi
 
@@ -38,7 +38,7 @@ jobs:
             productionFlag="--prod"
           fi
 
-          vercel course/output --token ${VERCEL_TOKEN} ${productionFlag}
+          vercel output --token ${VERCEL_TOKEN} ${productionFlag}
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
