@@ -17,8 +17,10 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 | Instructor | Time (in GMT) | Sign-Up Link                | Status
 | ------ | ----------------- | --------------------------- | ------ |
-| Mohammed   | 12:00pm GMT   | <a href="https://lu.ma/fpwp-mo-a" target="_blank"> lu.ma/fpwp-mo-a</a>   | open |
-| Mohammed   | 15:00pm GMT   | <a href="https://lu.ma/fpwp-mo-b" target="_blank"> lu.ma/fpwp-mo-b</a>    | open |
+| Kehinde  | 12:00pm GMT   | <a href="https://lu.ma/fpwp7-class-kehinde" target="_blank"> lu.ma/fpwp7-class-kehinde </a>   | open |
+| Bidemi  | 1:00pm GMT   | <a href="https://lu.ma/fpwp7-class-bidemi" target="_blank"> lu.ma/fpwp7-class-bidemi </a>   | open |
+| Stanley   | 3:00pm GMT   | <a href="https://lu.ma/fpwp7-class-stanley-a" target="_blank"> lu.ma/fpwp7-class-stanley-a </a>    | open |
+| Stanley   | 6:00pm GMT   | <a href="https://lu.ma/fpwp7-class-stanley-b" target="_blank"> lu.ma/fpwp7-class-stanley-b </a>    | open |
 
 ## Join Replit team
 <aside>
@@ -39,7 +41,7 @@ Discord is our community platform. It's where you will get daily announcements, 
 
 ### Join Kibo School server
 1. If you already have a Discord account, [login in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
-2. **Click here to join the Kibo School Discord server: [https://discord.gg/ghmxYFQmPp](https://discord.gg/ghmxYFQmPp).**
+2. **Click here to join the Kibo School Discord server: [https://discord.gg/ngq66X6uRU](https://discord.gg/ngq66X6uRU).**
 
 If you have trouble signing up for Discord, wait a few hours then try again.
 
