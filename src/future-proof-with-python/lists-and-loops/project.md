@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 ## Team Project: Team Info Bot
 
-**Due date: Sunday July 31**
+**Due date: Sunday Nov 27**
 
 <aside>
 
@@ -22,7 +22,7 @@ If you have trouble collaborating, or get stuck on the project, use the **#help-
 
 This is your chance to be creative with your teammates. You can make a really fun and funny project together that meets all the requirements.
 
-<a target="_blank" href="https://replit.com/team/kibo-fpwp6/Assignment-4-Squad-Info-Bot">**View the assignment in Replit here.**</a>
+<a target="_blank" href="https://replit.com/team/tk7-future-proof-with-python/Assignment-4-Squad-Info-Bot">**View the assignment in Replit here.**</a>
 
 </aside>
 

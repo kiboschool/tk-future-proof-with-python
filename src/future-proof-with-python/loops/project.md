@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 ## Individual Project: Guess My Number
 
-**Due date: Sunday July 31**
+**Due date: Sunday Nov 20**
 
 <aside>
 

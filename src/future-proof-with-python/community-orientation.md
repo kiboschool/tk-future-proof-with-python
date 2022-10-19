@@ -39,9 +39,9 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 ## Leaderboard
 
-The instructors will update this as you complete challenges together. 
+The instructors will update this as you complete challenges together.
 
-Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with: 
+Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with:
 
 - your squad number
 - the challenge that you completed
@@ -56,16 +56,16 @@ We will update the leaderboard based on the information that is posted in the th
 
 ## Challenge 0: All Onboard 🚀
 
-> **Instructions:** Greet your teammates in Discord. 
+> **Instructions:** Greet your teammates in Discord.
 
 - Introduce yourself in your squad channel.
 - Include your name, where you're based, and what interests you about the course.
 
-**Completion criteria:** 
+**Completion criteria:**
 
 - All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the squad text channel in Discord.
 
-To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad. 
+To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad.
 
 - **All squad members will have their names in the color grey.**
 - Community managers, Instructors, and Kibo Staff will show in other colors.
@@ -89,7 +89,7 @@ The program should use `print` to display the following information:
   - Squad number
   - One thing that everyone in your squad has in common
   - How your squad members want to help each other learn
-- For each squad member: 
+- For each squad member:
   - Name
   - One sentence biography
   - Why you are learning python
@@ -180,7 +180,7 @@ Press the Command key + Shift key + 4
 The cursor will turn into a +, and you can select the portion of the screen
 you'd like to capture. When you release the mouse, the screenshot will be taken.
 
-Screenshots will save to your desktop, and show as a thumbnail. You can drag 
+Screenshots will save to your desktop, and show as a thumbnail. You can drag
 and drop the picture to Discord, or click the (+) button and click "Upload a File".
 
 [See more options for taking screenshots here](https://support.apple.com/en-us/HT201361)
@@ -202,7 +202,7 @@ Select an option:
   * Take a partial screenshot
   * Take a window screenshot
 
-Recordings and screenshots get saved to your “Downloads” folder. You can drag 
+Recordings and screenshots get saved to your “Downloads” folder. You can drag
 and drop the picture to Discord, or click the (+) button and click "Upload a File".
 
 [See more options for taking screenshots
@@ -235,7 +235,7 @@ Decrypt Me challenge in the squad text channel.
 
 <aside>
 
-🥳 **You Did It!** 
+🥳 **You Did It!**
 
 </aside>
 

@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 # Individual Project: Rock Paper Scissors
 
-**Due date: Sunday May 8th**
+**Due date: Sunday Oct 13th**
 
 <aside>
 
@@ -28,7 +28,7 @@ In this assignment, you'll recreate the classic game of rock, paper, scissors. I
 
 <aside>
 
-[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/kibo-fpwp6/Project-Rock-Paper-Scissors)
+[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/tk7-future-proof-with-python/Project-Rock-Paper-Scissors)
 
 </aside>
 

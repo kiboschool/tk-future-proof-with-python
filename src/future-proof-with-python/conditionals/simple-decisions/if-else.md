@@ -12,7 +12,7 @@ In Python, the syntax uses the keyword `if`, a **condition** followed by a colon
 
 ```python
 if response == "yes":
-	print("Proceeding...") 
+	print("Proceeding...")
 ```
 
 The `print` only runs if the value of the variable response is equal to "yes"
@@ -39,7 +39,7 @@ print("Goodbye")         # runs no matter what
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W21-If-Awkward" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk7-future-proof-with-python/W21-If-Awkward" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## If-Else
 
@@ -83,4 +83,4 @@ A sample run of the code should look like this:
 
 ![2%201%20Simple%20decisions%20efbfa340f5df47bd9059c5d369f5793d/Untitled%202.png](/future-proof-with-python/conditionals/simple-decisions/untitled-2.png)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/kibo-fpwp6/W22-Stay-and-Par-tay" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk7-future-proof-with-python/W22-Stay-and-Par-tay" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

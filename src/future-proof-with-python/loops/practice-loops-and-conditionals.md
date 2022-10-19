@@ -39,7 +39,7 @@ Here’s what the first 10 lines of output will look like:
 10 is a multiple of 5
 ```
 
-> [**Access** and **submit** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/P31-Print-Multiples)
+> [**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk7-future-proof-with-python/P31-Print-Multiples)
 
 Watch the video below to see the full solution. Before checking the solution, make sure you spend enough time thinking and trying. This is really how you learn and build experience.
 
@@ -53,4 +53,4 @@ Watch the video below to see the full solution. Before checking the solution, ma
 
 👩🏿‍💻 In this example, you'll practice using loops to calculate the Scrabble score of different words.
 
-> [**Access** and **submit** the assignment in Replit here](https://replit.com/team/kibo-fpwp6/P32-Scrabble-Word-Score)
+> [**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk7-future-proof-with-python/P32-Scrabble-Word-Score)

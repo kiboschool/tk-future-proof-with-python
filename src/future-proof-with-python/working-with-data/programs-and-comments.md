@@ -12,7 +12,7 @@ This very moment, you are reading on a computer, with a web browser. The browser
 
 This is the question we'll focus on first: **What are computer programs?**
 
-In <a href="/future-proof-with-python/admissions-challenge.md" target="_blank">Intro to Programming in Python</a> you learned...
+In the Intro to Programming in Python in the admissions challenge, you learned...
 
 - Programming languages let us write instructions for computers using words
 - Programming languages get translated into 1s and 0s the machine understands

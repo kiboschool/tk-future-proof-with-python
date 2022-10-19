@@ -1,13 +1,13 @@
-# Future Proof With Python July 2022
+# Future Proof With Python
 
-**_[bit.ly/tk6-fpwp](http://bit.ly/tk6-fpwp)_**
+**_[bit.ly/tk7-fpwp](http://bit.ly/tk7-fpwp)_**
 
 **Welcome to Future Proof with Python!**
 
-You are joining a global learning community dedicated to helping you learn and thrive in computer science. 
+You are joining a global learning community dedicated to helping you learn and thrive in computer science.
 
 <aside>
-  📺 Watch this welcome video from your instructor, Mo. 
+  📺 Watch this welcome video from your instructor, Mo.
 </aside>
 
 
@@ -17,10 +17,10 @@ You are joining a global learning community dedicated to helping you learn and t
 
 
 ## Completing your lessons
-This page will include all the lessons for the class. Each week, Mo will add new lessons and assignments for you to work on. 
-Bookmark this page to find all of your lessons: [https://bit.ly/tk6-fpwp](https://bit.ly/tk6-fpwp)
+This page will include all the lessons for the class. Each week, Mo will add new lessons and assignments for you to work on.
+Bookmark this page to find all of your lessons: [https://bit.ly/tk7-fpwp](https://bit.ly/tk7-fpwp)
 
-To find a lesson, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson. 
+To find a lesson, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson.
 
 <aside>
   📺 Watch this lesson navigation walkthrough video from Emmy, one of your community managers

@@ -6,7 +6,7 @@ _Estimated Time: 1 hour_
 
 # Team Project: Mad Libs
 
-**Due date: Sunday July 17**
+**Due date: Sunday Nov 6**
 
 <aside>
 
@@ -23,7 +23,7 @@ You can work together by sharing your screen, or by creating a new replit and sh
 ➡️ **Mad Libs**
 
 This project is a chance to show off your creativity! You'll create a Mad Libs game using variables, input, and output.
-**Access** and **submit** the project in Replit [here](https://replit.com/team/kibo-fpwp6/Project-Mad-Libs).
+**Access** and **submit** the project in Replit [here](https://replit.com/team/tk7-future-proof-with-python/Project-Mad-Libs).
 
 </aside>
 Remember...

@@ -1,10 +1,8 @@
 # Future Proof with Python
 
-[Welcome!](future-proof-with-python-july-2022.md)
+[Welcome!](future-proof-with-python.md)
 
 [Set up for class](future-proof-with-python/try-kibo-onboarding.md)
-
-[Admissions Challenge](future-proof-with-python/admissions-challenge.md)
 
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
@@ -70,4 +68,4 @@
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
-[Final Steps](future-proof-with-python/wrapping-up-final-steps-for-fpwp5.md)
+[Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
