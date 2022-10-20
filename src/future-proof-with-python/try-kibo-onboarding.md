@@ -92,4 +92,6 @@ Select your study time range in the checklist form below
 
 ## Onboarding Checklist
 
-https://forms.gle/wt1F8PSq6P2XcxoHA 
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScieQBIvPYu9ce5khi_ZesNC2MBi9c9_i_pQzSXA7swjL643A/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+
+### See you at the Orientation!✨✨🏔️
