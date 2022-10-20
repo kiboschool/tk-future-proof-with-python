@@ -1,6 +1,8 @@
 # Set up for class
 
 ---
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Oct 28.**
+
 
 ## Sign up for a live class
 
@@ -40,7 +42,7 @@ You have already created a Replit account during the admissions challenge. To pr
 Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory.
 
 ### Join Kibo School server
-1. If you already have a Discord account, [login in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
+1. If you already have a Discord account, [login to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
 2. **Click here to join the Kibo School Discord server: [https://discord.gg/ngq66X6uRU](https://discord.gg/ngq66X6uRU).**
 
 If you have trouble signing up for Discord, wait a few hours then try again.
@@ -76,17 +78,18 @@ _Example:_
 
 ![Screenshot 2022-04-08 at 10.13.11 AM.png](/future-proof-with-python/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
 
+
+## Choose a study time range
+
+**What is the Study time?**
+This is a time range when you will be most available to study weekly. Depending on the time range you pick, you will be added into squads with peers who also pick a similar time range. 
+
+During orientation, you and your squad memebers will collectively decide the day and specific time (within the time range) that you would meet virtually to study. 
+
+Select your study time range in the checklist form below
+
 ---
 
 ## Onboarding Checklist
 
-We’re excited to see you at Orientation on **Monday Oct 31st from 3pm - 5pm GMT (convert to your local timezone <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt" target="_blank">here</a>).** If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
-
-Before you go, make sure that you have:
-
-- Registered for a live class time (and received a confirmation email)
-- Joined Discord and updated your profile name, photo, and description
-- Introduced yourself in the #general channel on Discord
-- Marked your calendar for Orientation on Monday Oct 31 at 3pm GMT
-
- See you soon! 🎉🎉
+https://forms.gle/wt1F8PSq6P2XcxoHA 
