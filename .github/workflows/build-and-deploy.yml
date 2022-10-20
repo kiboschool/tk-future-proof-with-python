@@ -16,7 +16,7 @@ jobs:
           name: mdBook
 
       - name: Generate static content for the course
-        run: mdbook build course
+        run: mdbook build
 
       - name: Setup Node.js (required to install Vercel CLI)
         uses: actions/setup-node@v3
