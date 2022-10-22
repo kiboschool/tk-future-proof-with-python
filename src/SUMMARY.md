@@ -23,6 +23,7 @@
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
+<!--
 ### Week 2
 
 - [Conditionals](future-proof-with-python/conditionals.md)
@@ -32,7 +33,7 @@
   - [Multi way decisions](future-proof-with-python/conditionals/multi-way-decisions.md)
   - [Elif](future-proof-with-python/conditionals/multi-way-decisions/elif.md)
   - [And, Or, Not](future-proof-with-python/conditionals/multi-way-decisions/and-or-not.md)
-  - [Nested Conditionals](future-proof-with-python/conditionals/multi-way-decisions/nested-conditionals.md) -->
+  - [Nested Conditionals](future-proof-with-python/conditionals/multi-way-decisions/nested-conditionals.md)
   - [Practice conditionals](future-proof-with-python/conditionals/practice-conditionals.md)
   - [Project](future-proof-with-python/conditionals/project.md)
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
@@ -69,3 +70,5 @@
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
+
+-->
