@@ -33,7 +33,7 @@ To find a lesson, click the Table of Contents (three horizontal lines) on the to
 ## Program schedule
 Below is the  schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/embed?id=1jBHN9Bh-LLbchnR3SY6UHugRHZT3DzdyLfSrtzdSI2Y" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKXqtlvEe4ATBjmcBWz-abKHmHii7vjXDhouDLba5-stoXYhAO1sNMwFxEhnprhFKpUKv0BP8mmvxr/embed?" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 ---
 
