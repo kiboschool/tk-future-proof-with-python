@@ -4,16 +4,21 @@
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Oct 28.**
 
 
-## Sign up for a live class
+## Sign up for a live class and select a study time
 
-You must attend live class once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. **Please select the time that works for you below then click the link to register.**
+**Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. Each live cllass class takes place on Thursdays, and is 1 hour and 30 minutes long.
+
+
+**Study time**: This is a time range when you will be most available to study weekly. Depending on the time range you pick, you will be added into squads with peers who also pick a similar time range. During orientation, you and your squad memebers will collectively decide the day and specific time (within the time range) that you would meet virtually to study. 
+
+
+**Select your preferred live class time by clicking on the link to register and add your preferred study time**
+
+
 
 <aside>
 
-
-📢 You should **only sign up for one class!** If you select a class and it says that “event is sold out,” that class has filled up and you should pick another one.
-
-🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday Nov 3rd**, **Thursday Nov 10th**, **Thursday Nov 17th**, and **Thursday Nov 24th**.
+📢 You should **only sign up for one live class and study time!** If you select a class and it says that “event is sold out,” that class has filled up and you should pick another one.
 
 </aside>
 
@@ -77,16 +82,6 @@ Introduce yourself in the #general channel by posting a message with:
 _Example:_
 
 ![Screenshot 2022-04-08 at 10.13.11 AM.png](/future-proof-with-python/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
-
-
-## Choose a study time range
-
-**What is the Study time?**
-This is a time range when you will be most available to study weekly. Depending on the time range you pick, you will be added into squads with peers who also pick a similar time range. 
-
-During orientation, you and your squad memebers will collectively decide the day and specific time (within the time range) that you would meet virtually to study. 
-
-Select your study time range in the checklist form below
 
 ---
 
