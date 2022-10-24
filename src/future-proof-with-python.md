@@ -11,8 +11,11 @@ You are joining a global learning community dedicated to helping you learn and t
 </aside>
 
 
-  <div style="position: relative; height: 100%; width: 100%;">
+ <!-- <div style="position: relative; height: 100%; width: 100%;">
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/OxsDwTYt40s" title="Welcome to Future Proof with Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>-->
+<div style="position: relative; padding-bottom: NaN%; height: 0;">
+  <iframe src="https://www.loom.com/embed/7a66f9d8331a4b3f9a9edc4427b483ad" title="Welcome to Future Proof with Python" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 
