@@ -10,7 +10,7 @@ You are joining a global learning community dedicated to helping you learn and t
   📺 Watch this welcome video from your instructor, Stanley.
 </aside>
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/eKl2OBVhQmI" title="Welcome to Future Proof with Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/eKl2OBVhQmI" title="Welcome to Future Proof with Python - Try Kibo 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  <!-- <div style="position: relative; height: 100%; width: 100%;">
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/OxsDwTYt40s" title="Welcome to Future Proof with Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
