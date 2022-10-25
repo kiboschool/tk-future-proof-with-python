@@ -6,7 +6,7 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 
 ## Sign up for a live class and select a study time
 
-**Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. Each live cllass class takes place on Thursdays, and is 1 hour and 30 minutes long.
+**Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. Each live class class takes place on Thursdays, and is 1 hour and 30 minutes long.
 
 
 **Study time**: This is a time range when you will be most available to study weekly. Depending on the time range you pick, you will be added into squads with peers who also pick a similar time range. During orientation, you and your squad memebers will collectively decide the day and specific time (within the time range) that you would meet virtually to study. 
