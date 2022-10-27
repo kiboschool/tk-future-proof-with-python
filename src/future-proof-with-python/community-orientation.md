@@ -104,9 +104,20 @@ If you respond to a question:
 
 ## Challenge 2: Squad Info Program 👩🏿‍💻
 
-> **Instructions:** Collaborate to write a program in Replit that prints info about your squad.
+> **Instructions:** Discuss your intentions for the program, then cllaborate to write a program in Replit that prints info about your squad.
 
 All squad members should join your squad voice channel, so that you can discuss what you want to include in your program.
+
+> **Step 1:** Set intentions
+Squads that support each other do better in the program. 
+
+(1) **Pick** a day of week and time of day that you will study together. You were placed in the squad because you have similar availability.  During this time, you will login to Discord, work on your lessons at the same time, and use your squad channels to discuss. 
+
+(2) **Discuss** the following common challenges and come up with an intention
+- When we don’t understand the content of a lesson, we will …
+- When we are stuck on a practice or project, we will…
+- When we finish a project that I am really proud of, we will…
+
 
 Select one person to create a repl. That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
 
@@ -116,12 +127,17 @@ The program should use `print` to display the following information:
 - Squad information:
   - Squad number
   - One thing that everyone in your squad has in common
-  - How your squad members want to help each other learn
+  - The day of week and time your squad will meet to study
+  - Your squad intentions from above:
+    - When we don’t understand the content of a lesson, we will …
+    - When we are stuck on a practice or project, we will…
+    - When we finish a project that I am really proud of, we will…
 - For each squad member: 
   - Name
   - One sentence biography
   - Why you are learning python
   - One skill that you have that someone else in your squad finds useful/wishes they had
+
 
 When you are finished with the program, share a link to your Repl in Discord in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel
 
