@@ -44,7 +44,6 @@ See [this article](https://www.makeuseof.com/tag/5-great-text-games-play-online/
 
 ---
 
-<!--
 ## 3 - Tic Tac Toe Game
 
 Expand on the Tic Tac Toe game you developed in the live classes to add new features that make the game complete.
@@ -59,11 +58,10 @@ Some features you might add:
 There’s lots of creative ways to make the game more interesting and fun to play. Come up with some of your own and try them out!
 
 ---
--->
 
-## 3 - Other Ideas
+## 4 - Other Ideas
 
-As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message Mohammed to get feedback before you start coding. Other ideas might be:
+As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message your instructor to get feedback before you start coding. Other ideas might be:
 
 - Use Python Turtle to draw cool graphics, or make a more visual game
 - Write a "Mad Libs" style program that fills in the blanks of a story based on user input
@@ -74,7 +72,7 @@ There are tons of other possibilities, so use your imagination!
 
 ---
 
-## 4 - Examples of Past Student Projects
+## Examples of Past Student Projects
 
 Here are examples of past student projects, showing what kind of project you can build. Remember, you're not restricted to building a project exactly like these - they are just a starting point.
 

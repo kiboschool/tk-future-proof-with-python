@@ -1,4 +1,4 @@
-# Wrapping up: final steps for future proof
+# Wrapping up: Final steps for Future Proof with Python
 
 ---
 
@@ -6,7 +6,7 @@ Congratulations on **_almost_** finishing your FPWP journey. Below is what you n
 
 ## Earn Your Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 2nd.**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by the deadline.**
 
 - Complete the assignments from Weeks 1 through 4, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the [**Final Project**](/future-proof-with-python/final-project-instructions.md)
@@ -86,7 +86,5 @@ Fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
 ![Peak3.png](/future-proof-with-python/wrapping-up-final-steps/peak3.png)
-
 ![Peak2.png](/future-proof-with-python/wrapping-up-final-steps/peak2.png)
-
 ![Peak1.png](/future-proof-with-python/wrapping-up-final-steps/peak1.png)

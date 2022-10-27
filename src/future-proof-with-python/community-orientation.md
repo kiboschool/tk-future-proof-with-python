@@ -6,13 +6,6 @@
 
 <aside>
 
-⚠️ **Make sure you have signed into Orientation**
-
-If not, fill out this form so that we can confirm that you attended: <a href="https://forms.gle/uoTXNbpysxBM5nJy9" target="_blank"> Orientation Sign Up</a>
-</aside>
-
-<aside>
-
 ⚠️ **Make sure you have updated your Discord profile.**
 
 If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B), add a profile picture, and a description.
@@ -29,7 +22,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 **Let’s see which squad can finish all the challenges the quickest! 🏁**
 
-> If you have questions or need help, post a question in the **#help-python** Discord channel and tag @Emmy, @Okezie, @Lynet, or @Rob.
+> If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
 ## Ready?
 
@@ -52,18 +45,24 @@ Like this:
 
 We will update the leaderboard based on the information that is posted in the thread.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh6z4381_53t1VMl4cU9ZaxVAZLjkruQNCvc4yLQoMg_1WmyQW8zF6O1doJtLhcgH7i6GJ3GXpS9Us/embed" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1BGR8zQwmNFMK-DxRqGi64Js1Yay36RP6-CeMFC3Ho9A/embed" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenge 0: All Onboard 🚀
 
-> **Instructions:** Greet your teammates in Discord.
+> **Background:** Your squad has two dedicated channels in Discord
 
-- Introduce yourself in your squad channel.
-- Include your name, where you're based, and what interests you about the course.
+1. A text channel where you can communicate with text/video. The channel is labeled with your squad number, e.g., "#squad-7"
+2. A voice channel where you can communicate in audio and text. This channel is great for live collabortion like this orientation challenge! The channel is labeled with your squad number and study room, e.g., "Squad 1 Study Room." Voice channels also have a text thread where you can share links and text while speaking.
+
+> **Instructions:** Greet your teammates in Discord.
+>
+- Join your squad voice channel
+- Introduce yourself in the chat box of the study room. Share your name and where you are based
+- Unmute and introduce yourself
 
 **Completion criteria:**
 
-- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the squad text channel in Discord.
+- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the study room text channel in Discord.
 
 To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad.
 
@@ -74,41 +73,7 @@ To see the list of your squad members, go to your squad text channel, and look a
 
 ---
 
-## Challenge 1: Squad Info Program 👩🏿‍💻
-
-> **Instructions:** Collaborate to write a program in Replit that prints info about your squad.
-
-All squad members should join your squad voice channel, so that you can discuss what you want to include in your program.
-
-Select one person to create a repl. That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
-
-Work together as a squad to write your program in your repl.
-
-The program should use `print` to display the following information:
-- Squad information:
-  - Squad number
-  - One thing that everyone in your squad has in common
-  - How your squad members want to help each other learn
-- For each squad member:
-  - Name
-  - One sentence biography
-  - Why you are learning python
-  - One skill that you have that someone else in your squad finds useful/wishes they had
-
-When you are finished with the program, share a link to your Repl in Discord in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel
-
-<details>
-<summary><strong>Sample:</strong> finished program from the Kibo Team</summary>
-
-  [https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py](https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py)
-
-</details>
-
-**Completion criteria:** All squad members info is printed in the program. The squad Repl link is shared in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel in Discord.
-
----
-
-## Challenge 2: Thread It 🪡🧵
+## Challenge 1: Thread It 🪡🧵
 
 > **Instructions:** Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a question thread
 
@@ -129,7 +94,7 @@ If you respond to a question:
 
 <aside>
 
-⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It would get too confusing!
+⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It will get too confusing!
 
 </aside>
 
@@ -137,92 +102,65 @@ If you respond to a question:
 
 ---
 
-## Challenge 3: Screenshots and URLs
+## Challenge 2: Squad Info Program 👩🏿‍💻
 
-> **Instructions:** Help each of your teammates share a screenshot and a URL in your squad channel.
+> **Instructions:** Discuss your intentions for the program, then cllaborate to write a program in Replit that prints info about your squad.
 
-When you ask for help on a coding assignment, you need to share information that
-another student or an instructor can use to help you figure out what's going on.
+All squad members should join your squad voice channel, so that you can discuss what you want to include in your program.
 
-Two of the best tools for sharing that are
+> **Step 1:** Set intentions
+Squads that support each other do better in the program.
 
-* A screenshot of the code
-* A URL of the assignment
+(1) **Pick** a day of week and time of day that you will study together. You were placed in the squad because you have similar availability.  During this time, you will login to Discord, work on your lessons at the same time, and use your squad channels to discuss.
 
-Everyone in your squad should complete these steps individually:
+(2) **Discuss** the following common challenges and come up with an intention
+- When we don’t understand the content of a lesson, we will …
+- When we are stuck on a practice or project, we will…
+- When we finish a project that I am really proud of, we will…
 
-1. Go to your version of the [Decrypt Me challenge](https://replit.com/team/challenge-fpwp6/Decrypt-me) in Replit.
-2. In your squad channel, share the url to your work.
-3. Take a **screenshot** of your code
-4. Share the screenshot in your squad channel
 
-Here’s how to take a screenshot on Windows, Mac, and Chromebook:
+Select one person to create a repl. That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
+
+Work together as a squad to write your program in your repl.
+
+The program should use `print` to display the following information:
+- Squad information:
+  - Squad number
+  - One thing that everyone in your squad has in common
+  - The day of week and time your squad will meet to study
+  - Your squad intentions from above:
+    - When we don’t understand the content of a lesson, we will …
+    - When we are stuck on a practice or project, we will…
+    - When we finish a project that I am really proud of, we will…
+- For each squad member:
+  - Name
+  - One sentence biography
+  - Why you are learning python
+  - One skill that you have that someone else in your squad finds useful/wishes they had
+
+
+When you are finished with the program, share a link to your Repl in Discord in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel
 
 <details>
-<summary><strong>Windows</strong></summary>
+<summary><strong>Sample:</strong> finished program from the Kibo Team</summary>
 
-Press the Windows key + Print Screen (PrtScn) key.
-
-![how to take a screenshot on windows](./community-orientation/windows-screenshot.jpeg)
-
-The screenshot will be saved to the Pictures > Screenshots folder. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots here](https://www.businessinsider.com/how-to-screenshot-on-windows)
+  [https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py](https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py)
 
 </details>
 
-<details>
-<summary><strong>Mac</strong></summary>
+**Completion criteria:** All squad members info is printed in the program. The squad Repl link is shared in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel in Discord.
 
-Press the Command key + Shift key + 4
+---
 
-The cursor will turn into a +, and you can select the portion of the screen
-you'd like to capture. When you release the mouse, the screenshot will be taken.
 
-Screenshots will save to your desktop, and show as a thumbnail. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
 
-[See more options for taking screenshots here](https://support.apple.com/en-us/HT201361)
-
-</details>
-
-<details>
-<summary><strong>Chromebook</strong></summary>
-
-Press Shift + Ctrl + Show windows.
-
-(Or, if your Chromebook has it, press the Screenshot key)
-
-In the menu at the bottom, select Screenshot.
-
-Select an option:
-
-  * Take a full screen screenshot
-  * Take a partial screenshot
-  * Take a window screenshot
-
-Recordings and screenshots get saved to your “Downloads” folder. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots
-here](https://support.google.com/chromebook/answer/10474268?hl=en)
-
-</details>
-
-> ⚠️ **DO NOT** share a mobile phone picture of your laptop screen. It's difficult
-> to read the text on the screen from a mobile phone picture.
-
-**Completion criteria:** All squad members have shared a url and screenshot of their
-Decrypt Me challenge in the squad text channel.
-
-## Challenge 4: Feedback Is a Gift 🎁
+## Challenge 3: Feedback Is a Gift 🎁
 
 **Instructions:** Once you have completed all the other challenges, submit your feedback on the Orientation session by opening the toggle below, and completing the Google form.
 
 <details>
   <summary>Open the toggle to submit your feedback on the Orientation</summary>
-    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeON8qG2ExegW5bxosHnMYW9gy6awcWJ-CwMwh1tGA0-xoXcg/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXvfy751kcARqHzH4Cg7YruO5O93Q7fnNG1ifn4uVrWfgHNg/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 </details>
 
 
@@ -245,7 +183,7 @@ You’re done with orientation and ready to begin class. If you want to keep exp
 
 These are the words you used to describe yourselves. What an awesome group!
 
-![Screenshot 2022-07-12 at 11 33 06 AM](https://user-images.githubusercontent.com/3818920/178545575-e2f3b2d0-3920-4df9-b917-7ef2f1aa4ef9.png)
+
 
 ---
 
