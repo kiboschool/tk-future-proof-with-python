@@ -6,13 +6,6 @@
 
 <aside>
 
-⚠️ **Make sure you have signed into Orientation**
-
-If not, fill out this form so that we can confirm that you attended: <a href="https://forms.gle/uoTXNbpysxBM5nJy9" target="_blank"> Orientation Sign Up</a>
-</aside>
-
-<aside>
-
 ⚠️ **Make sure you have updated your Discord profile.**
 
 If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B), add a profile picture, and a description.
@@ -80,7 +73,36 @@ To see the list of your squad members, go to your squad text channel, and look a
 
 ---
 
-## Challenge 1: Squad Info Program 👩🏿‍💻
+## Challenge 1: Thread It 🪡🧵
+
+> **Instructions:** Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a question thread
+
+Watch the clip below to learn how to create a thread in Discord.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
+2. Post one question you have about Python **OR** respond to someone else’s question **in their thread**.
+
+If you ask a question:
+* Give your thread a name that summarizes the topic of your question
+* Write the details of your question in the first message
+* If someone responds to your question, you can respond back to them!
+
+If you respond to a question:
+* Respond in the thread, so that the channel doesn't get too confusing.
+
+<aside>
+
+⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It will get too confusing!
+
+</aside>
+
+**Completion criteria:** All squad members have posted a question or answered/commented on a question in the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel.
+
+---
+
+## Challenge 2: Squad Info Program 👩🏿‍💻
 
 > **Instructions:** Collaborate to write a program in Replit that prints info about your squad.
 
@@ -114,121 +136,15 @@ When you are finished with the program, share a link to your Repl in Discord in 
 
 ---
 
-## Challenge 2: Thread It 🪡🧵
 
-> **Instructions:** Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a question thread
 
-Watch the clip below to learn how to create a thread in Discord.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
-2. Post one question you have about Python **OR** respond to someone else’s question **in their thread**.
-
-If you ask a question:
-* Give your thread a name that summarizes the topic of your question
-* Write the details of your question in the first message
-* If someone responds to your question, you can respond back to them!
-
-If you respond to a question:
-* Respond in the thread, so that the channel doesn't get too confusing.
-
-<aside>
-
-⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It would get too confusing!
-
-</aside>
-
-**Completion criteria:** All squad members have posted a question or answered/commented on a question in the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel.
-
----
-
-## Challenge 3: Screenshots and URLs
-
-> **Instructions:** Help each of your teammates share a screenshot and a URL in your squad channel.
-
-When you ask for help on a coding assignment, you need to share information that
-another student or an instructor can use to help you figure out what's going on.
-
-Two of the best tools for sharing that are
-
-* A screenshot of the code
-* A URL of the assignment
-
-Everyone in your squad should complete these steps individually:
-
-1. Go to your version of the [Decrypt Me challenge](https://replit.com/team/challenge-fpwp6/Decrypt-me) in Replit.
-2. In your squad channel, share the url to your work.
-3. Take a **screenshot** of your code
-4. Share the screenshot in your squad channel
-
-Here’s how to take a screenshot on Windows, Mac, and Chromebook:
-
-<details>
-<summary><strong>Windows</strong></summary>
-
-Press the Windows key + Print Screen (PrtScn) key.
-
-![how to take a screenshot on windows](./community-orientation/windows-screenshot.jpeg)
-
-The screenshot will be saved to the Pictures > Screenshots folder. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots here](https://www.businessinsider.com/how-to-screenshot-on-windows)
-
-</details>
-
-<details>
-<summary><strong>Mac</strong></summary>
-
-Press the Command key + Shift key + 4
-
-The cursor will turn into a +, and you can select the portion of the screen
-you'd like to capture. When you release the mouse, the screenshot will be taken.
-
-Screenshots will save to your desktop, and show as a thumbnail. You can drag 
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots here](https://support.apple.com/en-us/HT201361)
-
-</details>
-
-<details>
-<summary><strong>Chromebook</strong></summary>
-
-Press Shift + Ctrl + Show windows.
-
-(Or, if your Chromebook has it, press the Screenshot key)
-
-In the menu at the bottom, select Screenshot.
-
-Select an option:
-
-  * Take a full screen screenshot
-  * Take a partial screenshot
-  * Take a window screenshot
-
-Recordings and screenshots get saved to your “Downloads” folder. You can drag 
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots
-here](https://support.google.com/chromebook/answer/10474268?hl=en)
-
-</details>
-
-> ⚠️ **DO NOT** share a mobile phone picture of your laptop screen. It's difficult
-> to read the text on the screen from a mobile phone picture.
-
-**Completion criteria:** All squad members have shared a url and screenshot of their
-Decrypt Me challenge in the squad text channel.
-
-## Challenge 4: Feedback Is a Gift 🎁
+## Challenge 3: Feedback Is a Gift 🎁
 
 **Instructions:** Once you have completed all the other challenges, submit your feedback on the Orientation session by opening the toggle below, and completing the Google form.
 
 <details>
   <summary>Open the toggle to submit your feedback on the Orientation</summary>
-    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeON8qG2ExegW5bxosHnMYW9gy6awcWJ-CwMwh1tGA0-xoXcg/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXvfy751kcARqHzH4Cg7YruO5O93Q7fnNG1ifn4uVrWfgHNg/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 </details>
 
 
@@ -251,7 +167,7 @@ You’re done with orientation and ready to begin class. If you want to keep exp
 
 These are the words you used to describe yourselves. What an awesome group!
 
-![Screenshot 2022-07-12 at 11 33 06 AM](https://user-images.githubusercontent.com/3818920/178545575-e2f3b2d0-3920-4df9-b917-7ef2f1aa4ef9.png)
+
 
 ---
 
