@@ -29,7 +29,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 **Let’s see which squad can finish all the challenges the quickest! 🏁**
 
-> If you have questions or need help, post a question in the **#help-python** Discord channel and tag @Emmy, @Okezie, @Lynet, or @Rob.
+> If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
 ## Ready?
 
@@ -52,18 +52,24 @@ Like this:
 
 We will update the leaderboard based on the information that is posted in the thread.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh6z4381_53t1VMl4cU9ZaxVAZLjkruQNCvc4yLQoMg_1WmyQW8zF6O1doJtLhcgH7i6GJ3GXpS9Us/embed" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1BGR8zQwmNFMK-DxRqGi64Js1Yay36RP6-CeMFC3Ho9A/embed" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenge 0: All Onboard 🚀
 
-> **Instructions:** Greet your teammates in Discord. 
+> **Background:** Your squad has two dedicated channels in Discord
 
-- Introduce yourself in your squad channel.
-- Include your name, where you're based, and what interests you about the course.
+1. A text channel where you can communicate with text/video. The channel is labeled with your squad number, e.g., "#squad-7"
+2. A voice channel where you can communicate in audio and text. This channel is great for live collabortion like this orientation challenge! The channel is labeled with your squad number and study room, e.g., "Squad 1 Study Room." Voice channels also have a text thread where you can share links and text while speaking.
+
+> **Instructions:** Greet your teammates in Discord. 
+> 
+- Join your squad voice channel
+- Introduce yourself in the chat box of the study room. Share your name and where you are based
+- Unmute and introduce yourself 
 
 **Completion criteria:** 
 
-- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the squad text channel in Discord.
+- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the study room text channel in Discord.
 
 To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad. 
 
