@@ -34,7 +34,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 The instructors will update this as you complete challenges together. 
 
-Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with: 
+Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/1014572984998035466) channel with: 
 
 - your squad number
 - the challenge that you completed
@@ -51,8 +51,8 @@ We will update the leaderboard based on the information that is posted in the th
 
 > **Background:** Your squad has two dedicated channels in Discord
 
-1. A text channel where you can communicate with text/video. The channel is labeled with your squad number, e.g., "#squad-7"
-2. A voice channel where you can communicate in audio and text. This channel is great for live collabortion like this orientation challenge! The channel is labeled with your squad number and study room, e.g., "Squad 1 Study Room." Voice channels also have a text thread where you can share links and text while speaking.
+1. A text channel where you can communicate with text. The channel is labeled with your squad number, e.g., "#squad-7"
+2. A voice channel where you can communicate in audio, video and text. This channel is great for live collabortion like this orientation challenge! The channel is labeled with your squad number and study room, e.g., "Squad 1 Study Room." Voice channels also have a text thread where you can share links and text while speaking.
 
 > **Instructions:** Greet your teammates in Discord. 
 > 
@@ -108,7 +108,7 @@ If you respond to a question:
 
 All squad members should join your squad voice channel, so that you can discuss what you want to include in your program.
 
-> **Step 1:** Set intentions
+> **Step 1:** Set intentions.
 Squads that support each other do better in the program. 
 
 (1) **Pick** a day of week and time of day that you will study together. You were placed in the squad because you have similar availability.  During this time, you will login to Discord, work on your lessons at the same time, and use your squad channels to discuss. 
@@ -119,7 +119,7 @@ Squads that support each other do better in the program.
 - When we finish a project that I am really proud of, we will…
 
 
-Select one person to create a repl. That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
+Select one person to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
 
 Work together as a squad to write your program in your repl.
 
@@ -177,7 +177,7 @@ When you are finished with the program, share a link to your Repl in Discord in 
 
 </aside>
 
-You’re done with orientation and ready to begin class. If you want to keep exploring Discord and hanging out, check out the Music Lounge, the [#random](https://discord.com/channels/866676763450933258/936572023319195658) channel, or the [#games](https://discord.com/channels/866676763450933258/963454071828774963) channel. Or, get started on the week 1 lessons.
+You’re done with orientation and ready to begin class. If you want to keep exploring Discord and hanging out, check out the [Music Lounge](https://discord.com/channels/866676763450933258/866676764067889181), the [#random](https://discord.com/channels/866676763450933258/936572023319195658) channel, or the [#games](https://discord.com/channels/866676763450933258/963454071828774963) channel. Or, get started on the week 1 lessons.
 
 ## Who You Are (Word Cloud)
 
