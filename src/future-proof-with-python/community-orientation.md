@@ -8,7 +8,7 @@
 
 ⚠️ **Make sure you have updated your Discord profile.**
 
-If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B), add a profile picture, and a description.
+If not, update your profile name to your first name and last name initial (e.g. Okezie C, Aisha D), add a profile picture, and a description.
 
 ![discord-sidebar](https://user-images.githubusercontent.com/3818920/177379432-e2997c28-f0e8-4687-9d9b-4f4cdca0aa72.png)
 
