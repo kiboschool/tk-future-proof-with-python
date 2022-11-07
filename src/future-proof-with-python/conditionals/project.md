@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 # Individual Project: Rock Paper Scissors
 
-**Due date: Sunday Oct 13th**
+**Due date: Sunday Nov 13th**
 
 <aside>
 
