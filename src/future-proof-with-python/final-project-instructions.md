@@ -2,6 +2,9 @@
 <!--
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8z9vVdTFDqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 -->
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d0a70fa0a27b47bdac0594ca67fb4628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
 Congratulations on making it this far in your Future Proof journey! It’s been a fun-filled few weeks. Now it’s time for you to put your Python skills to test by building a program of your own design. The final project is a chance to 🙌🏿 **celebrate what you’ve learned** **🎉** and ✨**explore the creativity of coding**.🎨
