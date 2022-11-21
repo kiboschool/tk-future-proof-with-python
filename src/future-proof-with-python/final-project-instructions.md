@@ -50,10 +50,11 @@ You’ll should figure out what works best for your team. The best teams communi
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
 
 ## Submitting the Project
-
+<aside>
+Final project submission deadline is **Friday Dec. 2, 2022**.
+</aside>
 <aside>
 Access and submit the Final Project on Replit <a href="https://replit.com/team/tk7-future-proof-with-python/Final-Project" target="_blank">here.</a>
-
 </aside>
 
 ✨✨Have fun!✨✨
