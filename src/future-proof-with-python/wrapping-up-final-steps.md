@@ -70,7 +70,7 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 ## Apply to Kibo's degree program
 
-Kibo offers a three-year BSc in Computer Science. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
+Kibo offers a three-year BSc in Computer Science. We launched our [founding class](https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392) in October 2022. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
 
 Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here.</a>
 
