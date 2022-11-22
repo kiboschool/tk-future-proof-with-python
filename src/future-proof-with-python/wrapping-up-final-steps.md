@@ -10,7 +10,7 @@ You have worked really hard and we want to recognize that work with a certificat
 
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the <a href="https://fp7.vercel.app/future-proof-with-python/final-project-instructions.html" target = "_blank">**Final Project** </a>
-- Complete the <a href="https://forms.gle/GZyTzfyHH9A2t3gF7" target = "_blank">**Python Program Feedback Survey** </a>
+- Complete the <a href="https://forms.gle/GZyTzfyHH9A2t3gF7" target = "_blank">**Program Feedback Survey** </a>
 
 ---
 
