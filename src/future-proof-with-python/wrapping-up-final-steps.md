@@ -19,7 +19,7 @@ You have worked really hard and we want to recognize that work with a certificat
 <aside>
 
 🎥 **Record a video testimonial**
-We would love to highlight your story to other young Africans just like you✨Record your answers to a few questions and [upload them here.](https://forms.gle/umoicNxw6wEMaBKj9)
+We would love to highlight your story to other young Africans just like you✨ [Visit this form](https://forms.gle/umoicNxw6wEMaBKj9)to record and upload answers to a few questions about your experience.
 
 </aside>
 
