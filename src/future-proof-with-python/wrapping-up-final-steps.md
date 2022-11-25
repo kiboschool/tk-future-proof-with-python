@@ -72,9 +72,7 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo offers a three-year BSc in Computer Science. We launched our <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> in October 2022. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
 
-Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here.</a>
-
-Application for the next cohort opens in Februaury 2023. Fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> this form </a> and we will let you know as soon as the application opens.
+Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here </a> and fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> **this form** </a> if you would like us to let you know as soon as application for the next cohort opens.
 
 ---
 
