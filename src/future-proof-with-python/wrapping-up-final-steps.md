@@ -26,7 +26,7 @@ We would love to highlight your story to other young Africans just like you✨ [
 <aside>
 
 🖋️ **Give us permission**
-We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://bit.ly/3JqSRUS)**
+We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://kibo-school.typeform.com/release-form)**
 
 </aside>
 
