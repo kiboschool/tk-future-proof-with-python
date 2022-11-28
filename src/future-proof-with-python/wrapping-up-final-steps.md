@@ -6,7 +6,7 @@ Congratulations on **_almost_** finishing your FPWP journey. Below is what you n
 
 ## Earn Your Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by the deadline.**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 2.**
 
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the <a href="https://fp7.vercel.app/future-proof-with-python/final-project-instructions.html" target = "_blank">**Final Project** </a>
@@ -19,14 +19,14 @@ You have worked really hard and we want to recognize that work with a certificat
 <aside>
 
 🎥 **Record a video testimonial**
-We would love to highlight your story to other young Africans just like you✨ [Visit this form](https://forms.gle/umoicNxw6wEMaBKj9) to record and upload answers to a few questions about your experience.
+We would love to highlight your story to other young Africans just like you✨ <a href="https://forms.gle/M4TSBpL6F2kM3Xrh7" target = "_blank">**Visit this form** </a> to record and upload answers to a few questions about your experience.
 
 </aside>
 
 <aside>
 
 🖋️ **Give us permission**
-We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://bit.ly/3JqSRUS)**
+We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://kibo-school.typeform.com/release-form)**
 
 </aside>
 
@@ -40,7 +40,7 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 ## Stay in the Kibo family
 
-**Stay in Discord:** We will be adding you to at Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more career exploration events like the Mentor Mingle.
+**Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more career exploration events like the Mentor Mingle.
 
 **Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know!
 
@@ -70,11 +70,9 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 ## Apply to Kibo's degree program
 
-Kibo offers a three-year BSc in Computer Science. We launched our [founding class](https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392) in October 2022. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
+Kibo offers a three-year BSc in Computer Science. We launched our <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> in October 2022. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
 
-Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here.</a>
-
-Application for the next cohort opens in Februaury 2023. Fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> this form </a> and we will let you know as soon as the application opens.
+Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here </a> and fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> **this form** </a> if you would like us to let you know as soon as application for the next cohort opens.
 
 ---
 
@@ -85,3 +83,5 @@ Kibo would not be the same without your participation. We are so grateful that y
 ![TK7Peak1.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak1.png)
 ![TK7Peak2.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak2.png)
 ![TK7Peak3.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak3.png)
+
+--------------------------------------------------------------
