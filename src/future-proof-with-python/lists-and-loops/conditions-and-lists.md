@@ -68,7 +68,7 @@ We use an `if` statement and the modulo operator to find the even values, and ad
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk7-future-proof-with-python/W45-Sum-of-Odd-Numbers" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk8-fpwp/W45-Sum-of-Odd-Numbers" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <details>
 <summary>Solution (try for at least 10-20 minutes before looking)</summary>
@@ -118,7 +118,7 @@ The program should look like this when it runs:
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk7-future-proof-with-python/W46-Interactive-Minimum" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk8-fpwp/W46-Interactive-Minimum" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <details>
 <summary>Solution (try for at least 10-20 minutes before looking)</summary>

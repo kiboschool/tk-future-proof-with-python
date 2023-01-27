@@ -52,9 +52,10 @@ You’ll should figure out what works best for your team. The best teams communi
 ## Submitting the Project
 <aside>
 Final project submission deadline is Friday Dec. 9, 2022. (Extended deadline)
+<!-- TODO update date -->
 </aside>
 <aside>
-Access and submit the Final Project on Replit <a href="https://replit.com/team/tk7-future-proof-with-python/Final-Project" target="_blank">here.</a>
+Access and submit the Final Project on Replit <a href="https://replit.com/team/tk8-fpwp/Final-Project" target="_blank">here.</a>
 </aside>
 
 ✨✨Have fun!✨✨

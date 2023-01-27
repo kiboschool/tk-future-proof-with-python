@@ -8,9 +8,11 @@ Congratulations on **_almost_** finishing your FPWP journey. Below is what you n
 
 You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 9. (Extended deadline)**
 
+<!-- TODO update date -->
+
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the <a href="https://fp7.vercel.app/future-proof-with-python/final-project-instructions.html" target = "_blank">**Final Project** </a>
-- Complete the <a href="https://forms.gle/GZyTzfyHH9A2t3gF7" target = "_blank">**Program Feedback Survey** </a>
+- Complete the **[Final Project](./final-project-instructions.md)**
+- Complete the <a href="https://forms.gle/GZyTzfyHH9A2t3gF7" target="_blank">**Program Feedback Survey**</a>
 
 ---
 
@@ -79,9 +81,5 @@ Learn more about Kibo's degree program <a href="https://kibo.school/degree/" tar
 # **Thank you! ✨**
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
-
-![TK7Peak1.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak1.png)
-![TK7Peak2.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak2.png)
-![TK7Peak3.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak3.png)
 
 --------------------------------------------------------------

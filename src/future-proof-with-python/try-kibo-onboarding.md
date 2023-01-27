@@ -1,7 +1,10 @@
 # Set up for class
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Oct 28.**
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation.
+
+<!-- TODO: update date -->
+**The deadline to finish onboarding is Friday, Oct 28.**
 
 
 ## Sign up for a live class and select a study time
@@ -41,7 +44,7 @@ You have already created a Replit account during the admissions challenge. To pr
 
 1. Go to [replit.com](https://replit.com)
 2. Select "Log in" at the top right corner to login to your account
-3. [Click this link](https://replit.com/teams/join/iuexwqzcljlzfmktosjopqzbxmriwdgr-tk7-future-proof-with-python) to join the Replit team for the class.
+3. [Click this link](https://replit.com/teams/join/vifumteyqmrngpvjubfszxnioczxtaih-tk8-fpwp) to join the Replit team for the class.
 
 ## Join Discord and introduce yourself
 
