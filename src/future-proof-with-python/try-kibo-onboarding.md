@@ -87,6 +87,12 @@ _Example:_
 
 ![Screenshot 2022-04-08 at 10.13.11 AM.png](/future-proof-with-python/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
 
+## Prepare for Orientation
+
+Orientation is mandatory and will happen on Friday, February 10 from 3 - 5:30pm GMT on Zoom. In order to join orientation, you will be required to sign in to zoom. You must sign in with the same email you used for Kibo (the one where we sent you this onboarding information). 
+
+If you do not already have a zoom account with the email you used to sign up for Kibo, <a href="https://zoom.us/signup#/signup" target="_blank"> click this page </a> to create a freee zoom account. If you use Gmail, you can click the 'Sign in with Google' icon. Skip this step if you already have a zoom account with the email you used for Kibo
+
 ---
 
 ## Onboarding Checklist
