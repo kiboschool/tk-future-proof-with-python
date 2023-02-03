@@ -7,7 +7,7 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 **The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
 
 
-## Sign up for a live class and select a study time
+## Sign up for a live class
 
 **Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with <a href="https://www.linkedin.com/in/stanleyudeh/"> Stanley Udeh </a> who will be your instructor. Live classes take place on Thursdays from weeks 1 - 4 in the program, and is 1 hour and 30 minutes long.
 
@@ -50,7 +50,7 @@ Discord is our community platform. It's where you will get daily announcements, 
 
 1. If you already have a Discord account, [login to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
 2. Click here to join the Kibo School Discord server: **[https://discord.gg/ngq66X6uRU](https://discord.gg/UU6v6F2bMe).**
-3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **"Future Proof with Pyhthon"**
+3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **"Future Proof with Python"**
 
 ![class-selection](https://github.com/kiboschool/tk-future-proof-with-python/blob/main/src/images/image%20(31).png)
 
