@@ -1,7 +1,7 @@
 # Set up for class
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation which is happening on Friday, Feb 10 from 3 - 5:30pm GMT.
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, and lastly, join Discord and introduce yourself and lastly, prepare for Orientation. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation which is happening on Friday, Feb 10 from 3 - 5:30pm GMT.
 
 <!-- TODO: update date -->
 **The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
@@ -49,7 +49,7 @@ Discord is our community platform. It's where you will get daily announcements, 
 ### Join Kibo School server
 
 1. If you already have a Discord account, [login to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
-2. Click here to join the Kibo School Discord server: **[https://discord.gg/ngq66X6uRU](https://discord.gg/UU6v6F2bMe).**
+2. Click here to join the Kibo School Discord server: **[https://discord.gg/UU6v6F2bMe](https://discord.gg/UU6v6F2bMe).**
 3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **"Future Proof with Python"**
 
 ![class-selection](https://github.com/kiboschool/tk-future-proof-with-python/blob/main/src/images/image%20(31).png)
@@ -64,7 +64,7 @@ First, update your nickname. To do this:
 ![discord-sidebar](https://user-images.githubusercontent.com/3818920/177379432-e2997c28-f0e8-4687-9d9b-4f4cdca0aa72.png)
 
 2. Select “Edit Server Profile"
-3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only.
+3. Update your **nickname** to your first name and last name initial (e.g. Aisha D, Okezie C). This will change your nickname in the Kibo School server only.
 
 To customize the rest of your profile
 1. Click again on your username in the right sidebar. This time click "Edit User Profile".
