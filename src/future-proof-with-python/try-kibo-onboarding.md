@@ -1,9 +1,9 @@
 # Set up for class
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, and lastly, join Discord and introduce yourself and lastly, prepare for Orientation. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation which is happening on Friday, Feb 10 from 3 - 5:30pm GMT.
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself and lastly, prepare for Orientation. At the bottom of this page, there is an onboarding checklist that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form will get an invite to orientation.
 
-<!-- TODO: update date -->
+
 **The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
 
 
@@ -90,7 +90,7 @@ _Example:_
 
 ## Prepare for Orientation
 
-Orientation is mandatory and will happen on Friday, February 10 from 3 - 5:30pm GMT on Zoom. In order to join orientation, you will be required to sign in to zoom. You must sign in with the same email you used for Kibo (the one where we sent you this onboarding information). 
+Orientation is mandatory and will happen on Friday, February 10 from 3 - 5:30pm GMT on Zoom(<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230210T150000&p1=tz_gmt">convert to you local timezone</a>). In order to join orientation, you will be required to sign in to zoom. You must sign in with the same email you used for Kibo (the one where we sent you this onboarding information).
 
 If you do not already have a zoom account with the email you used to sign up for Kibo, <a href="https://zoom.us/signup#/signup" target="_blank"> click this page </a> to create a free zoom account. If you use Gmail, you can click the 'Sign in with Google' icon. Skip this step if you already have a zoom account with the email you used for Kibo
 
@@ -99,8 +99,9 @@ If you do not already have a zoom account with the email you used to sign up for
 
 ## Onboarding Checklist
 
+We’re excited to see you at Orientation! Complete the form below and you will get a calendar invitation for orientation on or before February 9. Remember that attending orientation is mandatory to take the class.
+
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfd6J9ZZyR2ve9BBkj_zmxs302hQSdJsPVMw_Sz06YVw4I49g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
-We’re excited to see you at Orientation! If you complete all the steps on this page, you will get a calendar invitation for orientation on or before February 9. Remember that attending orientation is mandatory to take the class.
 
 ### See you at the Orientation!✨✨🏔️
