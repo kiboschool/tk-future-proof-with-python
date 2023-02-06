@@ -1,6 +1,6 @@
 # Future Proof With Python
 
-**_[bit.ly/tk7-fpwp](http://bit.ly/tk7-fpwp)_**
+**_[bit.ly/tk8-fpwp](http://bit.ly/tk8-fpwp)_**
 
 **Welcome to Future Proof with Python!**
 
@@ -11,13 +11,13 @@ You are joining a global learning community dedicated to helping you learn and t
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/eKl2OBVhQmI" title="Welcome to Future Proof with Python - Try Kibo 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="https://www.loom.com/embed/e5abfc93d84a44d3bf06d1f3723f1b85" title="Welcome to Future Proof with Python - Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Completing your lessons
 
 This page will include all the lessons for the class. Each week, your instructor will add new lessons and assignments for you to work on.
-Bookmark this page to find all of your lessons: [https://bit.ly/tk7-fpwp](https://bit.ly/tk7-fpwp)
+Bookmark this page to find all of your lessons: [https://bit.ly/tk8-fpwp](https://bit.ly/tk8-fpwp)
 
 To find a lesson, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson.
 
