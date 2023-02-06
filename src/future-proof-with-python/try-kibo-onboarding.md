@@ -1,7 +1,7 @@
 # Set up for class
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Oct 28.**
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Feb 9.**
 
 
 ## Sign up for a live class and select a study time
@@ -24,10 +24,8 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 
 | Instructor | Time (in GMT) | Sign-Up Link                | Status
 | ------ | ----------------- | --------------------------- | ------ |
-| Kehinde  | 12:00pm GMT   | <a href="https://lu.ma/fpwp7-class-kehinde" target="_blank"> lu.ma/fpwp7-class-kehinde </a>   | open |
-| Bidemi  | 1:00pm GMT   | <a href="https://lu.ma/fpwp7-class-bidemi" target="_blank"> lu.ma/fpwp7-class-bidemi </a>   | open |
-| Stanley   | 3:00pm GMT   | <a href="https://lu.ma/fpwp7-class-stanley-a" target="_blank"> lu.ma/fpwp7-class-stanley-a </a>    | open |
-| Stanley   | 6:00pm GMT   | <a href="https://lu.ma/fpwp7-class-stanley-b" target="_blank"> lu.ma/fpwp7-class-stanley-b </a>    | open |
+| Stanley   | 12:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-a" target="_blank"> lu.ma/fpwp7-class-stanley-a </a>    | open |
+| Stanley   | 3:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-b" target="_blank"> lu.ma/fpwp7-class-stanley-b </a>    | open |
 
 ## Join Replit team
 
@@ -41,7 +39,7 @@ You have already created a Replit account during the admissions challenge. To pr
 
 1. Go to [replit.com](https://replit.com)
 2. Select "Log in" at the top right corner to login to your account
-3. [Click this link](https://replit.com/teams/join/iuexwqzcljlzfmktosjopqzbxmriwdgr-tk7-future-proof-with-python) to join the Replit team for the class.
+3. [Click this link](https://replit.com/team/tk8-fpwp) to join the Replit team for the class.
 
 ## Join Discord and introduce yourself
 
