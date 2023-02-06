@@ -6,7 +6,7 @@
 
 [Community Orientation](future-proof-with-python/community-orientation.md)
 
-
+<!--
 ## Lessons
 
 ### Week 1
@@ -69,5 +69,4 @@
 
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
-<!--
 -->
