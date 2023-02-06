@@ -1,18 +1,18 @@
 # Set up for class
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class and study time, join your class replit team, and lastly, join Discord and introduce yourself. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation. **The deadline to finish onboarding is Friday, Feb 9.**
+Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself and lastly, prepare for Orientation. At the bottom of this page, there is an onboarding checklist that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form will get an invite to orientation.
 
 
-## Sign up for a live class and select a study time
-
-**Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. Each live class class takes place on Thursdays, and is 1 hour and 30 minutes long.
+**The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
 
 
-**Study time**: This is a time range when you will be most available to study weekly. Depending on the time range you pick, you will be added into squads with peers who also pick a similar time range. During orientation, you and your squad memebers will collectively decide the day and specific time (within the time range) that you would meet virtually to study.
+## Sign up for a live class
+
+**Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with <a href="https://www.linkedin.com/in/stanleyudeh/"> Stanley Udeh </a> who will be your instructor. Live classes take place on Thursdays from weeks 1 - 4 in the program, and is 1 hour and 30 minutes long.
 
 
-**Select your preferred live class time by clicking on the link to register and add your preferred study time**
+**Select your preferred live class time by clicking on the link to register.**
 
 
 
@@ -22,10 +22,11 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 
 </aside>
 
-| Instructor | Time (in GMT) | Sign-Up Link                | Status
-| ------ | ----------------- | --------------------------- | ------ |
-| Stanley   | 12:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-a" target="_blank"> lu.ma/fpwp7-class-stanley-a </a>    | open |
-| Stanley   | 3:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-b" target="_blank"> lu.ma/fpwp7-class-stanley-b </a>    | open |
+| Time (in GMT) | Sign-Up Link                | Status
+| ----------------- | --------------------------- | ------ |
+| 12:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-a" target="_blank"> lu.ma/fpwp8-class-stanley-A </a>   | open |
+| 3:00pm GMT   | <a href="https://lu.ma/fpwp8-class-stanley-b" target="_blank"> lu.ma/fpwp8-class-stanley-B </a>   | open |
+
 
 ## Join Replit team
 
@@ -39,7 +40,7 @@ You have already created a Replit account during the admissions challenge. To pr
 
 1. Go to [replit.com](https://replit.com)
 2. Select "Log in" at the top right corner to login to your account
-3. [Click this link](https://replit.com/team/tk8-fpwp) to join the Replit team for the class.
+3. [Click this link](https://replit.com/teams/join/vifumteyqmrngpvjubfszxnioczxtaih-tk8-fpwp) to join the Replit team for the class.
 
 ## Join Discord and introduce yourself
 
@@ -48,7 +49,11 @@ Discord is our community platform. It's where you will get daily announcements, 
 ### Join Kibo School server
 
 1. If you already have a Discord account, [login to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
-2. **Click here to join the Kibo School Discord server: [https://discord.gg/ngq66X6uRU](https://discord.gg/ngq66X6uRU).**
+2. Click here to join the Kibo School Discord server: **[https://discord.gg/UU6v6F2bMe](https://discord.gg/UU6v6F2bMe).**
+3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **"Future Proof with Python"**
+
+![image (31)](https://user-images.githubusercontent.com/88333571/216731860-3353c6a1-dee0-4f3a-9ac2-06f80b994236.png)
+
 
 If you have trouble signing up for Discord, wait a few hours then try again.
 
@@ -60,7 +65,7 @@ First, update your nickname. To do this:
 ![discord-sidebar](https://user-images.githubusercontent.com/3818920/177379432-e2997c28-f0e8-4687-9d9b-4f4cdca0aa72.png)
 
 2. Select “Edit Server Profile"
-3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only.
+3. Update your **nickname** to your first name and last name initial (e.g. Aisha D, Okezie C). This will change your nickname in the Kibo School server only.
 
 To customize the rest of your profile
 1. Click again on your username in the right sidebar. This time click "Edit User Profile".
@@ -73,7 +78,7 @@ Introduce yourself in the #general channel by posting a message with:
 
 1. Your full name
 2. The name/nickname that people typically call you
-3.  Your location
+3. Your location
 4. A fun fact about you
 5. An image or gif that represents you!
 
@@ -83,21 +88,20 @@ _Example:_
 
 ![Screenshot 2022-04-08 at 10.13.11 AM.png](/future-proof-with-python/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
 
+
+## Prepare for Orientation
+
+Orientation is mandatory and will happen on Friday, February 10 from 3 - 5:30pm GMT on Zoom(<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230210T150000&p1=tz_gmt">convert to your local timezone</a>). In order to join orientation, you will be required to sign in to zoom. You must sign in with the same email you used for Kibo (the one where we sent you this onboarding information).
+
+If you do not already have a zoom account with the email you used to sign up for Kibo, <a href="https://zoom.us/signup#/signup" target="_blank"> click this page </a> to create a free zoom account. If you use Gmail, you can click the 'Sign in with Google' icon. Skip this step if you already have a zoom account with the email you used for Kibo
+
 ---
 
 ## Onboarding Checklist
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScieQBIvPYu9ce5khi_ZesNC2MBi9c9_i_pQzSXA7swjL643A/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+We’re excited to see you at Orientation! Complete the form below and you will get a calendar invitation for orientation on or before February 9. Remember that attending orientation is mandatory to take the class.
 
-We’re excited to see you at Orientation! If you complete all the steps on this page, you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfd6J9ZZyR2ve9BBkj_zmxs302hQSdJsPVMw_Sz06YVw4I49g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+
 
 ### See you at the Orientation!✨✨🏔️
-
-Before you go, make sure that you have:
-
-- Registered for a live class time (and received a confirmation email)
-- Joined Discord and updated your profile name, photo, and description
-- Introduced yourself in the #general channel on Discord
-- Marked your calendar for Orientation
-
-See you soon! 🎉🎉
