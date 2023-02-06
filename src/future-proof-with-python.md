@@ -11,7 +11,7 @@ You are joining a global learning community dedicated to helping you learn and t
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.loom.com/embed/e5abfc93d84a44d3bf06d1f3723f1b85" title="Welcome to Future Proof with Python - Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="https://youtu.be/EifnxPxx2L8" title="Welcome to Future Proof with Python - Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Completing your lessons
