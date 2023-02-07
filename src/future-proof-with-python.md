@@ -22,11 +22,11 @@ Bookmark this page to find all of your lessons: [https://bit.ly/tk8-fpwp](https:
 To find a lesson, click the Table of Contents (three horizontal lines) on the top left corner of the page. You can also click the arrows to navigate to the next lesson.
 
 <aside>
-  📺 Watch this lesson navigation walkthrough video from Emmy, one of your community managers
+  📺 Watch this lesson navigation walkthrough video from Emmy, the Try Kibo program manager
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/d3HOm2JShuY" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/Actg0KfcVDY" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Program schedule
