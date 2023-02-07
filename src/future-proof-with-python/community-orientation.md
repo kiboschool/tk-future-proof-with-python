@@ -87,7 +87,7 @@ If you see a thread with the name **I NEED A TEAM**, this means that the team is
 4. All team members should join the zoom meeting
 5. Once every member has joined zoom, select another team member to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in zoom so that the the rest of the team can join and work together.
 
-One all team members have joined the zoom and a repl has been created, you will together as a team to write your program in your repl.
+One all team members have joined the zoom and a repl has been created, you will discuss and write your program in your repl as a team. Feel free to also share screen
 
 The program should use `print` to display the following information:
 
