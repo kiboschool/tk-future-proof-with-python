@@ -50,7 +50,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 ## Challenge 1: FInd a team team ⛰️
 
-> **Description:** For the next challenge, you will need a teamneed a team. In this challenge, you will Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a thread and find a team of 3 to work on the next challenge.
+> **Description:** For the next challenge, you will need a team. In this challenge, you will use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a thread and find a team of 3 to work on the next challenge.
 
 
 1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
@@ -65,11 +65,11 @@ If not, update your profile name to your first name and last name initial (e.g. 
 ![challenge 1 final](https://user-images.githubusercontent.com/88333571/217385395-0f867a0b-774d-40f8-874f-a7abea4dca18.gif)
 
 
-If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
+If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL** and you still don't have a team, create new thread using **I NEED A TEAM** as the name.
 
 Here's what your thread will look like once done
 
-![image (35)](https://user-images.githubusercontent.com/88333571/217384447-9c85874b-4f71-4c3d-a73d-ed9b4fd496bd.png) ![image (34)](https://user-images.githubusercontent.com/88333571/217384539-7069dc89-734a-4c8a-81eb-6ed8bd23b0a4.png)
+![image (34)](https://user-images.githubusercontent.com/88333571/217384539-7069dc89-734a-4c8a-81eb-6ed8bd23b0a4.png) ![image (35)](https://user-images.githubusercontent.com/88333571/217384447-9c85874b-4f71-4c3d-a73d-ed9b4fd496bd.png) 
 
 
 **Completion criteria:** You have found a team of 3 using the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel on Discord
@@ -81,18 +81,17 @@ Here's what your thread will look like once done
 > **Description:** You should now have a team of 3(including yourself!). In this challenge, you will build your first program as a team.
 
 1. Go into the thread that you created to find your team
-2. Confirm that your team is ready for challenge 2
-3. Select one person to create a zoom meeting and share the join link
+2. Select one person to create a zoom meeting and share the join link
      - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one
      - Once you have signed in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
-     - In the zoom meeting, click the green badge icon on the top right cornner of your screen. Copy the zoom meeting link and share with your team.
+     - In the zoom meeting, click the green badge icon on the top right corner of your screen(see below). Copy the zoom meeting link and share with your team.
 
 ![Zoom](https://user-images.githubusercontent.com/88333571/217377755-856ecbc3-c915-476d-b157-116803ed86f5.gif)
 
 4. All team members should join the zoom meeting
 5. Once every member has joined zoom, select another team member to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in zoom so that the the rest of the team can join and work together.
 
-One all team members have joined the zoom and a repl has been created, you will discuss and write your program in your repl as a team. Feel free to also share screen
+Once all team members have joined the zoom and a repl has been created, you will discuss and write your program in your repl as a team. Feel free to also share screen
 
 The program should use `print` to display the following information:
 
@@ -104,7 +103,7 @@ The program should use `print` to display the following information:
   - Why you are learning python
   - One skill that you have that someone else in your team finds useful/wishes they had
 
-Once info program is done, ensure all team members have a link to the info program - you will all submit a link to the project you worked on together
+Once info program is done, ensure all team members have a link to the info program - you will all submit a link to that project in the next challenge.
 
 <details>
 <summary><strong>Sample:</strong> finished program from the Kibo Team</summary>
@@ -153,9 +152,10 @@ These are the words you used to describe yourselves. What an awesome group!
 
 ## Bonus Task: Scavenger hunt - become a discord guru
 
-> **Description:** You will be using Discord a lot through the program - it's a fun app, I promise! Pick at least one Discord feature that you’ll explore on your own this weekend e.g., use music channel, play games, post a meme spoiler feature.
+> **Description:** You will be using Discord a lot through the program - it's a fun app, I promise! Pick at least one Discord feature that you’ll explore on your own this weekend e.g., use music lounge, play games, post a meme with the spoiler feature.
 
-Here are short videos to wwalk you through some of Discord's fun channels
+Below are short GIFs to walk you through some of Discord's fun channels/features
+
 <aside>
      Music Lounge - you best bet when you want to unwind 
 </aside>
@@ -172,7 +172,7 @@ Here are short videos to wwalk you through some of Discord's fun channels
 
 
 <aside>
-     Games channel fofr when you feel compettitive. Multi-player feature os also available   
+     Games channel fofr when you feel compettitive. Multi-player feature is also available   
 </aside>
 
 ![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
