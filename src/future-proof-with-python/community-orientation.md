@@ -59,18 +59,18 @@ If not, update your profile name to your first name and last name initial (e.g. 
 4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
 
 <aside>
-
-Finding a team using threads
-     ![challenge 1](https://user-images.githubusercontent.com/88333571/217384174-c830fcdb-9062-436a-be72-79dce3672b26.gif)
-
+     Finding a team using threads
 </aside>
+
+![challenge 1](https://user-images.githubusercontent.com/88333571/217384174-c830fcdb-9062-436a-be72-79dce3672b26.gif)
+
 
 
 If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
 
 Here's what your thread will look like once done
-![image (35)](https://user-images.githubusercontent.com/88333571/217384447-9c85874b-4f71-4c3d-a73d-ed9b4fd496bd.png)
-![image (34)](https://user-images.githubusercontent.com/88333571/217384539-7069dc89-734a-4c8a-81eb-6ed8bd23b0a4.png)
+
+![image (35)](https://user-images.githubusercontent.com/88333571/217384447-9c85874b-4f71-4c3d-a73d-ed9b4fd496bd.png) ![image (34)](https://user-images.githubusercontent.com/88333571/217384539-7069dc89-734a-4c8a-81eb-6ed8bd23b0a4.png)
 
 
 **Completion criteria:** You have found a team of 3 using the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel on Discord
@@ -158,28 +158,22 @@ These are the words you used to describe yourselves. What an awesome group!
 
 Here are short videos to wwalk you through some of Discord's fun channels
 <aside>
-     
- Music Lounge - you best bet when you want to unwind
-     
+     Music Lounge - you best bet when you want to unwind 
 </aside>
 
 ![music channel](https://user-images.githubusercontent.com/88333571/217375724-288f6fd7-d13e-4cc6-a972-bd304f930e14.gif)
 
 
-
 <aside>
-
-     Use of spoilers for when you want to ahare a screenshot of your code
-     
+     Spoilers for when you want to share a screenshot of your code 
 </aside>
+
 ![spoiler](https://user-images.githubusercontent.com/88333571/217379698-38de1449-d61a-4b02-9286-16ab3dc8dab5.gif)
 
 
 
 <aside>
-     
-Games channel fofr when you feel compettitive. Multi-player feature os also available
-     
+     Games channel fofr when you feel compettitive. Multi-player feature os also available   
 </aside>
 
 ![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
