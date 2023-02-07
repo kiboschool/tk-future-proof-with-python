@@ -62,8 +62,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
      Finding a team using threads
 </aside>
 
-![challenge 1](https://user-images.githubusercontent.com/88333571/217384174-c830fcdb-9062-436a-be72-79dce3672b26.gif)
-
+![challenge 1 final](https://user-images.githubusercontent.com/88333571/217385395-0f867a0b-774d-40f8-874f-a7abea4dca18.gif)
 
 
 If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
