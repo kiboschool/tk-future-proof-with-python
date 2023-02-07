@@ -52,22 +52,26 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 > **Description:** For the next challenge, you will need a teamneed a team. In this challenge, you will Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a thread and find a team of 3 to work on the next challenge.
 
-Watch the clip below to learn how to create a thread in Discord.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
 2. Create a thread and use **I NEED A TEAM** as the thread name
 3. Enter a message start the thread e.g., "Who is willing to pair up for Challenge 1?"
 4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
 
-If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
-
 <aside>
 
-⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It will get too confusing!
+Finding a team using threads
+     ![challenge 1](https://user-images.githubusercontent.com/88333571/217384174-c830fcdb-9062-436a-be72-79dce3672b26.gif)
 
 </aside>
+
+
+If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
+
+Here's what your thread will look like once done
+![image (35)](https://user-images.githubusercontent.com/88333571/217384447-9c85874b-4f71-4c3d-a73d-ed9b4fd496bd.png)
+![image (34)](https://user-images.githubusercontent.com/88333571/217384539-7069dc89-734a-4c8a-81eb-6ed8bd23b0a4.png)
+
 
 **Completion criteria:** You have found a team of 3 using the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel on Discord
 
