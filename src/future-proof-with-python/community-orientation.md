@@ -1,6 +1,6 @@
 # Community Orientation
 
-**Spend the next hour completing the challenges with your squad.**
+**The Community Orientation challenges are compusory for all students in the program. By the end of the challenge, you will have built your first team project, and understood the tools that will help you be successful over the next 5 weeks.**
 
 ## Before you start!
 
@@ -14,13 +14,13 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 </aside>
 
-## Squad Challenges: The Rules
+## The Rules
 
-- In order to finish, **EVERYBODY** in your squad must complete the challenges. Remember, we are **_better together_**.
-- You should help each other! Use the squad channels in Discord.
+- You should help each other! If another student asks a question that you know the answer to, answer it! Remember, we are **_better together_**.
 - These challenges are best done on a computer.
+- After you complete all challenges, submit the feedback form at the end of this page. If you do not submit the feedback form, it will be considered that you did not participate during the Orientation.
 
-**Let’s see which squad can finish all the challenges the quickest! 🏁**
+**Let’s see who can finish all the challenges the quickest! 🏁**
 
 > If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
@@ -30,67 +30,38 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 ---
 
-## Leaderboard
+## Challenge 0: Letter from the future ✉️✍🏾
 
-The instructors will update this as you complete challenges together.
 
-Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/1014572984998035466) channel with: 
+> **Description:** Imagine it's Week 5 of the Try Kibo program. Write a message to your present self in the padlet below and state the measures that you will take over the next 5 weeks  to successfully complete the program
 
-- your squad number
-- the challenge that you completed
-
-Like this:
-
-> Hi, Squad 42 has completed challenge 1. Here's the link to our project: [link]
-
-We will update the leaderboard based on the information that is posted in the thread.
-
-<iframe src="https://docs.google.com/presentation/d/1BGR8zQwmNFMK-DxRqGi64Js1Yay36RP6-CeMFC3Ho9A/embed" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-## Challenge 0: All Onboard 🚀
-
-> **Background:** Your squad has two dedicated channels in Discord
-
-1. A text channel where you can communicate with text. The channel is labeled with your squad number, e.g., "#squad-7"
-2. A voice channel where you can communicate in audio, video and text. This channel is great for live collabortion like this orientation challenge! The channel is labeled with your squad number and study room, e.g., "Squad 1 Study Room." Voice channels also have a text thread where you can share links and text while speaking.
-
-> **Instructions:** Greet your teammates in Discord.
 >
-- Join your squad voice channel
-- Introduce yourself in the chat box of the study room. Share your name and where you are based
-- Unmute and introduce yourself
+- Click on the + sign
+- Enter your full name in the "Subject"
+- Write your intention
+- Add an image or GIF to accompany your message(optional)
+- Click "Publish"
 
-**Completion criteria:**
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/6hgur4kb7795zx3a" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the study room text channel in Discord.
-
-To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad.
-
-- **All squad members will have their names in the color grey.**
-- Community managers, Instructors, and Kibo Staff will show in other colors.
-
-![Screen Shot 2022-04-23 at 5.03.56 PM.png](/future-proof-with-python/community-orientation/screen-shot-2022-04-23-at-5.03.56-pm.png)
+**Completion criteria:** You can see your intention on the padlet and have read at least one other intention from another student
 
 ---
 
-## Challenge 1: Thread It 🪡🧵
+## Challenge 1: FInd a team team ⛰️
 
-> **Instructions:** Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a question thread
+> **Description:** For the next challenge, you will need a teamneed a team. In this challenge, you will Use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a thread and find a team of 3 to work on the next challenge.
 
 Watch the clip below to learn how to create a thread in Discord.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
-2. Post one question you have about Python **OR** respond to someone else’s question **in their thread**.
+2. Create a thread and use **I NEED A TEAM** as the thread name
+3. Enter a message start the thread e.g., "Who is willing to pair up for Challenge 1?"
+4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
 
-If you ask a question:
-* Give your thread a name that summarizes the topic of your question
-* Write the details of your question in the first message
-* If someone responds to your question, you can respond back to them!
-
-If you respond to a question:
-* Respond in the thread, so that the channel doesn't get too confusing.
+If you see a thread with the name **I NEED A TEAM**, this means that the team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread if there are still threads that need a team. If all threads are **FULL**, create new thread using **I NEED A TEAM** as the name.
 
 <aside>
 
@@ -98,74 +69,62 @@ If you respond to a question:
 
 </aside>
 
-**Completion criteria:** All squad members have posted a question or answered/commented on a question in the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel.
+**Completion criteria:** You have found a team of 3 using the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel on Discord
 
 ---
 
-## Challenge 2: Squad Info Program 👩🏿‍💻
+## Challenge 2: Team Info Program👩🏾‍💻
 
-> **Instructions:** Discuss your intentions for the program, then cllaborate to write a program in Replit that prints info about your squad.
+> **Description:** You should now have a team of 3(including yourself!). In this challenge, you will build your first program as a team.
 
-All squad members should join your squad voice channel, so that you can discuss what you want to include in your program.
+1. Go into the thread that you created to find your team
+2. Confirm that your team is ready for challenge 2
+3. Select one person to create a zoom meeting and share the join link
+     - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one
+     - Once you have signed in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
+     - In the zoom meeting, click the green icon and copy the zoom meeting link and share with your team.
+     - <!--- add screenshots of zoom meeting set up --->
+4. All team members should join the zoom meeting
+5. Once every member has joined zoom, select another team member to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in zoom so that the the rest of the team can join and work together.
 
-> **Step 1:** Set intentions.
-Squads that support each other do better in the program. 
-
-(1) **Pick** a day of week and time of day that you will study together. You were placed in the squad because you have similar availability.  During this time, you will login to Discord, work on your lessons at the same time, and use your squad channels to discuss.
-
-(2) **Discuss** the following common challenges and come up with an intention
-- When we don’t understand the content of a lesson, we will …
-- When we are stuck on a practice or project, we will…
-- When we finish a project that I am really proud of, we will…
-
-
-Select one person to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in Discord so that the the rest of the squad can join and work together.
-
-Work together as a squad to write your program in your repl.
+One all team members have joined the zoom and a repl has been created, you will together as a team to write your program in your repl.
 
 The program should use `print` to display the following information:
-- Squad information:
-  - Squad number
-  - One thing that everyone in your squad has in common
-  - The day of week and time your squad will meet to study
-  - Your squad intentions from above:
-    - When we don’t understand the content of a lesson, we will …
-    - When we are stuck on a practice or project, we will…
-    - When we finish a project that I am really proud of, we will…
-- For each squad member:
-  - Name
+
+- A team name
+- Something you all have in common
+- For each team member, add:
+  - First name and last initial (e.g., Aisha D, Okezie C)
   - One sentence biography
   - Why you are learning python
-  - One skill that you have that someone else in your squad finds useful/wishes they had
+  - One skill that you have that someone else in your team finds useful/wishes they had
 
-
-When you are finished with the program, share a link to your Repl in Discord in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel
+Once info program is done, ensure all team members have a link to the info program - you will all submit a link to the project you worked on together
 
 <details>
 <summary><strong>Sample:</strong> finished program from the Kibo Team</summary>
 
-  [https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py](https://replit.com/@kibocurriculum/Kibo-Orientation-Squad-Info-Example#main.py)
+  [https://replit.com/@kibocurriculum/Kibo-Orientation-Team-Info-Example#main.py](https://replit.com/@kibocurriculum/Kibo-Orientation-Team-Info-Example#main.py)
 
 </details>
 
-**Completion criteria:** All squad members info is printed in the program. The squad Repl link is shared in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel in Discord.
+**Completion criteria:** All team members have added their infomation in the program and it prints successfully. 
 
 ---
 
 
-
 ## Challenge 3: Feedback Is a Gift 🎁
 
-**Instructions:** Once you have completed all the other challenges, submit your feedback on the Orientation session by opening the toggle below, and completing the Google form.
+**Description:** Once you have completed all the challenges, submit your feedback on the Orientation session by opening the toggle below, and completing the Google form.
 
 <details>
   <summary>Open the toggle to submit your feedback on the Orientation</summary>
-    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXvfy751kcARqHzH4Cg7YruO5O93Q7fnNG1ifn4uVrWfgHNg/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf62wTSH93vntqrOzuj9W5G9yVyp-N9yZstaKdmH4yNsmvF6g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 </details>
 
 
 
-**Completion criteria:** All squad members have submitted their feedback on Orientation.
+**Completion criteria:** You and your team members have submitted the feedback form.
 
 ---
 
@@ -177,7 +136,7 @@ When you are finished with the program, share a link to your Repl in Discord in 
 
 </aside>
 
-You’re done with orientation and ready to begin class. If you want to keep exploring Discord and hanging out, check out the [Music Lounge](https://discord.com/channels/866676763450933258/866676764067889181), the [#random](https://discord.com/channels/866676763450933258/936572023319195658) channel, or the [#games](https://discord.com/channels/866676763450933258/963454071828774963) channel. Or, get started on the week 1 lessons.
+You’re done with orientation and ready to begin class. Week 1 Lesson will be released on Monday, February 13.
 
 ## Who You Are (Word Cloud)
 
@@ -187,16 +146,26 @@ These are the words you used to describe yourselves. What an awesome group!
 
 ---
 
-## Bonus: DJ 🎧
+## Bonus Task: Scavenger hunt - become a discord guru
 
-> **Instructions:** Go to the Music Lounge voice channel in Discord, and use the [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) channel to queue up a song to play.
+> **Description:** You will be using Discord a lot through the program - it's a fun app, I promise! Pick at least one Discord feature that you’ll explore on your own this weekend e.g., use music channel, play games, post a meme spoiler feature.
 
-Feel free to hang out and hear what else is playing in the Music Lounge.
+Here are short videos to wwalk you through some of Discord's fun channels
+<aside>
+<!--- music request --->
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <aside>
+<!--- spoiler --->
+</aside>
 
-**Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+<!--- games --->
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
