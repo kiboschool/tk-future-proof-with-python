@@ -82,8 +82,10 @@ If you see a thread with the name **I NEED A TEAM**, this means that the team is
 3. Select one person to create a zoom meeting and share the join link
      - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one
      - Once you have signed in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
-     - In the zoom meeting, click the green icon and copy the zoom meeting link and share with your team.
-     - <!--- add screenshots of zoom meeting set up --->
+     - In the zoom meeting, click the green badge icon on the top right cornner of your screen. Copy the zoom meeting link and share with your team.
+
+![Zoom](https://user-images.githubusercontent.com/88333571/217377755-856ecbc3-c915-476d-b157-116803ed86f5.gif)
+
 4. All team members should join the zoom meeting
 5. Once every member has joined zoom, select another team member to create a repl in [Replit](https://replit.com/). That person should click the `+Invite` button and share the link in zoom so that the the rest of the team can join and work together.
 
@@ -152,20 +154,29 @@ These are the words you used to describe yourselves. What an awesome group!
 
 Here are short videos to wwalk you through some of Discord's fun channels
 <aside>
-<!--- music request --->
+     
+ Music Lounge - you best bet when you want to unwind
+     
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![music channel](https://user-images.githubusercontent.com/88333571/217375724-288f6fd7-d13e-4cc6-a972-bd304f930e14.gif)
+
 
 
 <aside>
-<!--- spoiler --->
-</aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+     Use of spoilers for when you want to ahare a screenshot of your code
+     
+</aside>
+![spoiler](https://user-images.githubusercontent.com/88333571/217379698-38de1449-d61a-4b02-9286-16ab3dc8dab5.gif)
+
+
 
 <aside>
-<!--- games --->
+     
+Games channel fofr when you feel compettitive. Multi-player feature os also available
+     
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DlEYkzMeEI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
+
