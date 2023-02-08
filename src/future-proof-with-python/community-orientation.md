@@ -1,6 +1,9 @@
 # Community Orientation
 
-**The Community Orientation challenges are compusory for all students in the program. By the end of the challenge, you will have built your first team project, and understood the tools that will help you be successful over the next 5 weeks.**
+The community orientation challenges are compusory for all students in the program. By the end of the challenge, you will have:
+- Set an intention for next 5 weeks
+- Built your first team project
+- Understood the tools you will use for class
 
 ## Before you start!
 
@@ -33,7 +36,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 ## Challenge 0: Letter from the future ✉️✍🏾
 
 
-> **Description:** Imagine it's Week 5 of the Try Kibo program. Write a message to your present self in the padlet below and state the measures that you will take over the next 5 weeks  to successfully complete the program
+> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. 
 
 >
 - Click on the + sign
@@ -48,7 +51,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 ---
 
-## Challenge 1: FInd a team team ⛰️
+## Challenge 1: Find a team team ⛰️
 
 > **Description:** For the next challenge, you will need a team. In this challenge, you will use the [#help-python](https://discord.com/channels/866676763450933258/928692856426729493) channel in Discord to start a thread and find a team of 3 to work on the next challenge.
 
