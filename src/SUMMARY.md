@@ -50,9 +50,9 @@
   - [Range function](future-proof-with-python/loops/range-function.md)
   - [Debugging Loops](future-proof-with-python/loops/debugging-loops.md)
   - [Practice loops and conditionals](future-proof-with-python/loops/practice-loops-and-conditionals.md)
-
   - [Project](future-proof-with-python/loops/project.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
+
 
 ## Week 4
 
@@ -63,13 +63,9 @@
   - [Loop patterns](future-proof-with-python/lists-and-loops/loop-patterns.md)
   - [Loops, Conditions, and Lists](future-proof-with-python/lists-and-loops/conditions-and-lists.md)
   - [Practice lists and loops](future-proof-with-python/lists-and-loops/practice-lists-and-loops.md)
-  - [Project](future-proof-with-python/lists-and-loops/project.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
-
-## Week 5
 
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
 [Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
-

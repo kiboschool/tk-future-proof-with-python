@@ -1,6 +1,9 @@
 # Final project instructions
-
+<!--
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8z9vVdTFDqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+-->
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d0a70fa0a27b47bdac0594ca67fb4628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
@@ -47,10 +50,12 @@ You’ll should figure out what works best for your team. The best teams communi
 - When you need help anytime, **G**o **C**limb **K**ibo 😉
 
 ## Submitting the Project
-
 <aside>
-Access and submit the Final Project on Replit <a href="https://replit.com/team/tk7-future-proof-with-python/Final-Project" target="_blank">here.</a>
-
+Final project submission deadline is Friday Dec. 9, 2022. (Extended deadline)
+<!-- TODO update date -->
+</aside>
+<aside>
+Access and submit the Final Project on Replit <a href="https://replit.com/team/tk8-fpwp/Final-Project" target="_blank">here.</a>
 </aside>
 
 ✨✨Have fun!✨✨

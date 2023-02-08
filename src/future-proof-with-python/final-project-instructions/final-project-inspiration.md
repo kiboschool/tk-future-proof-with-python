@@ -59,7 +59,17 @@ There’s lots of creative ways to make the game more interesting and fun to pla
 
 ---
 
-## 4 - Other Ideas
+## 4 - Chatbot
+
+Together with your teammates, write a chatbot program that answers with information about your team, interactively.
+
+Welcome the user, then prompt them with different options. Depending on the option they choose, your program should print out information. Use a combination of loops, list access, and conditional statements to display the information requested by the user. Your chatbot should handle bad inputs gracefully. If the user types in a word when the program wants a number, or enters a number that's out of range, the program should not crash. 
+
+Here's a sample of a working chatbot by the Kibo Team: [Kibo Chatbot](https://replit.com/@kibocurriculum/Squad-Bot-Example?v=1)
+
+Be creative! As long as your bot has info about your squad, you can add anything else that you like.
+
+## 5 - Other Ideas
 
 As long as you are creative and demonstrate all of the concepts covered in the course, you can come up with your own project idea. If you do, remember to message your instructor to get feedback before you start coding. Other ideas might be:
 
