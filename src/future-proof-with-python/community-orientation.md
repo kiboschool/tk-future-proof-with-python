@@ -117,7 +117,7 @@ Once the Team Info Program is done, ensure all team members have a link to the i
 ---
 
 
-## Challenge 3: Feedback Is a Gift 🎁
+## Challenge 3: Submitting the feedback form
 
 **Description:** Submit the feedback form below indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 
