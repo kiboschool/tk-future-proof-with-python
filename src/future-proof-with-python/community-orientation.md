@@ -41,7 +41,8 @@ The community orientation challenges are compusory for all students in the progr
      See video on how to find a team using threads
 </aside>
 
-![challenge 1 final](https://user-images.githubusercontent.com/88333571/217385395-0f867a0b-774d-40f8-874f-a7abea4dca18.gif)
+<div style="position: relative; height: 100%; width: 100%;">
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/18JI-Ij0_Q8" title="Find a team using threads on discord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 If you see a thread with the name **I NEED A TEAM**, it means that team is incomplete and still needs members. Go into that thread and type **'I’m available'**. Do not create a new thread. If all threads are **FULL** and you still don't have a team, create new thread using **'I NEED A TEAM'** as the name.
