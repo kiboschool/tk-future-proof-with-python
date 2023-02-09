@@ -8,14 +8,14 @@ The community orientation challenges are compusory for all students in the progr
 
 <aside>
 
-     **Instructions**
+**Instructions**
  
- </aside>
+</aside>
+
 - These challenges are best done on a computer
 - The challenge should take you 60 - 90 minutes to complete
 - The feedback form at the end of this page indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 - If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
-
 
      
 
