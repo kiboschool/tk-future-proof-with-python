@@ -7,14 +7,16 @@ The community orientation challenges are compusory for all students in the progr
 
 
 <aside>
-## Instructions
-     
+
+     **Instructions**
+ 
+ </aside>
 - These challenges are best done on a computer
 - The challenge should take you 60 - 90 minutes to complete
-- After you complete all challenges, submit the feedback form at the end of this page. **If you do not submit the feedback form, it will be considered that you did not participate during the Orientation.**
+- The feedback form at the end of this page indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 - If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
-</aside>
+
      
 
 **Let’s see who can finish all the challenges the quickest! 🏁**
@@ -31,8 +33,8 @@ The community orientation challenges are compusory for all students in the progr
 
 
 1. Open the **[#help-python](https://discord.com/channels/866676763450933258/928692856426729493)** channel in Discord
-2. Create a thread and use **I NEED A TEAM** as the thread name
-3. Enter a message start the thread e.g., "Who is willing to team up for community orientation?"
+2. Create a thread and use **'I NEED A TEAM'** as the thread name
+3. Enter a message to start the thread e.g., "Who is willing to team up for community orientation?"
 4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
 
 <aside>
@@ -42,15 +44,15 @@ The community orientation challenges are compusory for all students in the progr
 ![challenge 1 final](https://user-images.githubusercontent.com/88333571/217385395-0f867a0b-774d-40f8-874f-a7abea4dca18.gif)
 
 
-If you see a thread with the name **I NEED A TEAM**, it means that team is incomplete and still needs members. Go into that thread and type **I’m available**. Do not create a new thread. If all threads are **FULL** and you still don't have a team, create new thread using **I NEED A TEAM** as the name.
+If you see a thread with the name **I NEED A TEAM**, it means that team is incomplete and still needs members. Go into that thread and type **'I’m available'**. Do not create a new thread. If all threads are **FULL** and you still don't have a team, create new thread using **'I NEED A TEAM'** as the name.
 
 
-In the thread where your found your team:
+In the thread where you found your team:
 
 5. Pick a team member to create a zoom meeting and share the join link - this team member will also be your **"scribe"** for today
      - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one.
      - After signing in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
-     - In the zoom meeting, click the green badge icon on the top right corner of your screen(see below). Copy the zoom meeting link and share with your team in the thread.
+     - In the zoom meeting, click the green badge icon on the top right corner of your screen(see below). Copy the zoom meeting link and share with your team in the discord thread.
 
 ![Zoom](https://user-images.githubusercontent.com/88333571/217377755-856ecbc3-c915-476d-b157-116803ed86f5.gif)
 
@@ -64,11 +66,11 @@ In the thread where your found your team:
 
 ## Challenge 1: Letter from the future ✉️✍🏾
 
-> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Ever team member should post a message
+> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Every team member should post a message
 
 >
 - Click on the + sign
-- Enter your full name in the "Subject"
+- Enter your first name and last initial in the "Subject"
 - Write your intention
 - Add an image or GIF to accompany your message(optional)
 - Click "Publish"
@@ -84,7 +86,7 @@ In the thread where your found your team:
 > **Description:** In this challenge, you will build your first program as a team. Every team member should still be on Zoom
 
 
-1. While sharing screen, the team scribe should create a repl in [Replit](https://replit.com/). Hit "create" on the top left, select "Python" under template, click "Create Repl"
+1. While sharing screen, the team scribe should create a repl in [Replit](https://replit.com/). Log into Replit, hit "create" on the top left, select "Python" under template, click "Create Repl"
 2. Once repl has been created, click the `+Invite` button, generate a join link and share the link in zoom so that the the rest of the team can join and work together.
 3. All team members should join the Repl.
 
@@ -100,7 +102,7 @@ The program should use `print` to display the following information:
   - Why you are learning python
   - One skill that you have that someone else in your team finds useful/wishes they had
 
-Once info program is done, ensure all team members have a link to the info program - you will all submit that link in the next challenge.
+Once the Team Info Program is done, ensure all team members have a link to the info program - you will all submit that link in the next challenge.
 
 <details>
 <summary><strong>Sample:</strong> finished program from the Kibo Team</summary>
@@ -116,7 +118,7 @@ Once info program is done, ensure all team members have a link to the info progr
 
 ## Challenge 3: Feedback Is a Gift 🎁
 
-**Description:** Once you have completed all the challenges, submit your feedback on the Orientation session by opening the toggle below, and completing the Google form.
+**Description:** Submit the feedback form below indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf62wTSH93vntqrOzuj9W5G9yVyp-N9yZstaKdmH4yNsmvF6g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
@@ -137,11 +139,6 @@ Once info program is done, ensure all team members have a link to the info progr
 
 You’re done with orientation and ready to begin class. Week 1 Lesson will be released on Monday, February 13.
 
-## Who You Are (Word Cloud)
-
-These are the words you used to describe yourselves. What an awesome group!
-
-
 
 ---
 
@@ -149,7 +146,7 @@ These are the words you used to describe yourselves. What an awesome group!
 
 > **Description:** You will be using Discord a lot through the program - it's a fun app, I promise! Pick at least one Discord feature that you’ll explore on your own this weekend e.g., use music lounge, play games, post a meme with the spoiler feature.
 
-Below are short GIFs to walk you through some of Discord's fun channels/features
+Below are short GIFs to walk you through a few of Discord's fun channels/features
 
 <aside>
      Music Lounge - you best bet when you want to unwind 
@@ -159,15 +156,7 @@ Below are short GIFs to walk you through some of Discord's fun channels/features
 
 
 <aside>
-     Spoilers for when you want to share a screenshot of your code 
-</aside>
-
-![spoiler](https://user-images.githubusercontent.com/88333571/217379698-38de1449-d61a-4b02-9286-16ab3dc8dab5.gif)
-
-
-
-<aside>
-     Games channel fofr when you feel compettitive. Multi-player feature is also available   
+     Games channel for when you feel compettitive. Multi-player feature is also available   
 </aside>
 
 ![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
