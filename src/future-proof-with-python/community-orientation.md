@@ -157,7 +157,7 @@ Below are short GIFs to walk you through a few of Discord's fun channels/feature
 
 
 <aside>
-     Games channel for when you feel compettitive. Multi-player feature is also available   
+     Games channel for when you feel competitive. Multi-player feature is also available   
 </aside>
 
 ![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
