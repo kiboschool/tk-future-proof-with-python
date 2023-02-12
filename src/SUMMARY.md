@@ -4,10 +4,8 @@
 
 [Set up for class](future-proof-with-python/try-kibo-onboarding.md)
 
-
 [Community Orientation](future-proof-with-python/community-orientation.md)
-
-
+<!--
 ## Lessons
 
 ### Week 1

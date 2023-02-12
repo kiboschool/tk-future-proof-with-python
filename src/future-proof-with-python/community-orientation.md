@@ -1,6 +1,6 @@
 # Community Orientation
 
-The community orientation challenges are compusory for all students in the program. By the end of the challenge, you will have:
+The community orientation challenges are compulsory for all students in the program. By the end of the challenge, you will have:
 - Set an intention for next 5 weeks
 - Built your first team project
 - Understood the tools you will use for class
