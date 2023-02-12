@@ -82,4 +82,6 @@ Learn more about Kibo's degree program <a href="https://kibo.school/degree/" tar
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
---------------------------------------------------------------
+![TK7Peak1.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak1.png)
+![TK7Peak2.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak2.png)
+![TK7Peak3.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak3.png)

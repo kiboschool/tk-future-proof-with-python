@@ -4,7 +4,6 @@
 
 [Set up for class](future-proof-with-python/try-kibo-onboarding.md)
 
-
 [Community Orientation](future-proof-with-python/community-orientation.md)
 <!--
 ## Lessons
@@ -67,6 +66,4 @@
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
 
-
 [Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
--->
