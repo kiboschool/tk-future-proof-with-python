@@ -42,7 +42,7 @@ We can also use f-strings for rounding.
 ```python
 one_third = 1/3
 print(one_third)# 0.3333333333333333
-print(f"{one_third:.2}") # 0.33
+print(f"{one_third:.2f}") # 0.33
 ```
 
 f-strings have other formatting powers, but we’ll leave it at rounding floats for now.
@@ -66,7 +66,7 @@ second_num = float(input("enter second number: "))
 # change the line below
 result = first_num / second_num
 
-print(f"the result is {result:.3} ")
+print(f"the result is {result:.3f} ")
 ```
 
 </details>
