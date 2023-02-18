@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 # Individual Project: Rock Paper Scissors
 <!-- TODO update date -->
-**Due date: Sunday Nov 13th**
+**Due date: Sunday Feb 26th**
 
 <aside>
 
