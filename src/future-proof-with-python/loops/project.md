@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 ## Individual Project: Guess My Number
 <!-- TODO update date -->
-**Due date: Sunday Nov 20**
+**Due date: Sunday Mar 5**
 
 <aside>
 
