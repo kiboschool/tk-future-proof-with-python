@@ -38,7 +38,7 @@
   - [Project](future-proof-with-python/conditionals/project.md)
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
-<!--
+
 ## Week 3
 
 - [Loops](future-proof-with-python/loops.md)
@@ -51,7 +51,7 @@
   - [Project](future-proof-with-python/loops/project.md)
   - [Wrap up](future-proof-with-python/loops/wrap-up.md)
 
-
+<!--
 ## Week 4
 
 - [Lists and loops](future-proof-with-python/lists-and-loops.md)
