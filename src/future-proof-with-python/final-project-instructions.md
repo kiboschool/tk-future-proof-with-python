@@ -51,7 +51,7 @@ You’ll should figure out what works best for your team. The best teams communi
 
 ## Submitting the Project
 <aside>
-Final project submission deadline is Friday Dec. 9, 2022. (Extended deadline)
+Final project submission deadline is Friday Mar 17, 2023.
 <!-- TODO update date -->
 </aside>
 <aside>
