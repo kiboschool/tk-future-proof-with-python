@@ -79,11 +79,11 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 ![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224414215-d6a4fd68-3111-4409-a4f1-866051fe5ac2.png)
 
-Kibo just launched application for its three-year BSc in Computer Science🎓. 
+Kibo just launched application for its 3-year BSc in Computer Science🎓. 
 
 In Oct 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> and for this class, we are looking for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) who are ready to become world-class technologists! If you liked this class, and want to learn much more, consider applying to join the Bachelor's Degree program.
 
-Learn more apply here <a href="https://kibo.school/degree/" target="_blank">here </a>
+Learn more and apply here <a href="https://kibo.school/degree/" target="_blank">here </a>
 
 ---
 
