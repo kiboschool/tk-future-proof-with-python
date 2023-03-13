@@ -12,7 +12,7 @@ You have worked really hard and we want to recognize that work with a certificat
 
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](./final-project-instructions.md)**
-- Complete the <a href="https://forms.gle/GZyTzfyHH9A2t3gF7" target="_blank">**Program Feedback Survey**</a>
+- Complete the <a href="https://forms.gle/PboqmgCxRCjBvc5L9" target="_blank">**Program Feedback Survey**</a>
 
 ---
 
@@ -36,13 +36,18 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/bUwyrTy2VLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![3.png](/future-proof-with-python/wrapping-up-final-steps/3.png) ![11.png](/future-proof-with-python/wrapping-up-final-steps/11.png) ![8.png](/future-proof-with-python/wrapping-up-final-steps/8.png)
+![2](https://user-images.githubusercontent.com/88333571/224412603-a3493d01-3008-44c4-97e9-1d34983dbe21.png)
+
+![3](https://user-images.githubusercontent.com/88333571/224412675-4631ca6a-f8fe-410b-9b79-621cd3df39ed.png)
+
+![1](https://user-images.githubusercontent.com/88333571/224412722-a4fb6260-ed9d-48db-b245-830300715f4c.png)
+
 
 ---
 
 ## Stay in the Kibo family
 
-**Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more career exploration events like the Mentor Mingle.
+**Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more community events like the fireside chat.
 
 **Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know!
 
@@ -52,7 +57,7 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude:
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/4twxmy1mgs1ocfe5" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-oxd9ef5vzjaommyo" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -72,9 +77,13 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 ## Apply to Kibo's degree program
 
-Kibo offers a three-year BSc in Computer Science. We launched our <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> in October 2022. If you liked this class, but want to learn much more, consider applying to join the Bachelor's Degree program.
+![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224414215-d6a4fd68-3111-4409-a4f1-866051fe5ac2.png)
 
-Learn more about Kibo's degree program <a href="https://kibo.school/degree/" target="_blank">here </a> and fill out <a href="https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school" target="_blank"> **this form** </a> if you would like us to let you know as soon as application for the next cohort opens.
+Kibo just launched application for its 3-year BSc in Computer Science🎓. 
+
+In Oct 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> and for this class, we are looking for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) who are ready to become world-class technologists! If you liked this class, and want to learn much more, consider applying to join the Bachelor's Degree program.
+
+Learn more and apply here <a href="https://kibo.school/degree/" target="_blank">here </a>
 
 ---
 
@@ -82,6 +91,7 @@ Learn more about Kibo's degree program <a href="https://kibo.school/degree/" tar
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![TK7Peak1.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak1.png)
-![TK7Peak2.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak2.png)
-![TK7Peak3.png](/future-proof-with-python/wrapping-up-final-steps/TK7Peak3.png)
+![image (42)](https://user-images.githubusercontent.com/88333571/224414567-c84e3b7f-8952-48ae-9ee6-0c4558c7e955.png)
+
+![image (41)](https://user-images.githubusercontent.com/88333571/224414578-c37c55f3-3239-4b53-a668-160547b4ae44.png)
+
