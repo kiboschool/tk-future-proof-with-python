@@ -1,8 +1,29 @@
 # Future Proof with Python
 
-Created from the [Kibo Course Template](https://github.com/rrcobb/course-template)
+Course materials for Try Kibo: Future Proof with Python
 
-A template for an [mdbook](https://rust-lang.github.io/mdBook/index.html)-powered course site.
+# TODO: updates each time we run the course
+
+## Instructor
+
+Before class:
+- Replace bitly links with new link
+- Replace replit links with new replit team links
+- Update padlets / any other embeds
+- Record course welcome video
+- Record weekly overview videos
+
+As class is in session: 
+- add recordings and slides to the live class page
+- release each week's lessons
+
+## Program Manager
+
+- Update the community orientation page
+- Update the Program Schedule
+- Update the Due Dates for activities
+- Update the Lesson feedback forms
+- Update the Course wrap up page
 
 ## What's here?
 
@@ -10,7 +31,6 @@ A template for an [mdbook](https://rust-lang.github.io/mdBook/index.html)-powere
 $ tree .
 .
 ├── README.md
-├── convert.rb
 └── course
     ├── book.toml
     └── src
