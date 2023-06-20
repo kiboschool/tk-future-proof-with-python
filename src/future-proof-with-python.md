@@ -2,9 +2,7 @@
 
 **_[bit.ly/tk9-fpwp](https://bit.ly/tk9-fpwp)_**
 
-**Welcome to Future Proof with Python!**
-
-You are joining a global learning community dedicated to helping you learn and thrive in computer science.
+**Welcome to Future Proof with Python!** You are joining a global learning community dedicated to helping you learn and thrive in computer science.
 
 <aside>
   📺 Watch this welcome video from your instructor, Stanley.
