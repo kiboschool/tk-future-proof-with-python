@@ -31,7 +31,7 @@ This is a mandatory class that happens once a week on Zoom. You get a chance to 
 | Time (in GMT) | Sign-up Link |
 | --- | --- |
 | 1:00pm GMT | <a href="https://lu.ma/fpwp9-stanley-a" target="_blank"> lu.ma/fpwp9-stanley-A</a> |
-| 4:00pm GMT | <a href="https://lu.ma/wf4-theresa-b" target="_blank"> lu.ma/wf4-theresa-B</a> |
+| 4:00pm GMT | <a href="https://lu.ma/fpwp9-stanley-b" target="_blank"> lu.ma/fpwp9-stanley-B</a> |
 
 >
 
