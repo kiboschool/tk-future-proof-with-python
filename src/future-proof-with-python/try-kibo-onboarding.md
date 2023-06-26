@@ -57,7 +57,7 @@ Here are the steps to get set up on Discord:
 ### 1. Find your Squad
 You will learn with a smaller group of peers during Try Kibo. This group is your squad. Enter your email(the same email where we sent this message) to find out what squad you are in. Take note of your squad number and program - you will be asked when you join Discord.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwwXme-1bzh-IhtGx3F6ek6iOw-vKox0ndtuyY3V4lOPXhI4sOM3mbhliZNf9YYQOnsGJ88kB_vECf/pubhtml?gid=314101825&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwwXme-1bzh-IhtGx3F6ek6iOw-vKox0ndtuyY3V4lOPXhI4sOM3mbhliZNf9YYQOnsGJ88kB_vECf/pubhtml?gid=314101825&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 ### 2. Join Try Kibo discord server
 - If you already have a Discord account, [log in to Discord](https://discord.com/login). Otherwise, create a Discord account then check your email to verify your account. Be sure to check your spam folder if you don't see the email
