@@ -9,9 +9,12 @@
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://youtu.be/EBCXZTbOv74" title="Welcome to Future Proof with Python - Try Kibo" frameborder="0" allow=" accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/EBCXZTbOv74" title="Try Kibo - Future Proof With Python Intro Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<!--
+<iframe width="100%" height="600" src="https://youtu.be/EBCXZTbOv74" title="Welcome to Future Proof with Python - Try Kibo" frameborder="0" allow=" accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
 ## What you'll learn
 
 This course provides a foundation in Python programming, one of the most versatile and useful programming languages. You will learn core programming concepts such as variables, functions, conditionals and loops.
