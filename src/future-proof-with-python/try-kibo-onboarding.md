@@ -38,7 +38,7 @@ This is a mandatory class that happens once a week on Zoom. You get a chance to 
 ## Join Replit team
 <aside>
 
-🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript.
+🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in Python
 
 </aside>
 
