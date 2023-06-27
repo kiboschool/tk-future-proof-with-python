@@ -13,6 +13,9 @@ At the end of this page, there is an onboarding checklist that you must submit i
 🚨 WATCH THIS VIDEO FIRST BEFORE YOU START ONBOARDING!
 
 </aside>
+<div style="position: relative; height: 100%; width: 100%;">
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ## Sign up for a live class
@@ -38,8 +41,7 @@ This is a mandatory class that happens once a week on Zoom. You get a chance to 
 ## Join Replit team
 <aside>
 
-🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript.
-
+🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in Python
 </aside>
 
 You have already created a Replit account during the admissions challenge. Now, you need to join the Replit team so you will be able to access your work in class. To prepare to use Replit in class:
@@ -57,7 +59,7 @@ Here are the steps to get set up on Discord:
 ### 1. Find your Squad
 You will learn with a smaller group of peers during Try Kibo. This group is your squad. Enter your email(the same email where we sent this message) to find out what squad you are in. Take note of your squad number and program - you will be asked when you join Discord.
 
-[EMBED AT Interface]
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/spreadsheets/d/1xlAO-bDl9ayUK8OifL5irTO_IG_rbHkUDPFxHEwXXmU/edit#gid=1602660017" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 ### 2. Join Try Kibo discord server
 - If you already have a Discord account, [log in to Discord](https://discord.com/login). Otherwise, create a Discord account then check your email to verify your account. Be sure to check your spam folder if you don't see the email
