@@ -3,7 +3,7 @@
 ---
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself and lastly, prepare for Orientation.
 
-At the end of this page, there is an onboarding checklist that you must submit in order to receive an invitation to Orientation
+**The onboarding is best completed on a laptop or computer.** At the end of this page, there is an onboarding checklist that you must submit in order to receive an invitation to Orientation
 
 **Deadline: 12pm GMT. Thursday, June 29.**
 
@@ -17,6 +17,9 @@ At the end of this page, there is an onboarding checklist that you must submit i
   <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<div style="position: relative; height: 100%; width: 100%;">
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Sign up for a live class
 
@@ -42,6 +45,7 @@ This is a mandatory class that happens once a week on Zoom. You get a chance to 
 <aside>
 
 🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in Python
+
 </aside>
 
 You have already created a Replit account during the admissions challenge. Now, you need to join the Replit team so you will be able to access your work in class. To prepare to use Replit in class:
