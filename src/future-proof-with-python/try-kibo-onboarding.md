@@ -13,6 +13,9 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 🚨 WATCH THIS VIDEO FIRST BEFORE YOU START ONBOARDING!
 
 </aside>
+<div style="position: relative; height: 100%; width: 100%;">
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style="position: relative; height: 100%; width: 100%;">
   <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
