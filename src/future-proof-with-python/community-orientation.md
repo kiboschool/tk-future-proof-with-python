@@ -70,7 +70,7 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 
 
 1. Your scribe should share their screen
-2. While sharing screen, the team scribe should create a repl in <a href="https://replit.com/">Replit.</a> Log into Replit, hit "create" on the top left, select "Python" under template, click "Create Repl".
+2. While sharing screen, the team scribe should create a repl in <a href="https://replit.com/" target="_blank">Replit.</a> Log into Replit, hit "create" on the top left, select "Python" under template, click "Create Repl".
 3. Once repl has been created, click the `+Invite` button, generate a join link and share the link in zoom so that the the rest of the team can join and work together.
 4. All squad members should join the Repl 
 
@@ -86,7 +86,7 @@ The program should use `print` to display the following information:
   - Why you are learning python
 
 
-In the end, your program should look similar to <a href="https://replit.com/@kibocurriculum/Kibo-Orientation-Team-Info-Example#main.py">**this example program** </a>
+In the end, your program should look similar to <a href="https://replit.com/@kibocurriculum/Kibo-Orientation-Team-Info-Example#main.py" target="_blank">**this example program** </a>
 
 Once the Team Info Program is done, ensure all team members have a link to the info program - you will all submit that link in the next challenge.
 
@@ -100,9 +100,9 @@ Once the Team Info Program is done, ensure all team members have a link to the i
 
 **Description:** Submit the feedback form below indicating that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 
-1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7">**this form** </a>
+1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7" target="_blank">**this form** </a>
 
-2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658"> #random </a>channel saying "Squad # has completed all the challenges."
+2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658" target="_blank"> #random </a>channel saying "Squad # has completed all the challenges."
 
 Once this is done, the community orientation leaderboard will be updated with your Squad name 
 
