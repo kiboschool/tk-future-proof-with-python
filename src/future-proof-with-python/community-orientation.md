@@ -7,7 +7,7 @@ The community orientation challenges are required for all students in the progra
 
 > Demo video
 <div style="position: relative; height: 100%; width: 100%;">
-  <iframe width="100%" height="600" src="https://www.youtube.com/embed/m-qqFUIjSvY" title="Try Kibo - Future Proof With Python Intro Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/Urpzzcf0dE4" title="Try Kibo - Future Proof With Python Intro Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## **Instructions** 
