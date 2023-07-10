@@ -26,7 +26,7 @@ _If you can’t do the challenge without looking the solution, it means you don�
 
 📝 Write a program that lets a user enter their exam score, then tells the user if they have passed the exam. The user must score more than 70 to pass the exam.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk8-fpwp/P21-Exam-Results)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk9-fpwp/P21-Exam-Results)
 
 </aside>
 
@@ -48,7 +48,7 @@ Watch the video below to see the solution process
 
 📚 In this assignment, you'll write a program to help someone figure out if they have enough money for all the books they want to buy, using if/else statements.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk8-fpwp/P22-Money-for-Books)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk9-fpwp/P22-Money-for-Books)
 
 </aside>
 
