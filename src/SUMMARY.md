@@ -23,7 +23,7 @@
   - [Bonus: Split strings](future-proof-with-python/conditionals/split-strings.md)
   - [Bonus: The debugging mindset](future-proof-with-python/working-with-data/the-debugging-mindset.md)
 
-<!--
+
 ### Week 2
 
 - [Conditionals](future-proof-with-python/conditionals.md)
@@ -39,6 +39,7 @@
   - [Wrap up](future-proof-with-python/conditionals/wrap-up.md)
   - [Bonus](future-proof-with-python/conditionals/bonus.md)
 
+<!--
 ## Week 3
 
 - [Loops](future-proof-with-python/loops.md)
