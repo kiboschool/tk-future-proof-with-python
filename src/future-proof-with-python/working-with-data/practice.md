@@ -27,7 +27,7 @@ _Try the next practice challenges without looking at the solution. If you need m
 
 🏦 Create a program that asks a user for a value in US Dollars, then converts to Nigerian Naira.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/@tk9-fpwp/P11-Currency-Conversion)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk9-fpwp/P11-Currency-Conversion)
 
 </aside>
 
@@ -46,7 +46,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 
 👩🏿‍💻 Write a program to build an AC unit load estimator. Your program should get input from the user, use the formula to calculate the horsepower, then print the horsepower.
 
-[**Access** and **submit** the assignment in Replit here](https://replit.com/@tk9-fpwp/P13-AC-Load-Estimator)
+[**Access** and **submit** the assignment in Replit here](https://replit.com/team/tk9-fpwp/P13-AC-Load-Estimator)
 
 </aside>
 
@@ -67,7 +67,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 
 💪🏿 Create a program that calculates body mass index, which is used to determine if a person's weight is a healthy proportion for their height.
 
-[**Access** and **submit** in Replit here](https://replit.com/@tk9-fpwp/P12-Body-Mass-Index)
+[**Access** and **submit** in Replit here](hhttps://replit.com/team/tk9-fpwp/P12-Body-Mass-Index)
 
 </aside>
 

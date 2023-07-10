@@ -23,7 +23,7 @@ You can work together by sharing your screen, or by creating a new replit and sh
 ➡️ **Mad Libs**
 
 This project is a chance to show off your creativity! You'll create a Mad Libs game using variables, input, and output.
-**Access** and **submit** the project in Replit [here](https://replit.com/@tk9-fpwp/Project-Mad-Libs).
+**Access** and **submit** the project in Replit [here](https://replit.com/team/tk9-fpwp/Project-Mad-Libs).
 
 </aside>
 Remember...
