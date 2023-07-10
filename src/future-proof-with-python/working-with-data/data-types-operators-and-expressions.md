@@ -227,7 +227,7 @@ Every opening paren needs a closing paren. You can’t do just `(5 + 7`, it need
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/@tk9-fpwp/W12-Practice-Operators#main.py" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk9-fpwp/W12-Practice-Operators" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <details><summary>Solution Code (try for 5 minutes before peeking)</summary>
 
