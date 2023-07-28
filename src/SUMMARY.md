@@ -63,9 +63,9 @@
   - [Loops, Conditions, and Lists](future-proof-with-python/lists-and-loops/conditions-and-lists.md)
   - [Practice lists and loops](future-proof-with-python/lists-and-loops/practice-lists-and-loops.md)
   - [Wrap up](future-proof-with-python/lists-and-loops/wrap-up.md)
-<!--
+
 - [Final project instructions](future-proof-with-python/final-project-instructions.md)
   - [Final project inspiration](future-proof-with-python/final-project-instructions/final-project-inspiration.md)
-
+<!--
 [Final Steps](future-proof-with-python/wrapping-up-final-steps.md)
 -->
