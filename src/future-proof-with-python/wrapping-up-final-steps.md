@@ -6,7 +6,7 @@ Congratulations on **_almost_** finishing your FPWP journey. Below is what you n
 
 ## Earn Your Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Mar 17**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Aug 4**
 
 <!-- TODO update date -->
 
