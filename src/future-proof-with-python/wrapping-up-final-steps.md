@@ -47,7 +47,7 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![Tips For Pets Keeping YouTube Thumbnail (4)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/78bbb42e-9694-43a7-bd96-aab9b73c2824)
+![Tips For Pets Keeping YouTube Thumbnail (5)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/6bf29112-adaf-4e05-acec-fae80f13afed)
 
 
 ---
