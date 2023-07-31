@@ -16,6 +16,17 @@ You have worked really hard and we want to recognize that work with a certificat
 
 ---
 
+## Study computer science at Kibo in 2024
+
+![Mar 2023 Degree Promo - Twitter (1)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/04ea69f4-1a6a-425a-bbf3-552b2d56b831)
+
+From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. Build a career of impact as a world-class technologist at Kibo.
+
+Learn more and indicate you interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
+
+---
+
+
 ## Share your experience
 
 <aside>
@@ -34,7 +45,7 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 Here are some testimonials from Try Kibo Alumni of previous cohorts
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/bUwyrTy2VLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ![Tips For Pets Keeping YouTube Thumbnail (4)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/78bbb42e-9694-43a7-bd96-aab9b73c2824)
 
@@ -70,14 +81,6 @@ Remember that programming is a long journey and what matters is to learn well, n
   - [https://www.freecodecamp.org/learn/data-analysis-with-python/](https://www.freecodecamp.org/learn/data-analysis-with-python/)
   - [https://www.edx.org/course/computing-in-python-iii-data-structures](https://www.edx.org/course/computing-in-python-iii-data-structures)
   - [https://cs50.harvard.edu/x/2022/](https://cs50.harvard.edu/x/2022/)
-
-## Study computer science at Kibo in 2024
-
-![Mar 2023 Degree Promo - Twitter (1)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/04ea69f4-1a6a-425a-bbf3-552b2d56b831)
-
-From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. Build a career of impact as a world-class technologist at Kibo.
-
-Learn more and indicate you interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
 
 ---
 
