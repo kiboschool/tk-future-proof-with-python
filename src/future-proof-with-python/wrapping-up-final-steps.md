@@ -18,7 +18,7 @@ You have worked really hard and we want to recognize that work with a certificat
 
 ## Study computer science at Kibo in 2024
 
-![Mar 2023 Degree Promo - Twitter (1)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/04ea69f4-1a6a-425a-bbf3-552b2d56b831)
+![Mar 2023 Degree Promo - Twitter (1)](/images/1.png)
 
 From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. Build a career of impact as a world-class technologist at Kibo.
 
@@ -47,7 +47,7 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![Tips For Pets Keeping YouTube Thumbnail (5)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/6bf29112-adaf-4e05-acec-fae80f13afed)
+![Tips For Pets Keeping YouTube Thumbnail (5)](/images/2.png)
 
 
 ---
@@ -88,6 +88,6 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![image (46)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/b9843874-311f-4d55-998e-d10f85fdf69b)
+![image (46)](/images/3.png)
 
-![image (47)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/8840c430-619b-4839-a996-45db13f75520)
+![image (47)](/images/4.png)
