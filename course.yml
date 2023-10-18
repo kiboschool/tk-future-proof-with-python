@@ -1,0 +1,109 @@
+name: 'Try Kibo: Future Proof with Python'
+code: TKFPWP
+term: Oct-2023
+units:
+  - name: Introduction
+    activities:
+      - name: Welcome
+        path: src/future-proof-with-python.md
+        grade_weight: 100
+      - name: Program Overview
+        path: src/lessons/working-with-data/program-overview.md
+      - name: Set up for class
+        path: src/lessons/try-kibo-onboarding.md
+      - name: Community Orientation
+        path: src/lessons/community-orientation.md
+  - name: 'Week 1: Working with Data'
+    activities:
+      - name: 'Week 1 Overview'
+        path: src/lessons/working-with-data.md
+      - name: Programs and Comments
+        path: src/lessons/working-with-data/programs-and-comments.md
+      - name: Variables and Assignment
+        path: src/lessons/working-with-data/variables-and-assignment.md
+      - name: Data types operators and expressions
+        path: src/lessons/working-with-data/data-types-operators-and-expressions.md
+      - name: Input and Output
+        path: src/lessons/working-with-data/input-and-output.md
+      - name: String formatting
+        path: src/lessons/working-with-data/string-concatenation-and-f-strings.md
+      - name: Practice
+        path: src/lessons/working-with-data/practice.md
+      - name: Project
+        path: src/lessons/working-with-data/project.md
+      - name: Wrap up
+        path: src/lessons/working-with-data/wrap-up.md
+      - name: 'Bonus: Split strings'
+        path: src/lessons/conditionals/split-strings.md
+      - name: 'Bonus: The debugging mindset'
+        path: src/lessons/working-with-data/the-debugging-mindset.md
+  - name: 'Week 2: Conditionals'
+    activities:
+      - name: 'Week 2 Overview'
+        path: src/lessons/conditionals.md
+      - name: Simple Decisions
+        path: src/lessons/conditionals/simple-decisions.md
+      - name: Boolean Expressions
+        path: src/lessons/conditionals/simple-decisions/boolean-expressions.md
+      - name: If-Else
+        path: src/lessons/conditionals/simple-decisions/if-else.md
+      - name: Multi-way Decisions
+        path: src/lessons/conditionals/multi-way-decisions.md
+      - name: Elif
+        path: src/lessons/conditionals/multi-way-decisions/elif.md
+      - name: And, Or, Not
+        path: src/lessons/conditionals/multi-way-decisions/and-or-not.md
+      - name: Nested Conditionals
+        path: src/lessons/conditionals/multi-way-decisions/nested-conditionals.md
+      - name: Conditionals Practice
+        path: src/lessons/conditionals/practice-conditionals.md
+      - name: Project
+        path: src/lessons/conditionals/project.md
+      - name: Wrap up
+        path: src/lessons/conditionals/wrap-up.md
+      - name: Bonus
+        path: src/lessons/conditionals/bonus.md
+  - name: 'Week 3: Loops'
+    activities:
+      - name: 'Week 3 Overview'
+        path: src/lessons/loops.md
+      - name: While loops
+        path: src/lessons/loops/while-loops.md
+      - name: For loops
+        path: src/lessons/loops/for-loops.md
+      - name: Range function
+        path: src/lessons/loops/range-function.md
+      - name: Debugging Loops
+        path: src/lessons/loops/debugging-loops.md
+      - name: Loops Practice
+        path: src/lessons/loops/practice-loops-and-conditionals.md
+      - name: Project
+        path: src/lessons/loops/project.md
+      - name: Wrap up
+        path: src/lessons/loops/wrap-up.md
+  - name: 'Week 4: Lists and Loops'
+    activities:
+      - name: 'Week 4 Overview'
+        path: src/lessons/lists-and-loops.md
+      - name: List basics
+        path: src/lessons/lists-and-loops/list-basics.md
+      - name: Mutating Lists
+        path: src/lessons/lists-and-loops/mutating-lists.md
+      - name: Lists Practice
+        path: src/lessons/lists-and-loops/practice-lists.md
+      - name: Loop patterns
+        path: src/lessons/lists-and-loops/loop-patterns.md
+      - name: Loops, Conditions, and Lists
+        path: src/lessons/lists-and-loops/conditions-and-lists.md
+      - name: Lists and loops practice
+        path: src/lessons/lists-and-loops/practice-lists-and-loops.md
+      - name: Wrap up
+        path: src/lessons/lists-and-loops/wrap-up.md
+  - name: 'Week 5: Final Project and Wrap up'
+    activities:
+      - name: Final Project instructions
+        path: src/lessons/final-project-instructions.md
+      - name: Final Project inspiration
+        path: src/lessons/final-project-instructions/final-project-inspiration.md
+      - name: Final Steps
+        path: src/lessons/wrapping-up-final-steps.md
