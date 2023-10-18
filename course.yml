@@ -90,7 +90,7 @@ units:
       - name: Mutating Lists
         path: src/lessons/lists-and-loops/mutating-lists.md
       - name: Lists Practice
-        path: src/lessons/lists-and-loops-and-loops/practice-lists.md
+        path: src/lessons/lists-and-loops/practice-lists.md
       - name: Loop patterns
         path: src/lessons/lists-and-loops/loop-patterns.md
       - name: Loops, Conditions, and Lists
