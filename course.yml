@@ -56,7 +56,7 @@ units:
       - name: Nested Conditionals
         path: src/lessons/conditionals/multi-way-decisions/nested-conditionals.md
       - name: Conditionals Practice
-        path: src/lessons/conditionals/practice.md
+        path: src/lessons/conditionals/practice-conditionals.md
       - name: Project
         path: src/lessons/conditionals/project.md
       - name: Wrap up
