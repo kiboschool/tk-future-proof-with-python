@@ -13,9 +13,9 @@ units:
         path: src/lessons/try-kibo-onboarding.md
       - name: Community Orientation
         path: src/lessons/community-orientation.md
-  - name: Week 1: Working with Data
+  - name: 'Week 1: Working with Data'
     activities:
-      - name: Week 1 Overview
+      - name: 'Week 1 Overview'
         path: src/lessons/working-with-data.md
       - name: Programs and Comments
         path: src/lessons/working-with-data/programs-and-comments.md
@@ -37,9 +37,9 @@ units:
         path: src/lessons/conditionals/split-strings.md
       - name: 'Bonus: The debugging mindset'
         path: src/lessons/working-with-data/the-debugging-mindset.md
-  - name: Week 2: Conditionals
+  - name: 'Week 2: Conditionals'
     activities:
-      - name: Week 2 Overview
+      - name: 'Week 2 Overview'
         path: src/lessons/conditionals.md
       - name: Simple Decisions
         path: src/lessons/conditionals/simple-decisions.md
@@ -63,9 +63,9 @@ units:
         path: src/lessons/conditionals/wrap-up.md
       - name: Bonus
         path: src/lessons/conditionals/bonus.md
-  - name: Week 3: Loops
+  - name: 'Week 3: Loops'
     activities:
-      - name: Week 3 Overview
+      - name: 'Week 3 Overview'
         path: src/lessons/loops.md
       - name: While loops
         path: src/lessons/loops/while-loops.md
@@ -81,9 +81,9 @@ units:
         path: src/lessons/loops/project.md
       - name: Wrap up
         path: src/lessons/loops/wrap-up.md
-  - name: Week 4: Lists and Loops
+  - name: 'Week 4: Lists and Loops'
     activities:
-      - name: Week 4 Overview
+      - name: 'Week 4 Overview'
         path: src/lessons/lists-and-loops.md
       - name: List basics
         path: src/lessons/lists-and-loops/list-basics.md
@@ -99,7 +99,7 @@ units:
         path: src/lessons/lists-and-loops/practice-lists-and-loops.md
       - name: Wrap up
         path: src/lessons/lists-and-loops/wrap-up.md
-  - name: Week 5: Final Project and Wrap up
+  - name: 'Week 5: Final Project and Wrap up'
     activities:
       - name: Final Project instructions
         path: src/lessons/final-project-instructions.md
