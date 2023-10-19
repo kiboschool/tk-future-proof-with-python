@@ -8,9 +8,6 @@ units:
         path: src/future-proof-with-python.md
         grade_weight: 100
         publish: true
-      - name: Program Overview
-        path: src/lessons/working-with-data/program-overview.md
-        publish: true
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
         publish: true
@@ -20,7 +17,7 @@ units:
   - name: 'Week 1: Working with Data'
     activities:
       - name: 'Week 1 Overview'
-        path: src/lessons/working-with-data.md
+        path: src/lessons/working-with-data/program-overview.md
         publish: 2023-10-29
       - name: Programs and Comments
         path: src/lessons/working-with-data/programs-and-comments.md
