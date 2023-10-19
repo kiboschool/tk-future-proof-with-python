@@ -7,15 +7,6 @@ Welcome to the Try Kibo onboarding process. During this process, you will select
 Note: Complete these steps and submit the onboarding checklist by 12 p.m. GMT on Thursday, October 26 to receive an orientation invite. Failure to do so results in withdrawal from the program
 
 
-<aside>
-
-🚨 WATCH THIS VIDEO FIRST BEFORE YOU START ONBOARDING!
-
-</aside>
-<div style="position: relative; height: 100%; width: 100%;">
-  <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
 
 ## Sign up for a live class
 
