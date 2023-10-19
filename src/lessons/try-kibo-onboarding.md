@@ -29,7 +29,7 @@ This is a mandatory weekly Zoom class for problem-solving and learning with peer
 
 >
 
-| Time (in GMT) | | Day | Sign-up Link |
+| Time (in GMT) | Day | Sign-up Link |
 | --- | --- | --- |
 | 4:30pm GMT | Wednesdays | <a href="https://lu.ma/fpwp10-stanley-a" target="_blank"> Live class A</a> |
 | 3:30pm GMT | Thursdays | <a href="https://lu.ma/fpwp10-stanley-b" target="_blank"> Live class B</a> |
