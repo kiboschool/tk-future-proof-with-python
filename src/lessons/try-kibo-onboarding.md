@@ -1,11 +1,20 @@
-# Start Onboarding for your Future Proof with Python class
+# Start Onboarding
 
 ---
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself, and lastly, prepare for Orientation.
 
-
 Note: Complete these steps and submit the onboarding checklist by 12 p.m. GMT on Thursday, October 26 to receive an orientation invite. Failure to do so results in withdrawal from the program
 
+<aside>
+
+🚨 Watch this video before you start onboarding so you don't miss any step
+
+</aside>
+
+
+<div style="position: relative; height: 100%; width: 100%;">
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/zAP2o31dWVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ## Sign up for a live class
@@ -47,10 +56,14 @@ Discord is our community platform. It's where you will communicate and connect w
 
 Here are the things that you must do as soon as you join Discord:
 - Introduce yourself in the #introductions channel
+  - Your full name
+  - Your location
+  - A fun fact about you
+  - An image of gif that represents you
 - Update your Discord profile with your first name and last initial e.g., "Labake A", "Sydney W"
-- Submit the onboarding checklist
+- Submit the onboarding checklist form -- you will not receive an invite to orientation if you don't submit this form
 
-### Join Try Kibo discord server
+### Now, join the Try Kibo Discord server and do the above
 
 - If you already have a Discord account, [log in](https://discord.com/login). Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
 - Join the Kibo School Discord server: **[https://discord.gg/MwnzVFbFGC](https://discord.gg/MwnzVFbFGC).**
