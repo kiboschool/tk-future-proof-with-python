@@ -3,7 +3,7 @@
 ---
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself, and lastly, prepare for Orientation.
 
-Note: **Complete these steps and submit the onboarding checklist by 12 p.m. GMT on Thursday, October 26** to receive an orientation invite. Failure to do so results in withdrawal from the program
+Note: **Complete these steps and submit the onboarding checklist by 3p.m. GMT on Thursday, October 26** to receive an orientation invite. Failure to do so results in withdrawal from the program
 
 <aside>
 
@@ -70,7 +70,7 @@ Here are the things that you must do as soon as you join Discord:
 - As you join the discord server, follow the steps until you submit the onboarding checklist
 
 
-We’re excited to see you at Orientation! Only those who submit the checklist form on or before **12 p.m. GMT. Thursday, October 26** will get an invite to the mandatory orientation.
+We’re excited to see you at Orientation! Only those who submit the checklist form on or before **3p.m. GMT. Thursday, October 26** will get an invite to the mandatory orientation.
 
 ---
 ### Orientation date: Friday, 27th October from 3 - 5:30pm GMT. Mark your calendar 
