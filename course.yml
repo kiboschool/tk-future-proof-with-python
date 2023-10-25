@@ -1,6 +1,7 @@
 name: 'Try Kibo: Future Proof with Python'
 code: TKFPWP
 term: Oct-2023
+image_path: src/video-chat.png
 units:
   - name: Introduction
     activities:
