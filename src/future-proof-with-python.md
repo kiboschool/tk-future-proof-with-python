@@ -50,7 +50,7 @@ If you are in Lagos or Ogun state, Nigeria, and have indicated during the applic
 - [Ogun hub](https://calendly.com/abeokutahub/visit-the-kibo-hub)
 
  
-#Important Notes
+**Important Notes**
 
 - Arrive at the hub within your chosen timeslot with a means of identification
 - This invite is admits one person only. You may not come along with a friend, otherwise, they'll be asked to wait outside of the learning space
