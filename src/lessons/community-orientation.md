@@ -79,9 +79,11 @@ NB: If you can't find the replit team for your program on Replit, this means tha
 
 3. Once your scribe has created a group, everyone needs to go and join that same group. Everyone should log in to <a href="https://replit.com"> Replit </a>, navigate to "teams", find "Try Kibo 10: Future Proof with Python", find the group that your scribe just created.
 
-NB: DO NOT create another group or join a different group erroneously! Ask your scribe for their replit username, and find it amongst the groups.
+**NB:** DO NOT create another group or join a different group erroneously! Ask your scribe for their replit name, and find it amongst the groups. See video demo on how to join the repl your scribe created below.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b61fcc4df6f24d1d8d282269bb2b0813" title="Loom video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Once all team members have joined the repl, you will discuss and write your program in your repl as a team.
+
+Once all team members have joined the repl that your scribe created, you will discuss and write your program in your repl as a team.
 
 The program should use `print` to display the following information:
 
