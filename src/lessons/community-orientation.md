@@ -126,4 +126,4 @@ Once this is done, the community orientation leaderboard will be updated with yo
 
 </aside>
 
-You’re done with orientation and ready to begin class. The Week 1 Lesson will be released on Monday, July 3.
+You’re done with orientation and ready to begin class. The Week 1 Lesson will be released on Monday, Oct 30.
