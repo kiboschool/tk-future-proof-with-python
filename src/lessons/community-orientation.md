@@ -73,10 +73,11 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 2. While sharing screen, the team scribe should go to the replit team for the Future Proof with Python class, and create a replit group for today's challenge
 
 Watch the video below to see how to do this. 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a12e74a6012c4164a1a156bb382c675d" title="Loom video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 NB: If you can't find the replit team for your program on Replit, this means that you have not joined the replit team yet! Join here <a href="https://replit.com/teams/join/owybwnrmkykgiawoynfdqlktvpmroiar-tk10-fpwp" target="_blank"> here </a>
 
-4. Once your scribe has created a group, everyone needs to go and join that same group. Everyone should log in to <a href="https://replit.com"> Replit </a>, navigate to "teams", find "Try Kibo 10: Future Proof with Python", find the group that your scribe just created.
+3. Once your scribe has created a group, everyone needs to go and join that same group. Everyone should log in to <a href="https://replit.com"> Replit </a>, navigate to "teams", find "Try Kibo 10: Future Proof with Python", find the group that your scribe just created.
 
 NB: DO NOT create another group or join a different group erroneously! Ask your scribe for their replit username, and find it amongst the groups.
 
