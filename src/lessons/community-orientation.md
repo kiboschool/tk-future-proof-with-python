@@ -20,7 +20,7 @@ The community orientation challenges are required for all students in the progra
      
 **Let’s see who can finish all the challenges the quickest! 🏁**
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHwf4J4OipDg2H1y6tKbcKoX3OOI0T8jeoLVwRB13b4hhbwkIZKnkJAUavNbunX1Nma128fb29juMR/embed?" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbbR9-B72vLufBzL_56ObwH3zTRLQlK1CDQFK16GPjdDfVMokiHVXzweUZG45wggoClFTsM4c0dwHx/embed" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 
 ## Ready?
@@ -34,7 +34,7 @@ The community orientation challenges are required for all students in the progra
 > **Description:** Join your squad channel, introduce yourself, and pick a scribe 
 
 
-1. Log in to Discord, under the Squad channels category, you will find your squad
+1. Log in to Discord, under the Squad channels category, you will find your squad e.g., 'Squad #'
 2. Join the voice channel and post a message in the chat introducing yourself e.g., "Hello, My name is Emmy from Lagos, Nigeria"
 
 Wait for other Squad members to join and introduce themselves. After all squad members have posted a message and joined the squad voice channel:
@@ -58,7 +58,7 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 - Add an image or GIF to accompany your message (optional)
 - Click "Publish"
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/hyy8wqqqu2rfbpq9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/iaspydu1iwwqedkn" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 **Completion criteria:** Every squad member has posted an intention in the padlet
 
@@ -70,9 +70,15 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 
 
 1. Your scribe should share their screen
-2. While sharing screen, the team scribe should create a repl in <a href="https://replit.com/" target="_blank">Replit.</a> Log into Replit, hit "create" on the top left, select "Python" under template, click "Create Repl".
-3. Once repl has been created, click the `+Invite` button, generate a join link and share the link in zoom so that the the rest of the team can join and work together.
-4. All squad members should join the Repl 
+2. While sharing screen, the team scribe should go to the replit team for the Future Proof with Python class, and create a replit group for today's challenge
+
+Watch the video below to see how to do this. 
+
+NB: If you can't find the replit team for your program on Replit, this means that you have not joined the replit team yet! Join here <a href="https://replit.com/teams/join/owybwnrmkykgiawoynfdqlktvpmroiar-tk10-fpwp" target="_blank"> here </a>
+
+4. Once your scribe has created a group, everyone needs to go and join that same group. Everyone should log in to <a href="https://replit.com"> Replit </a>, navigate to "teams", find "Try Kibo 10: Future Proof with Python", find the group that your scribe just created.
+
+NB: DO NOT create another group or join a different group erroneously! Ask your scribe for their replit username, and find it amongst the groups.
 
 Once all team members have joined the repl, you will discuss and write your program in your repl as a team.
 
@@ -82,9 +88,8 @@ The program should use `print` to display the following information:
 - One thing that everyone in the squad has in common
 - For each team member, add:
   - First name and last initial (e.g., Mercy W, Osamudiamen O)
-  - One sentence biography
+  - One-sentence biography
   - Why you are learning python
-
 
 In the end, your program should look similar to <a href="https://replit.com/@kibocurriculum/Kibo-Orientation-Team-Info-Example#main.py" target="_blank">**this example program** </a>
 
@@ -100,13 +105,13 @@ Once the Team Info Program is done, ensure all team members have a link to the i
 
 **Description:** Submit the feedback form below indicating that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 
-1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7" target="_blank">**this form** </a>
+1. Each squad member should submit <a href="https://forms.gle/uHpwrsJ4zCvNSycQ9" target="_blank">**this form** </a>
 
 2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658" target="_blank"> #random </a>channel saying "Squad # has completed all the challenges."
 
 Once this is done, the community orientation leaderboard will be updated with your Squad name 
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHwf4J4OipDg2H1y6tKbcKoX3OOI0T8jeoLVwRB13b4hhbwkIZKnkJAUavNbunX1Nma128fb29juMR/embed?" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbbR9-B72vLufBzL_56ObwH3zTRLQlK1CDQFK16GPjdDfVMokiHVXzweUZG45wggoClFTsM4c0dwHx/embed" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 **Completion criteria:** All squad members have submitted the feedback form and your scribe has sent a message in the #random channel saying you have completed all the challenges.
 
