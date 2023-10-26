@@ -66,7 +66,7 @@ Here are the things that you must do as soon as you join Discord:
 ### Now, join the Try Kibo Discord server and do the above
 
 - If you already have a Discord account, [log in](https://discord.com/login). Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
-- Join the Kibo School Discord server: **[https://discord.gg/MwnzVFbFGC](https://discord.gg/MwnzVFbFGC).**
+- Join the Kibo School Discord server: **[https://discord.gg/tptRNh8V](https://discord.gg/tptRNh8V).**
 - As you join the discord server, follow the steps until you submit the onboarding checklist
 
 
