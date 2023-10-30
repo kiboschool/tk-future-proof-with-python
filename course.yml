@@ -1,0 +1,153 @@
+name: 'Try Kibo: Future Proof with Python'
+code: TKFPWP
+term: Oct-2023
+image_path: src/video-chat.png
+units:
+  - name: Introduction
+    activities:
+      - name: Welcome
+        path: src/future-proof-with-python.md
+        grade_weight: 100
+        publish: true
+      - name: Set up for class
+        path: src/lessons/try-kibo-onboarding.md
+        publish: true
+      - name: Community Orientation
+        path: src/lessons/community-orientation.md
+        publish: 2023-10-27
+  - name: 'Week 1: Working with Data'
+    activities:
+      - name: 'Week 1 Overview'
+        path: src/lessons/working-with-data/program-overview.md
+        publish: 2023-10-29
+      - name: Programs and Comments
+        path: src/lessons/working-with-data/programs-and-comments.md
+        publish: 2023-10-29
+      - name: Variables and Assignment
+        path: src/lessons/working-with-data/variables-and-assignment.md
+        publish: 2023-10-29
+      - name: Data types operators and expressions
+        path: src/lessons/working-with-data/data-types-operators-and-expressions.md
+        publish: 2023-10-29
+      - name: Input and Output
+        path: src/lessons/working-with-data/input-and-output.md
+        publish: 2023-10-29
+      - name: String formatting
+        path: src/lessons/working-with-data/string-concatenation-and-f-strings.md
+        publish: 2023-10-29
+      - name: Practice
+        path: src/lessons/working-with-data/practice.md
+        publish: 2023-10-29
+      - name: Project
+        path: src/lessons/working-with-data/project.md
+        publish: 2023-10-29
+      - name: Wrap up
+        path: src/lessons/working-with-data/wrap-up.md
+        publish: 2023-10-29
+      - name: 'Bonus: Split strings'
+        path: src/lessons/conditionals/split-strings.md
+        publish: 2023-10-29
+      - name: 'Bonus: The debugging mindset'
+        path: src/lessons/working-with-data/the-debugging-mindset.md
+        publish: 2023-10-29
+  - name: 'Week 2: Conditionals'
+    activities:
+      - name: 'Week 2 Overview'
+        path: src/lessons/conditionals.md
+        publish: 2023-11-04
+      - name: Simple Decisions
+        path: src/lessons/conditionals/simple-decisions.md
+        publish: 2023-11-04
+      - name: Boolean Expressions
+        path: src/lessons/conditionals/simple-decisions/boolean-expressions.md
+        publish: 2023-11-04
+      - name: If-Else
+        path: src/lessons/conditionals/simple-decisions/if-else.md
+        publish: 2023-11-04
+      - name: Multi-way Decisions
+        path: src/lessons/conditionals/multi-way-decisions.md
+        publish: 2023-11-04
+      - name: Elif
+        path: src/lessons/conditionals/multi-way-decisions/elif.md
+        publish: 2023-11-04
+      - name: And, Or, Not
+        path: src/lessons/conditionals/multi-way-decisions/and-or-not.md
+        publish: 2023-11-04
+      - name: Nested Conditionals
+        path: src/lessons/conditionals/multi-way-decisions/nested-conditionals.md
+        publish: 2023-11-04
+      - name: Conditionals Practice
+        path: src/lessons/conditionals/practice-conditionals.md
+        publish: 2023-11-04
+      - name: Project
+        path: src/lessons/conditionals/project.md
+        publish: 2023-11-04
+      - name: Wrap up
+        path: src/lessons/conditionals/wrap-up.md
+        publish: 2023-11-04
+      - name: Bonus
+        path: src/lessons/conditionals/bonus.md
+        publish: 2023-11-04
+  - name: 'Week 3: Loops'
+    activities:
+      - name: 'Week 3 Overview'
+        path: src/lessons/loops.md
+        publish: 2023-11-11
+      - name: While loops
+        path: src/lessons/loops/while-loops.md
+        publish: 2023-11-11
+      - name: For loops
+        path: src/lessons/loops/for-loops.md
+        publish: 2023-11-11
+      - name: Range function
+        path: src/lessons/loops/range-function.md
+        publish: 2023-11-11
+      - name: Debugging Loops
+        path: src/lessons/loops/debugging-loops.md
+        publish: 2023-11-11
+      - name: Loops Practice
+        path: src/lessons/loops/practice-loops-and-conditionals.md
+        publish: 2023-11-11
+      - name: Project
+        path: src/lessons/loops/project.md
+        publish: 2023-11-11
+      - name: Wrap up
+        path: src/lessons/loops/wrap-up.md
+        publish: 2023-11-11
+  - name: 'Week 4: Lists and Loops'
+    activities:
+      - name: 'Week 4 Overview'
+        path: src/lessons/lists-and-loops.md
+        publish: 2023-11-18
+      - name: List basics
+        path: src/lessons/lists-and-loops/list-basics.md
+        publish: 2023-11-18
+      - name: Mutating Lists
+        path: src/lessons/lists-and-loops/mutating-lists.md
+        publish: 2023-11-18
+      - name: Lists Practice
+        path: src/lessons/lists-and-loops/practice-lists.md
+        publish: 2023-11-18
+      - name: Loop patterns
+        path: src/lessons/lists-and-loops/loop-patterns.md
+        publish: 2023-11-18
+      - name: Loops, Conditions, and Lists
+        path: src/lessons/lists-and-loops/conditions-and-lists.md
+        publish: 2023-11-18
+      - name: Lists and loops practice
+        path: src/lessons/lists-and-loops/practice-lists-and-loops.md
+        publish: 2023-11-18
+      - name: Wrap up
+        path: src/lessons/lists-and-loops/wrap-up.md
+        publish: 2023-11-18
+  - name: 'Week 5: Final Project and Wrap up'
+    activities:
+      - name: Final Project instructions
+        path: src/lessons/final-project-instructions.md
+        publish: 2023-11-25
+      - name: Final Project inspiration
+        path: src/lessons/final-project-instructions/final-project-inspiration.md
+        publish: 2023-11-25
+      - name: Final Steps
+        path: src/lessons/wrapping-up-final-steps.md
+        publish: 2023-11-25
