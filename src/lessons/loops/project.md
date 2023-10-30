@@ -6,7 +6,7 @@ _Estimated time: 2 hours_
 
 ## Individual Project: Guess My Number
 <!-- TODO update date -->
-**Due date: Sunday Jul 23**
+**Due date: Sunday Nov 19**
 
 <aside>
 
@@ -20,7 +20,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 🔢 Write a program that asks a user to guess the value of a number chosen between 1 and 99. Let the user know if their guess is too low, too high, or correct.
 
-> [**Access** the assignment in Replit here](https://replit.com/team/tk9-fpwp/Project-Guess-My-Number)
+> [**Access** the assignment in Replit here](https://replit.com/team/tk10-fpwp/Project-Guess-My-Number)
 
 ### Part 2
 
