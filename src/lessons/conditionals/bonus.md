@@ -29,7 +29,7 @@ In this project, you'll use the `random` and `time` modules to help you create a
 
 <aside>
 
-[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/tk9-fpwp/Bonus-Quick-Draw-Project)
+[✂️ **Access** and **submit** the project in Replit here](https://replit.com/team/tk10-fpwp/Bonus-Quick-Draw-Project)
 
 </aside>
 
