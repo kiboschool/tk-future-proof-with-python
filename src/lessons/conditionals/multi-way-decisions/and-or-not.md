@@ -90,6 +90,6 @@ In this practice, you will write a program that asks the user for a number then 
 
 <aside>
 
-[✂️ **Access** and **submit** the practice here](https://replit.com/team/tk9-fpwp/Print-multiples)
+[✂️ **Access** and **submit** the practice here](https://replit.com/team/tk10-fpwp/Print-multiples)
 
 </aside>
