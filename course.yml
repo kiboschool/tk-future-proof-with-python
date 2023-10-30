@@ -25,6 +25,7 @@ units:
         publish: 2023-10-29
       - name: Variables and Assignment
         path: src/lessons/working-with-data/variables-and-assignment.md
+        publish: 2023-10-29
       - name: Data types operators and expressions
         path: src/lessons/working-with-data/data-types-operators-and-expressions.md
         publish: 2023-10-29
