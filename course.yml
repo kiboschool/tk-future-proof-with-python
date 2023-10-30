@@ -144,10 +144,10 @@ units:
     activities:
       - name: Final Project instructions
         path: src/lessons/final-project-instructions.md
-        publish: 2023-11-18
+        publish: 2023-11-25
       - name: Final Project inspiration
         path: src/lessons/final-project-instructions/final-project-inspiration.md
-        publish: 2023-11-18
+        publish: 2023-11-25
       - name: Final Steps
         path: src/lessons/wrapping-up-final-steps.md
-        publish: 2023-11-18
+        publish: 2023-11-25
