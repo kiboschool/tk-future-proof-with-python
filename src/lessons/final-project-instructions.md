@@ -51,11 +51,11 @@ You’ll should figure out what works best for your team. The best teams communi
 
 ## Submitting the Project
 <aside>
-Final project submission deadline is Friday Aug 4, 2023.
+Final project submission deadline is Friday December 1, 2023.
 <!-- TODO update date -->
 </aside>
 <aside>
-Access and submit the Final Project on Replit <a href="https://replit.com/team/tk9-fpwp/Final-Project" target="_blank">here.</a>
+Access and submit the Final Project on Replit <a href="https://replit.com/team/tk10-fpwp/Final-Project" target="_blank">here.</a>
 </aside>
 
 ✨✨Have fun!✨✨
