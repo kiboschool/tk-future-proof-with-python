@@ -67,7 +67,7 @@ Watch the video below to see the full solution. Make sure you give yourself enou
 
 💪🏿 Create a program that calculates body mass index, which is used to determine if a person's weight is a healthy proportion for their height.
 
-[**Access** and **submit** in Replit here](hhttps://replit.com/team/tk10-fpwp/P12-Body-Mass-Index)
+[**Access** and **submit** in Replit here](https://replit.com/team/tk10-fpwp/P12-Body-Mass-Index)
 
 </aside>
 
