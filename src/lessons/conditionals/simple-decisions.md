@@ -16,7 +16,7 @@ Programs also need to make decisions. Depending on the circumstances, programs s
 
 In this lesson, you’ll learn how to write programs that can make simple decisions using `if` statements. `if` (and related keywords `else` and `elif`) will let you write code that can handle different situations appropriately.
 
-![2%201%20Simple%20decisions%20efbfa340f5df47bd9059c5d369f5793d/Screen_Shot_2021-07-27_at_3.10.10_PM.png](/simple-decisions/screen-shot-2021-07-27-at-3.10.10-pm.png)
+![if-statement.png](/simple-decisions/screen-shot-2021-07-27-at-3.10.10-pm.png)
 
 In the example above, you are going to stay at the party if you do not feel awkward. You can write that decision in a general `if` statement:
 
