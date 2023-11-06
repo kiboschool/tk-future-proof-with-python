@@ -35,4 +35,4 @@ In this project, you'll use the `random` and `time` modules to help you create a
 
 **A note on using Replit for group projects:** the link above will take you to the team page. Scroll down until you see the project then click “Select project group.” You’ll see existing groups that you can join. You will also be able to create a new group. Note that you can’t switch groups after you join, so make sure you confirm your group members (in Discord #help-python) first. If you absolutely need to switch your group, post in Discord and an administrator will help you.
 
-![group project replit screenshot](/future-proof-with-python/conditionals/group-project.png)
+![group project replit screenshot](group-project.png)
