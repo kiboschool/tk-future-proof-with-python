@@ -14,7 +14,7 @@ Below is the flow control diagram for a multi-branch program:
 
 <div style="text-align:center">
 
-![multi-way-flowchart](/future-proof-with-python/conditionals/multi-way-decisions/multi-way1.png)
+![multi-way-flowchart](multi-way1.png)
 
 </div>
 
@@ -47,10 +47,10 @@ There is no limit on the number of `elif` statements that can be added, but the 
 
 </aside>
 
-![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Screen_Shot_2021-07-27_at_3.10.10_PM.png](/future-proof-with-python/conditionals/simple-decisions/screen-shot-2021-07-27-at-3.10.10-pm.png)
+![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Screen_Shot_2021-07-27_at_3.10.10_PM.png](screen-shot-2021-07-27-at-3.10.10-pm.png)
 
 Sample run of the code now look like this:
 
-![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%202.png](/future-proof-with-python/conditionals/simple-decisions/untitled-2.png)
+![2%202%20Multi-way%20decisions%205adb8178795a43bf9ff453def27f562e/Untitled%202.png](untitled-2.png)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk10-fpwp/W23-Free-Food" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
