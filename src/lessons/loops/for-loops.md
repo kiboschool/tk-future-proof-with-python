@@ -21,7 +21,7 @@ for variable in items:
 
 The flow chart of a `for` loop is:
 
-![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled.png](/future-proof-with-python/loops/for-loops/untitled.png)
+![For-Loops-1.png](for-loops/untitled.png)
 
 Let's take a look at an example of a `for` loop:
 
@@ -97,7 +97,7 @@ We’ll cover the list syntax `[5, 4, 3, 2, 1]` in more detail later in the cour
 
 The output should be like this screenshot:
 
-![3%202%20for%20Loops%20721ac373d0a3462ab0af763db53992b7/Untitled%201.png](/future-proof-with-python/loops/for-loops/untitled-1.png)
+![For-Loops-2.png](for-loops/untitled-1.png)
 
 </aside>
 
