@@ -29,7 +29,7 @@ Unlike an `if` statement, however, after executing the block, a `while` loop che
 
 Here’s a flow chart depicting a `while` loop:
 
-![3%201%20while%20Loops%2085d2cab20b38436b81b4c9fbb404a14d/Untitled.png](/future-proof-with-python/loops/while-loops/untitled.png)
+![while-loop.png](while-loops/untitled.png)
 
 The flow of a `while` statement is:
 
@@ -55,7 +55,7 @@ while user_entry != password:
 
 In the example above, the program will keep prompting the user for a password _while_ the user's input is not the expected value.
 
-![Untitled Project.gif](/future-proof-with-python/loops/while-loops/untitled-project.gif)
+![while-loops-2.gif](while-loops/untitled-project.gif)
 
 Below is another example:
 
@@ -97,7 +97,7 @@ while a < 10:
 
 Let’s visualize how this code runs:
 
-![SophisticatedWhisperedHamadryas-max-1mb.gif](/future-proof-with-python/loops/while-loops/sophisticatedwhisperedhamadryas-max-1mb.gif)
+![while-loops-1.gif](while-loops/sophisticatedwhisperedhamadryas-max-1mb.gif)
 
 In the animation, you can see the variable `a` change over time, and the loop condition checked before each execution of the loop body.
 
