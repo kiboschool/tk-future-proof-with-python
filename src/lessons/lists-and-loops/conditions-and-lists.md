@@ -114,7 +114,7 @@ With one small change, this same code works to find the largest value instead.
 
 The program should look like this when it runs:
 
-![enter.png](/future-proof-with-python/lists-and-loops/debugging-loops-and-lists/enter.png)
+![enter.png](debugging-loops-and-lists/enter.png)
 
 </aside>
 
