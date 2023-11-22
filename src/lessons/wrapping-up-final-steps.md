@@ -88,6 +88,6 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![image (46)](/images/3.png)
+![image (6)](/images/3.png)
 
-![image (47)](/images/4.png)
+![image (7)](/images/4.png)
