@@ -1,18 +1,17 @@
 # Wrapping up: Final steps for Future Proof with Python
 
----
 
 Congratulations on **_almost_** finishing your FPWP journey. Below is what you need to do to finish strong.
 
 ## Earn Your Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Aug 4**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 1**
 
 <!-- TODO update date -->
 
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the **[Final Project](./final-project-instructions.md)**
-- Complete the <a href="https://forms.gle/7pkJZvEUeeFZKUMH8" target="_blank">**Program Feedback Survey**</a>
+- Complete the **[Final Project](https://lms.kibo.school/course/tkfpwp_oct_2023/week_5_final_project_and_wrap_up/final_project_instructions)**
+- Complete the <a href="https://forms.gle/dBRKYm9dorm1mmPY9" target="_blank">**Program Feedback Survey**</a>
 
 ---
 
@@ -20,41 +19,28 @@ You have worked really hard and we want to recognize that work with a certificat
 
 ![Mar 2023 Degree Promo - Twitter (1)](/images/1.png)
 
-From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. Build a career of impact as a world-class technologist at Kibo.
+From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. If you would like to build a career of impact as a world-class technologist at Kibo, learn more and indicate your interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
 
-Learn more and indicate you interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
-
----
+Application opens in 2024!
 
 
-## Share your experience
+## Share your experience and give us permission to share
 
-<aside>
+We would love to highlight your story to other young Africans just like you. Here are the steps to help us share your story.
 
-🎥 **Record a video testimonial**
-We would love to highlight your story to other young Africans just like you✨ <a href="https://forms.gle/M4TSBpL6F2kM3Xrh7" target = "_blank">**Visit this form** </a> to record and upload answers to a few questions about your experience.
+- Share a social media post talking about your Try Kibo experience. Tag us (@kiboschool) across any platforms that you use and we will reshare 
+- Record yourself answering a few questions and upload them <a href="https://airtable.com/appUNyakDh27cCTyP/shrehqMQH4NOVXubq" target = "_blank">**in this form** </a>
+- Give us permission to edit and share your video experience by filling out **[this release form](https://kibo-school.typeform.com/release-form)**
 
-</aside>
-
-<aside>
-
-🖋️ **Give us permission**
-We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://kibo-school.typeform.com/release-form)**
-
-</aside>
-
-Here are some testimonials from Try Kibo Alumni of previous cohorts
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+You ca n read/watch testimonials from other Try Kibo alumni on <a href="https://www.linkedin.com/posts/aziz-chebil-5743731b7_kibo-onlinelearning-africa-activity-7044623279298351105-FyBw?" target = "_blank">LinkedIn</a> and <a href="https://www.youtube.com/watch?v=f7araLLjUWo&list=PLEApm5XV23vX9E6diwGxZKqVReU8-0Q-9" target = "_blank">YouTube </a>
 
 ![Tips For Pets Keeping YouTube Thumbnail (5)](/images/2.png)
-
 
 ---
 
 ## Stay in the Kibo family
 
-**Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more community events like the fireside chat.
+**Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alumni, stay connected with your peers, and be invited to more community events like the fireside chat.
 
 **Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know!
 
@@ -64,7 +50,7 @@ Here are some testimonials from Try Kibo Alumni of previous cohorts
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude:
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/k9lk72lhey17gkew" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/mtv54yu11hjkffl" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -88,6 +74,7 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![image (46)](/images/3.png)
+![Screenshot 2023-11-01 125556](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/bb316873-ff0b-43e8-aad4-3f182ebb03b8)
 
-![image (47)](/images/4.png)
+![Screenshot 2023-10-28 124100](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/a42bf108-926b-4ad4-9b7f-4d2a30400010)
+
