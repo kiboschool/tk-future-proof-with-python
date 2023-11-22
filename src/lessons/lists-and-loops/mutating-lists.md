@@ -67,7 +67,7 @@ Try this quiz to check how well you understand what list operations will do.
 
 A sample run of your code should look like this:
 
-![967C2CAE-7F32-4C99-A035-74A8D0E206C1-535-0003A68938832020.png](/future-proof-with-python/lists-and-loops/list-basics/c2cae-7f32-4c99-a035-74a8d0e206c1-535-0003a68938832020.png)
+![967C2CAE-7F32-4C99-A035-74A8D0E206C1-535-0003A68938832020.png](list-basics/c2cae-7f32-4c99-a035-74a8d0e206c1-535-0003a68938832020.png)
 
 </aside>
 
